@@ -1,0 +1,61 @@
+---
+title: ""
+pagetitle: "Liên hệ và hẹn nói chuyện — NoraStudies"
+description: "Buổi nói chuyện đầu 30 phút, không thu phí. Zalo, WhatsApp, email. Nguyễn Thái Hà, Đà Nẵng."
+---
+
+::: {.hero}
+
+::: {.eyebrow}
+Liên hệ
+:::
+
+# Ba mươi phút đầu, không thu phí, không ràng buộc gì
+
+::: {.lede}
+Bạn kể mình nghe bạn đang ở đâu, mình nói cho bạn biết nên vào từ chặng nào. Nếu mình thấy bạn chưa cần tới mentor, mình cũng nói thẳng như vậy 🙂
+:::
+
+[Nhắn Zalo cho mình](https://zalo.me/84933331838){.cta}
+[Nhắn WhatsApp](https://wa.me/84933331838?text=Ch%C3%A0o%20Nora%2C%20m%C3%ACnh%20mu%E1%BB%91n%20h%E1%BA%B9n%20bu%E1%BB%95i%20n%C3%B3i%20chuy%E1%BB%87n%2030%20ph%C3%BAt.){.cta-quiet}
+
+:::
+
+## Buổi nói chuyện diễn ra thế nào
+
+Ba mươi phút, qua Google Meet hoặc Zalo. Không có phần giới thiệu dài dòng, hai bên vào việc luôn.
+
+**Mười phút đầu, bạn nói.** Bạn đang học năm thứ mấy, ở trường nào, chương trình tiếng Việt hay tiếng Anh, đề tài là gì, đang mắc ở chỗ nào, trường yêu cầu mốc nào.
+
+**Mười phút giữa, mình hỏi.** Mấy câu này thường làm lộ ra chỗ mắc thật sự, mà nhiều khi không phải chỗ bạn nghĩ.
+
+**Mười phút cuối, mình nói thẳng.** Bạn nên vào từ chặng nào, mất bao lâu, và có đáng bỏ tiền ra không. Nếu câu trả lời là chưa cần thì mình nói chưa cần. Nếu chương trình của bạn nằm ngoài phần mình thuộc, mình giới thiệu bạn tới người hợp hơn, không lấy gì cả.
+
+Sau buổi đó, nếu hai bên thấy hợp, mình gửi bạn một lộ trình riêng viết ra giấy: mốc nào làm gì, hạn nào, sản phẩm nào. Bạn đọc rồi mới quyết.
+
+## Nhắn cho mình ở đâu cũng được
+
+{{< include _xa-hoi-chu.qmd >}}
+
+::: {.note}
+**Nếu bạn nhắn để rủ mình làm nghiên cứu chung**, chứ không phải để tìm mentor, thì cứ nói thẳng ngay từ dòng đầu. Mình đang tìm người cùng làm về mặt tối của công nghệ với người lao động, về hành vi xã hội, và về nghiên cứu định tính quy mô nhỏ. Chuyện đó là hợp tác đồng tác giả, không phải mua bán dịch vụ, nên mình xếp lịch riêng.
+:::
+
+::: {.note}
+**Nhắn tin thì bạn kể giúp mình bốn thứ này**, buổi nói chuyện sẽ đi thẳng vào việc của bạn thay vì mất mười phút hỏi qua lại: bạn đang học năm thứ mấy và ở trường nào, chương trình tiếng Việt hay tiếng Anh, đề tài đang làm là gì, và mốc gần nhất trường yêu cầu là khi nào.
+:::
+
+## Trước khi nhắn tin
+
+Hai trang này trả lời phần lớn câu hỏi, và đọc trước thì buổi nói chuyện của hai bên đi được sâu hơn.
+
+[Cách mình làm việc](liem-chinh.qmd){.cta-quiet}
+[Câu hỏi thường gặp](hoi-dap.qmd){.cta-quiet}
+
+## Theo dõi mình trước cũng được
+
+Mình đăng nội dung về cách làm nghiên cứu ở các kênh trên. Xem thử một thời gian rồi hẵng quyết định đi cùng nhau cũng là cách hay, để bạn biết mình làm nghề thế nào trước khi trả đồng nào 🌾
+
+Hồ sơ học thuật: [ORCID](https://orcid.org/0000-0002-8865-9461) · [Google Scholar](https://scholar.google.com/citations?user=EWGQWc4AAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Thai-Ha-Nguyen) · [LinkedIn](https://www.linkedin.com/in/nguyenthai-ha/)
+
+{{< include _cam-ket.qmd >}}

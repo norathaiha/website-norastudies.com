@@ -1,0 +1,142 @@
+---
+title: ""
+pagetitle: "Danh mục công bố — Nguyễn Thái Hà"
+description: "16 công trình khoa học của Nguyễn Thái Hà: 8 bài tạp chí có bình duyệt và 8 báo cáo hội thảo, giai đoạn 2023 đến 2026."
+---
+
+::: {.hero}
+
+::: {.eyebrow}
+Công bố
+:::
+
+# Danh mục công trình của mình
+
+::: {.lede}
+Tám bài tạp chí có bình duyệt và tám báo cáo hội thảo, giai đoạn 2023 đến 2026. Số liệu tổng hợp từ hồ sơ ORCID và ResearchGate, cập nhật tháng 7 năm 2026.
+:::
+
+:::
+
+::: {.note}
+**Cách đọc danh mục.** Tên mình được in đậm và tô màu đỏ trong mỗi trích dẫn, để bạn thấy nhanh vị trí của mình trong nhóm tác giả. Những bài mình giữ vai trò tác giả thứ nhất hoặc tác giả liên hệ đều có ghi chú riêng ngay bên dưới.
+
+Thứ tự tên tác giả trong mỗi bài do cả nhóm cùng thống nhất, và mình xin được ghi nhận đóng góp của tất cả các anh chị đồng tác giả trong những công trình này 🌾
+:::
+
+## Bài báo trên tạp chí có bình duyệt
+
+::: {.pub}
+[2026]{.pub-year}[SSCI · Scopus Q1]{.pub-rank}
+[AI awareness, AI fear of missing out, and work demotivation as pathways to occupational strain in Vietnamese hospitality employees]{.pub-title}
+[Pham, T. Q., <strong class="ten-minh">Nguyen, T.-H.</strong>, Nguyen, H.-V., & Le, T. D. *Acta Psychologica*, 269, 107517. DOI 10.1016/j.actpsy.2026.107517]{.pub-venue}
+[Tác giả liên hệ]{.pub-why}
+:::
+
+::: {.pub}
+[2026]{.pub-year}[ESCI · Scopus Q1]{.pub-rank}
+[Virtual destination brand experiences shaping real-world travel intentions: Evidence from global and Vietnamese discourse]{.pub-title}
+[<strong class="ten-minh">Nguyen, T.-H.</strong>, Le, V. H., Pham, T. Q., và cộng sự. *Tourism and Hospitality Research*, đăng trực tuyến trước. DOI 10.1177/14673584251414700]{.pub-venue}
+[Tác giả thứ nhất]{.pub-why}
+:::
+
+::: {.pub}
+[2026]{.pub-year}[ESCI · Scopus Q2]{.pub-rank}
+[Mapping green tourism research (2015-2025): A PRISMA-TCCM systematic review and future research agenda]{.pub-title}
+[Phan, H. B. N., Le, T. D., Phan, T. H., và cộng sự, gồm <strong class="ten-minh">Nguyen, T.-H.</strong> *Cogent Business & Management*, 13(1). DOI 10.1080/23311975.2026.2651380]{.pub-venue}
+:::
+
+::: {.pub}
+[2026]{.pub-year}[ESCI · Scopus Q2]{.pub-rank}
+[From service quality experience to advocacy in informal paratransit: A higher-order partial least squares structural equation modelling study in Vietnam]{.pub-title}
+[Pham, T. Q., & <strong class="ten-minh">Nguyen, T.-H.</strong> *Journal of Transport and Supply Chain Management*, 20. DOI 10.4102/jtscm.v20i0.1247]{.pub-venue}
+[Tác giả liên hệ]{.pub-why}
+:::
+
+::: {.pub}
+[2024]{.pub-year}[Scopus Q2]{.pub-rank}
+[Mapping emotional intelligence and job performance: A bibliometric and thematic analysis]{.pub-title}
+[Ho, T. T., Phan, T. H., <strong class="ten-minh">Nguyen, T.-H.</strong>, & Mai, T. T. *Problems and Perspectives in Management*, 23(1), 1-22. DOI 10.21511/ppm.23(1).2025.01]{.pub-venue}
+:::
+
+## Bài đăng cùng sinh viên
+
+Hai bài dưới đây là kết quả mình đồng hành cùng sinh viên năm cuối, đưa khoá luận tốt nghiệp của các bạn ấy thành bài đăng được. Mình để riêng ra đây vì tính chất công việc khác hẳn: phần lớn là hướng dẫn, còn tên tuổi và kết quả là của các bạn sinh viên.
+
+::: {.pub}
+[2025]{.pub-year}
+[From AI recommendations to purchase intention: Exploring consumer psychology in the Vietnamese e-commerce market (the case of Da Nang)]{.pub-title}
+[Ngo, P. U. V., <strong class="ten-minh">Nguyen, T.-H.</strong>, & Le, H. T. T. Tháng 10 năm 2025]{.pub-venue}
+:::
+
+::: {.pub}
+[2025]{.pub-year}
+[PRISMA-based systematic review of immersive experiences and consumer behavior: Theoretical perspectives and models]{.pub-title}
+[Nguyen, V. Q. A., Phan, Q. N., Nguyen, T. H., & <strong class="ten-minh">Nguyen, T.-H.</strong> Tháng 9 năm 2025]{.pub-venue}
+:::
+
+::: {.pub}
+[2025]{.pub-year}
+[A conceptual SRLbot model for higher education based on Zimmerman's Self-Regulated Learning model]{.pub-title}
+[<strong class="ten-minh">Nguyen, T.-H.</strong>, Saiia, D. H., Phan, T. T. D., và cộng sự. Tháng 9 năm 2025]{.pub-venue}
+:::
+
+## Báo cáo hội thảo khoa học
+
+::: {.pub}
+[2025]{.pub-year}
+[Choosing e-commerce major: A two-stage approach to the influence of individual characteristics on learning motivation and career adaptability]{.pub-title}
+[Mai, B. X., <strong class="ten-minh">Nguyen, T.-H.</strong>, & Duy, L. H. T. Tháng 10 năm 2025, báo cáo bằng tiếng Việt]{.pub-venue}
+:::
+
+::: {.pub}
+[2025]{.pub-year}
+[Understanding the factors influencing students' preferences for coffee shops as informal learning spaces: A qualitative approach]{.pub-title}
+[Nguyen, P. A. N., <strong class="ten-minh">Nguyen, T.-H.</strong>, & Nguyen, T. V. Tháng 8 năm 2025]{.pub-venue}
+:::
+
+::: {.pub}
+[2025]{.pub-year}
+[Experiencing Hue through foreign eyes: A reflexive thematic analysis of international tourists' cultural impressions]{.pub-title}
+[Phan, C.-T., Vo, C. H., Gorospe, J. C., và cộng sự, gồm <strong class="ten-minh">Nguyen, T.-H.</strong> Tháng 8 năm 2025]{.pub-venue}
+:::
+
+::: {.pub}
+[2025]{.pub-year}
+[The impact of AI-based personalized product recommendations on consumer attitudes and purchase intention in Vietnamese e-commerce]{.pub-title}
+[Ngo, P. U. V., Le, H. T. T., & <strong class="ten-minh">Nguyen, T.-H.</strong> Tháng 8 năm 2025]{.pub-venue}
+:::
+
+::: {.pub}
+[2025]{.pub-year}
+[Between dream and doubt: A reflexive thematic analysis of real estate sentiment in Da Nang]{.pub-title}
+[Nguyen, T. Q., Nguyen, H. B. T., & <strong class="ten-minh">Nguyen, T.-H.</strong> Tháng 8 năm 2025]{.pub-venue}
+:::
+
+::: {.pub}
+[2024]{.pub-year}
+[Thematic analysis of green supply chain trends: Global practices and implications for Vietnam]{.pub-title}
+[<strong class="ten-minh">Nguyen, T.-H.</strong> Tháng 11 năm 2024]{.pub-venue}
+:::
+
+::: {.pub}
+[2024]{.pub-year}
+[The impact of technological dependency on student well-being and academic outcomes: A qualitative analysis using Person-Environment Fit Theory]{.pub-title}
+[<strong class="ten-minh">Nguyen, T.-H.</strong>, Phan, C.-T., Phan, N., & Nguyen, N. M. D. Tháng 8 năm 2024]{.pub-venue}
+:::
+
+::: {.pub}
+[2023]{.pub-year}
+[Exploring short-form videos addiction: Understanding influential factors from the perspective of the Stress-Coping Theory]{.pub-title}
+[<strong class="ten-minh">Nguyen, T.-H.</strong> Tháng 8 năm 2023]{.pub-venue}
+:::
+
+## Muốn đọc bài nào
+
+Toàn bộ danh mục trên tra được tại [ORCID 0000-0002-8865-9461](https://orcid.org/0000-0002-8865-9461), [Google Scholar](https://scholar.google.com/citations?user=EWGQWc4AAAAJ) và [ResearchGate](https://www.researchgate.net/profile/Thai-Ha-Nguyen).
+
+Bài nào đăng ở tạp chí truy cập mở thì bạn bấm vào DOI là tải được bản đầy đủ. Bài nào nhà xuất bản chưa mở, bạn cứ nhắn cho mình, mình gửi bạn.
+
+[Đọc thêm về mình](ve-nora.qmd){.cta-quiet}
+
+{{< include _cam-ket.qmd >}}

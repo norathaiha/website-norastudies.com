@@ -1,0 +1,290 @@
+---
+title: ""
+pagetitle: "Nguyễn Thái Hà — Nora Thai"
+description: "Nguyễn Thái Hà, bút danh Nora Thai. Nghiên cứu viên Viện Nghiên cứu Kinh tế Xã hội, Đại học Duy Tân. Nghiên cứu sinh Quản trị Kinh doanh, Trường Đại học Kinh tế, Đại học Đà Nẵng."
+---
+
+<!--
+TRANG NÀY LÀ TRANG CÁ NHÂN, KHÔNG PHẢI TRANG BÁN HÀNG.
+Giữ nó tách khỏi phần dịch vụ để sau này dùng được cho việc khác:
+nộp hồ sơ, giới thiệu ở hội thảo, gắn vào chữ ký email, gửi cho nhà tuyển dụng.
+
+CÁCH NHÚNG VIDEO YOUTUBE:
+Mở video trên YouTube, nhìn thanh địa chỉ:
+    https://www.youtube.com/watch?v=dQw4w9WgXcQ
+                                   ^^^^^^^^^^^ đây là mã video
+
+Thay khối ::: {.video .video-cho} ... ::: bằng khối này,
+và thay MÃ_VIDEO bằng mã vừa lấy:
+
+::: {.video}
+<iframe src="https://www.youtube-nocookie.com/embed/MÃ_VIDEO"
+        title="Tên video"
+        allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen loading="lazy"></iframe>
+:::
+[Chú thích dưới video]{.video-caption}
+-->
+
+::: {.hero}
+
+::: {.eyebrow}
+Nguyễn Thái Hà · Nora Thai · Solo researcher
+:::
+
+# Mình đi tìm câu trả lời cho chữ "vì sao", ở quy mô đủ nhỏ để còn nhìn thấy từng người trong đó
+
+::: {.lede}
+Nghiên cứu viên tại Viện Nghiên cứu Kinh tế Xã hội, Đại học Duy Tân. Nghiên cứu sinh ngành Quản trị Kinh doanh tại Trường Đại học Kinh tế, Đại học Đà Nẵng. Trước đó làm marketing thực chiến cho doanh nghiệp vừa và nhỏ. Sống và làm việc ở Đà Nẵng 🌾
+:::
+
+:::
+
+::: {.vuon}
+:::
+
+[Một vườn anh túc, để chào bạn 🌾]{.video-caption}
+
+## Mình là ai
+
+Mình tên Nguyễn Thái Hà, sinh năm 1992 ở Thái Nguyên. Trong các công bố quốc tế mình ký tên Thai-Ha Nguyen, còn Nora Thai là tên mình dùng ở những chỗ khác.
+
+Công việc chính của mình là nghiên cứu viên tại Viện Nghiên cứu Kinh tế Xã hội, Đại học Duy Tân. Mình có dạy thêm một ít học phần marketing và phương pháp nghiên cứu ở Khoa Marketing của trường, nhưng khối lượng giảng dạy không nhiều. Phần lớn thời gian của mình dành cho nghiên cứu.
+
+Mình vào nghiên cứu sinh tháng 9 năm 2023. Dự kiến bảo vệ luận án cấp trường vào tháng 12 năm 2026 và nhận bằng trong năm 2027, tính từ lúc nhập học tới lúc nhận bằng là ba năm tám tháng.
+
+::: {.note}
+**Solo researcher.** Mình hay tự gọi mình như vậy. Một người làm nghiên cứu, tự chọn câu hỏi, tự đi tìm câu trả lời, không nằm trong một nhóm lớn nào và cũng không chờ ai giao đề tài. Vừa làm nghiên cứu vừa làm marketing thật, vừa đi cùng người khác trên đường của họ 🙂
+:::
+
+::: {.hoa}
+:::
+
+## Mình không đi ra từ trường học
+
+Trước khi bước vào con đường học thuật, mình làm marketing cho các doanh nghiệp vừa và nhỏ. Viết nội dung, dựng website trên WordPress, làm SEO cả on-page lẫn off-page, và trong một giai đoạn thì tự điều hành doanh nghiệp của chính mình. Đó không phải marketing trong giáo trình, mà là marketing của những tháng phải nhìn vào doanh thu để biết tháng sau xoay xở ra sao.
+
+Quãng thời gian ấy để lại cho mình hai điều mà bây giờ mình vẫn dùng mỗi ngày.
+
+Điều thứ nhất là thói quen đọc một con số theo hai lớp. Lớp thứ nhất là con số ấy có ý nghĩa thống kê hay không. Lớp thứ hai, và cũng là lớp mình quan tâm hơn, là con số ấy có ý nghĩa gì với những người đang đứng phía sau nó, trong công việc và trong sinh hoạt hằng ngày của họ.
+
+Điều thứ hai là sự thoải mái khi ngồi trò chuyện với những người có hoàn cảnh và cách nghĩ rất khác nhau: một anh chủ doanh nghiệp đang cân nhắc ngân sách, một chị bán hàng đứng quầy cả ngày, một khách hàng vừa gặp chuyện không vừa ý. Điều họ chia sẻ ở câu đầu tiên thường chưa phải điều họ thật sự nghĩ, và mình học được cách kiên nhẫn ngồi lại đủ lâu để câu chuyện thật hiện ra.
+
+Điều thứ hai này về sau lại là thứ giúp mình nhiều nhất khi làm nghiên cứu định tính. Một buổi phỏng vấn sâu đi được tới đâu phần lớn phụ thuộc vào việc người đối diện có thấy đủ an tâm để kể thật hay không, và đó là chuyện của sự lắng nghe nhiều hơn là của kỹ thuật.
+
+Hiện tại mình làm việc ở khoảng giữa của hai thế giới đó. Mình nghiên cứu về marketing, và mình cũng đã từng trực tiếp làm marketing với đầy đủ những lần thành công lẫn những lần phải trả giá để rút kinh nghiệm. Nhờ vậy, khi bạn hỏi mình về một khái niệm trong mô hình nghiên cứu, mình có thể trả lời từ phía lý thuyết, đồng thời chỉ cho bạn thấy khái niệm ấy phản chiếu ra sao trong thực tiễn, và sợi dây nối giữa hai bên nằm ở đâu 🙂
+
+::: {.hoa}
+:::
+
+## Nghiên cứu, với mình, là một sở thích
+
+Mình không coi nghiên cứu như một công việc từ chín giờ sáng tới năm giờ chiều đầy áp lực. Mình đến với nó theo cách người ta đến với một thú vui mà mình thật lòng yêu thích.
+
+Phần mình thích nhất là được ngồi quan sát. Nhìn một sự việc đang diễn ra quanh mình rồi tự hỏi vì sao nó lại thành ra như vậy, cơ chế nào đứng phía sau, và những điều kiện xã hội nào phải cùng xuất hiện thì sự việc ấy mới có thể xảy ra. Câu hỏi nghe thì giản dị, nhưng để trả lời được một cách có cơ sở thì cần khá nhiều thời gian và sự kiên nhẫn.
+
+Những người mình mong hiểu được thường đang ở phía chịu nhiều thiệt thòi hơn, trong những hoàn cảnh mà chính họ không có mấy quyền lựa chọn.
+
+::: {.card-grid}
+
+::: {.card .sac-do .reveal}
+<span class="card-bt"><img src="/assets/bt-lao-dong.svg" alt=""></span>
+
+[Người lao động]{.card-note}
+
+### Người trên bốn mươi tuổi giữa thời của trí tuệ nhân tạo
+
+Nhiều anh chị đã gắn bó hai mươi năm với một bộ kỹ năng, rồi công nghệ thay đổi cách vận hành của cả ngành chỉ trong vài tháng. Điều mình muốn hiểu là họ đang xoay xở ra sao, họ được và mất những gì, và ai trong số họ đang chịu phần khó khăn nhất.
+:::
+
+::: {.card .sac-man .reveal}
+<span class="card-bt"><img src="/assets/bt-quan-he.svg" alt=""></span>
+
+[Phụ nữ]{.card-note}
+
+### Những ràng buộc khó gọi tên trong đời sống tình cảm
+
+Có những hoàn cảnh mà người đứng ngoài nhìn vào thường hỏi vì sao không rời đi, còn người ở trong thì hiểu rằng chuyện không đơn giản như vậy. Mình quan tâm tới việc điều gì đang giữ họ lại, và điều đó được hình thành từ những gì.
+:::
+
+::: {.card .sac-xanh .reveal}
+<span class="card-bt"><img src="/assets/bt-du-muc.svg" alt=""></span>
+
+[Người nước ngoài]{.card-note}
+
+### Expat trong dòng người làm việc từ xa
+
+Nhiều anh chị chọn Đà Nẵng làm nơi sinh sống và làm việc từ xa. Mình muốn tìm hiểu họ xây dựng đời sống ở đây theo cách nào, họ gặp gỡ cộng đồng bản địa ở những điểm nào, và đâu là chỗ hai bên còn hiểu nhau chưa trọn vẹn.
+:::
+
+::: {.card .sac-la .reveal}
+<span class="card-bt"><img src="/assets/bt-noi-chon.svg" alt=""></span>
+
+[Nơi chốn]{.card-note}
+
+### Đà Nẵng và dải đất miền Trung ven biển
+
+Mình sống ở đây, nên mình bắt đầu quan sát từ chính nơi mình đang đứng. Từ Đà Nẵng, mình nhìn rộng ra các tỉnh ven biển miền Trung, rồi đặt cạnh những vùng có điều kiện tự nhiên và kinh tế khác trong nước để thấy rõ hơn.
+:::
+
+:::
+
+Mình cũng mong có dịp đưa những quan sát này ra khỏi phạm vi một quốc gia. Khi đặt một hiện tượng ở Đà Nẵng bên cạnh một thành phố có điều kiện tương đồng tại Malaysia, Thái Lan, Lào hay Campuchia, chúng ta sẽ thấy phần nào là đặc điểm chung của cả khu vực, và phần nào thật sự thuộc về bối cảnh văn hoá riêng của từng nơi. Đây chính là hướng nghiên cứu liên văn hoá, và nó thường giúp câu trả lời trở nên rõ ràng hơn nhiều so với việc chỉ nhìn một địa bàn duy nhất.
+
+::: {.note}
+**Nghiên cứu mình mong muốn theo đuổi không mang tính vĩ mô.** Quy mô của nó nhỏ, nhưng đi sâu, và chạm được vào những điều rất đỗi thường ngày trong đời sống. Bảy người kể lại câu chuyện của mình một cách kỹ lưỡng và chân thành sẽ cho mình nhiều hiểu biết hơn là bảy trăm phiếu khảo sát được điền cho xong 🌾
+:::
+
+## Luận án mình đang làm
+
+::: {.note}
+**Tác động của thực tế tăng cường đến sự gắn kết thương hiệu của khách hàng tại Việt Nam**
+
+Trường Đại học Kinh tế, Đại học Đà Nẵng · 2023 đến 2027
+:::
+
+Câu hỏi mình đuổi theo khá đơn giản khi nói ra: một trải nghiệm chỉ tồn tại trong lớp ảo phủ lên màn hình điện thoại thì bằng cách nào biến thành hành vi có thật ngoài đời. Người ta thử một thỏi son bằng thực tế tăng cường, không chạm vào gì cả, vậy mà sau đó vẫn mua. Chỗ chuyển hoá đó diễn ra ở đâu, và đo được không.
+
+::: {.hoa}
+:::
+
+## Mình đang đi về đâu
+
+Càng đi sâu vào nghề, mình càng nhận ra chỗ đứng của mình đang dịch chuyển dần, từ lĩnh vực quản trị sang <span class="hl-man">hành vi xã hội</span>.
+
+Điều đang cuốn mình đi lúc này là <span class="hl-do">mặt tối của trí tuệ nhân tạo</span>. Không phải chuyện AI có thay được con người hay không, câu đó đã có quá nhiều người nói rồi. Mình quan tâm tới thứ lặng lẽ hơn: một nhân viên khách sạn sống thế nào khi biết công việc của mình đang bị đo bằng thuật toán, một người lao động mất cái gì khi cứ phải chạy theo công nghệ mà không ai hỏi họ có muốn chạy không, một người dùng bình thường bị đẩy đi đâu bởi những gợi ý mà họ tưởng là mình tự chọn.
+
+Bài trên *Acta Psychologica* năm 2026 là bước đầu của hướng này, về nhận thức AI, nỗi sợ bị bỏ lại phía sau vì AI, và tình trạng kiệt sức nghề nghiệp ở nhân viên khách sạn Việt Nam.
+
+Mình cũng đang dịch dần từ mẫu lớn sang mẫu nhỏ. Mình thích ngồi quan sát, nghe người ta kể, rồi tìm cho ra chữ vì sao trong những chuyện rất đời thường quanh mình. Bảy người kể chuyện kỹ và thành thật thì cho mình nhiều thứ hơn bảy trăm phiếu khảo sát trả lời cho xong.
+
+## Cách mình tiếp cận một câu hỏi nghiên cứu
+
+Mình làm việc được với cả hai lối tiếp cận, định tính và định lượng. Nhưng nếu được chọn, nơi mình muốn ở lại lâu dài là nghiên cứu định tính.
+
+::: {.tiep-can}
+
+::: {.tc-muc .sac-man}
+::: {}
+[Nơi mình gắn bó nhất]{.tc-nhan}
+
+### Nghiên cứu định tính diễn giải
+:::
+
+::: {}
+Mình chọn Framework Analysis khi cần một khung phân tích minh bạch và có thể lặp lại được. Mình chọn phân tích diễn ngôn xã hội khi câu hỏi nằm ở cách người ta nói về một sự việc, chứ không nằm ở bản thân sự việc ấy. Và mình chọn phân tích chủ đề phản tư khi vị trí của chính người nghiên cứu cũng cần được xem là một phần của dữ liệu.
+
+Nền tri thức luận mình dựa vào là kiến tạo xã hội. Theo cách hiểu này, ý nghĩa không nằm sẵn ngoài kia chờ chúng ta đo đạc, mà được hình thành dần trong quá trình con người sống và kể lại trải nghiệm của mình.
+:::
+:::
+
+::: {.tc-muc .sac-la}
+::: {}
+[Nơi mình làm việc được]{.tc-nhan}
+
+### Nghiên cứu định lượng
+:::
+
+::: {}
+Mình mô hình hoá quan hệ giữa các khái niệm tiềm ẩn bằng mô hình cấu trúc, bao gồm cả cấu trúc bậc cao, quan hệ trung gian và quan hệ điều tiết. Mình cũng làm việc với thiết kế và kiểm định thang đo, cùng với kiểm định tính bất biến của đo lường khi cần so sánh giữa các nhóm.
+
+Đây là phần mình sử dụng thành thạo và hướng dẫn được cho bạn, dù không phải là hướng mình dự định gắn bó lâu dài.
+:::
+:::
+
+::: {.tc-muc .sac-xanh}
+::: {}
+[Nơi mình làm nhiều]{.tc-nhan}
+
+### Tổng quan có hệ thống
+:::
+
+::: {}
+PRISMA 2020 kết hợp với khung TCCM là cách mình đã dùng trong bài tổng quan về du lịch xanh đăng năm 2026. Phân tích chủ đề trên tập tài liệu cũng là hướng mình thường chọn, vì nó cho ra một mạch câu chuyện chứ không dừng lại ở một bảng thống kê.
+
+Một bản tổng quan kết hợp hai hoặc ba cách tiếp cận với nhau là hoàn toàn hợp lệ, miễn là bạn trình bày rõ lý do kết hợp và điểm kết hợp nằm ở bước nào trong quy trình.
+:::
+:::
+
+::: {.tc-muc .sac-vang}
+::: {}
+[Nơi mình có kinh nghiệm nhưng ít khuyến khích]{.tc-nhan}
+
+### Trắc lượng thư mục
+:::
+
+::: {}
+Mình đã thực hiện và có bài công bố theo hướng này. Tuy nhiên, nếu bạn hỏi mình có nên chọn trắc lượng thư mục làm phương pháp chính cho luận án hay không, mình thường thưa rằng nên cân nhắc thêm.
+
+Một bản đồ đồng trích dẫn được dựng cẩn thận vẫn rất đẹp và có giá trị riêng của nó. Chỉ là câu chuyện nó kể thường xoay quanh các bài báo nhiều hơn là quanh con người. Nếu bạn vẫn muốn theo hướng này, mình sẵn sàng đi cùng bạn, và mình chia sẻ quan điểm của mình từ đầu để bạn cân nhắc cho thuận tiện.
+:::
+:::
+
+:::
+
+Các khung lý thuyết mình đã làm việc cùng: Job Demands-Resources, Conservation of Resources, Technology Acceptance Model, Stimulus-Organism-Response, Expectancy-Value Theory, Social Cognitive Career Theory, Self-Determination Theory, Person-Environment Fit, Place Attachment, và mô hình tự điều chỉnh việc học của Zimmerman.
+
+## Công bố
+
+Tính tới tháng 7 năm 2026, mình có 16 công trình: 8 bài tạp chí và 8 báo cáo hội thảo. Bốn bài đăng trong năm 2026 thuộc danh mục SSCI hoặc ESCI, trong đó hai bài nằm ở nhóm Scopus Q1. Sáu công bố mình đứng vai tác giả chính hoặc tác giả liên hệ.
+
+[Xem danh mục đầy đủ 16 công trình](cong-bo.qmd){.cta-quiet}
+
+## Đi cùng người khác
+
+Từ năm 2023 mình hướng dẫn các nhóm sinh viên nghiên cứu khoa học tại Đại học Duy Tân. Ba năm, tám công bố hội thảo và tạp chí cùng các bạn ấy, về hành vi người tiêu dùng, thương mại điện tử, du lịch và tâm lý thị trường bất động sản.
+
+Năm 2024, một nhóm mình hướng dẫn đi tới vòng chung kết toàn quốc Giải thưởng Sinh viên nghiên cứu khoa học Euréka, do Thành Đoàn Thành phố Hồ Chí Minh phối hợp Đại học Quốc gia Thành phố Hồ Chí Minh tổ chức. Đây là sân chơi nghiên cứu lớn nhất dành cho sinh viên Việt Nam, mỗi năm hơn hai nghìn đề tài từ hơn một trăm rưỡi trường gửi về.
+
+Từ 2024 mình làm cố vấn viết học thuật: tổ chức hội thảo chuyên đề về quy trình tổng quan hệ thống, chuẩn báo cáo mô hình cấu trúc, và viết tiếng Anh học thuật để công bố quốc tế.
+
+Việc làm mentor cho các bạn nghiên cứu sinh là phần nối dài tự nhiên của mấy năm này.
+
+## Học ở đâu
+
+| Thời gian | Bậc | Trường |
+|---|---|---|
+| 9/2023 đến 2027 | Tiến sĩ Quản trị Kinh doanh, đang học | Trường Đại học Kinh tế, Đại học Đà Nẵng |
+| 7/2019 đến 2/2023 | Thạc sĩ Quản trị Kinh doanh. Điểm trung bình 8,04; luận văn 8,8, thứ nhất khoá | Viện Quản trị và Công nghệ FSB, Đại học FPT |
+| 2012 đến 2016 | Cử nhân Quản trị Kinh doanh. Khoá luận 9,0, thứ nhất khoá | Đại học FPT |
+
+: {tbl-colwidths="[22,48,30]"}
+
+::: {.hoa}
+:::
+
+## Mình muốn làm gì tiếp
+
+Việc trước mắt của mình là hoàn thành luận án đúng hạn, để khép lại chặng đường đã bắt đầu từ năm 2023.
+
+Sau đó, thứ mình thật sự muốn theo đuổi là nghiên cứu định tính về xã hội. Mình muốn ngồi lâu hơn với một số ít người, nghe cho kỹ, và trả lời được chữ vì sao trong những chuyện đang diễn ra quanh mình. Hướng mình quan tâm nhất là chuyện công nghệ và trí tuệ nhân tạo đang làm gì với đời sống của người lao động và người dân bình thường, cái giá mà họ trả mà ít ai hỏi tới.
+
+Mình không đuổi theo mẫu lớn và cũng không đuổi theo số lượng bài. Mình muốn làm những nghiên cứu mà mười năm sau đọc lại vẫn thấy đúng về con người.
+
+::: {.note}
+**Tìm người cùng làm.** Nếu bạn cũng đang đi quanh những chuyện này, người lao động yếu thế trước công nghệ, phụ nữ và những ràng buộc khó gọi tên, người nước ngoài sống ở Việt Nam, hoặc nghiên cứu định tính quy mô nhỏ, và bạn thấy chúng ta nhìn nghề giống nhau, thì nhắn riêng cho mình.
+
+Mình đang tìm người để làm chung với tư cách đồng tác giả, không phải quan hệ mua bán dịch vụ. Chuyện này mình xếp lịch riêng và bàn riêng 🙂
+
+[Nhắn Zalo cho mình](https://zalo.me/84933331838){.cta-quiet}
+:::
+
+## Tìm mình ở đâu
+
+{{< include _xa-hoi-chu.qmd >}}
+
+Hồ sơ học thuật để bạn tra cứu độc lập:
+
+| Nền tảng | Mã định danh |
+|---|---|
+| ORCID | [0000-0002-8865-9461](https://orcid.org/0000-0002-8865-9461) |
+| Google Scholar | [scholar.google.com](https://scholar.google.com/citations?user=EWGQWc4AAAAJ) |
+| ResearchGate | [researchgate.net/profile/Thai-Ha-Nguyen](https://www.researchgate.net/profile/Thai-Ha-Nguyen) |
+| Web of Science | ResearcherID AEU-5792-2022 |
+| LinkedIn | [linkedin.com/in/nguyenthai-ha](https://www.linkedin.com/in/nguyenthai-ha/) |
+
+: {tbl-colwidths="[26,74]"}
+
+Nếu bạn tới đây vì đang tìm mentor đi cùng luận án, [phần đó nằm ở trang chủ](index.qmd).
+
+{{< include _cam-ket.qmd >}}

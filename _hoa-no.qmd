@@ -1,0 +1,33 @@
+<svg class="hoa-no" viewBox="0 0 300 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ba bông anh túc đang nở">
+  <title>Ba bông anh túc đang nở</title>
+  <g class="bong-1"><path class="than" d="M 118 380 C 112 300 128 244 134 186" fill="none" stroke="#D1352B" stroke-width="2.4" stroke-linecap="round" style="animation-delay:.05s"/></g>
+  <g class="bong-2"><path class="than" d="M 196 380 C 202 306 190 218 186 138" fill="none" stroke="#5E3454" stroke-width="2.2" stroke-linecap="round" style="animation-delay:.35s"/></g>
+  <g class="bong-3"><path class="than" d="M 60 380 C 56 322 66 278 72 244" fill="none" stroke="#B8730E" stroke-width="2" stroke-linecap="round" style="animation-delay:.7s"/></g>
+  <g class="bong bong-1">
+    <g transform="translate(134 132) scale(0.4372)" fill="#D1352B" fill-opacity="0.3" stroke="#D1352B" stroke-width="5.032" stroke-linejoin="round" stroke-linecap="round">
+      <path class="canh" d="M 0 -3 C -10 -16 -27 -24 -31 -41 C -35 -57 -31 -70 -19 -73 C -12 -75 -8 -78 0 -78 C 8 -78 12 -75 19 -73 C 31 -70 35 -57 31 -41 C 27 -24 10 -16 0 -3 Z" transform="rotate(45)" style="animation-delay:0.55s"/>
+      <path class="canh" d="M 0 -3 C -10 -16 -27 -24 -31 -41 C -35 -57 -31 -70 -19 -73 C -12 -75 -8 -78 0 -78 C 8 -78 12 -75 19 -73 C 31 -70 35 -57 31 -41 C 27 -24 10 -16 0 -3 Z" transform="rotate(135)" style="animation-delay:0.66s"/>
+      <path class="canh" d="M 0 -3 C -10 -16 -27 -24 -31 -41 C -35 -57 -31 -70 -19 -73 C -12 -75 -8 -78 0 -78 C 8 -78 12 -75 19 -73 C 31 -70 35 -57 31 -41 C 27 -24 10 -16 0 -3 Z" transform="rotate(225)" style="animation-delay:0.77s"/>
+      <path class="canh" d="M 0 -3 C -10 -16 -27 -24 -31 -41 C -35 -57 -31 -70 -19 -73 C -12 -75 -8 -78 0 -78 C 8 -78 12 -75 19 -73 C 31 -70 35 -57 31 -41 C 27 -24 10 -16 0 -3 Z" transform="rotate(315)" style="animation-delay:0.88s"/>
+      <g class="nhuy"><path d="M 0 0 L -16.9 -1.5" stroke="#A82419" stroke-width="2.6" stroke-linecap="round" fill="none"/><path d="M 0 0 L -14.2 -9.3" stroke="#A82419" stroke-width="2.6" stroke-linecap="round" fill="none"/><path d="M 0 0 L -8.1 -15.0" stroke="#A82419" stroke-width="2.6" stroke-linecap="round" fill="none"/><path d="M 0 0 L 0.0 -17.0" stroke="#A82419" stroke-width="2.6" stroke-linecap="round" fill="none"/><path d="M 0 0 L 8.1 -15.0" stroke="#A82419" stroke-width="2.6" stroke-linecap="round" fill="none"/><path d="M 0 0 L 14.2 -9.3" stroke="#A82419" stroke-width="2.6" stroke-linecap="round" fill="none"/><path d="M 0 0 L 16.9 -1.5" stroke="#A82419" stroke-width="2.6" stroke-linecap="round" fill="none"/><circle r="10" fill="#A82419" fill-opacity="1" stroke="none"/></g>
+    </g>
+  </g>
+  <g class="bong bong-2">
+    <g transform="translate(186 84) scale(0.3244)" fill="#5E3454" fill-opacity="0.26" stroke="#5E3454" stroke-width="6.783" stroke-linejoin="round" stroke-linecap="round">
+      <path class="canh" d="M 0 -3 C -10 -16 -27 -24 -31 -41 C -35 -57 -31 -70 -19 -73 C -12 -75 -8 -78 0 -78 C 8 -78 12 -75 19 -73 C 31 -70 35 -57 31 -41 C 27 -24 10 -16 0 -3 Z" transform="rotate(45)" style="animation-delay:1.05s"/>
+      <path class="canh" d="M 0 -3 C -10 -16 -27 -24 -31 -41 C -35 -57 -31 -70 -19 -73 C -12 -75 -8 -78 0 -78 C 8 -78 12 -75 19 -73 C 31 -70 35 -57 31 -41 C 27 -24 10 -16 0 -3 Z" transform="rotate(135)" style="animation-delay:1.16s"/>
+      <path class="canh" d="M 0 -3 C -10 -16 -27 -24 -31 -41 C -35 -57 -31 -70 -19 -73 C -12 -75 -8 -78 0 -78 C 8 -78 12 -75 19 -73 C 31 -70 35 -57 31 -41 C 27 -24 10 -16 0 -3 Z" transform="rotate(225)" style="animation-delay:1.27s"/>
+      <path class="canh" d="M 0 -3 C -10 -16 -27 -24 -31 -41 C -35 -57 -31 -70 -19 -73 C -12 -75 -8 -78 0 -78 C 8 -78 12 -75 19 -73 C 31 -70 35 -57 31 -41 C 27 -24 10 -16 0 -3 Z" transform="rotate(315)" style="animation-delay:1.38s"/>
+      <g class="nhuy"><path d="M 0 0 L -16.9 -1.5" stroke="#3D2038" stroke-width="2.6" stroke-linecap="round" fill="none"/><path d="M 0 0 L -14.2 -9.3" stroke="#3D2038" stroke-width="2.6" stroke-linecap="round" fill="none"/><path d="M 0 0 L -8.1 -15.0" stroke="#3D2038" stroke-width="2.6" stroke-linecap="round" fill="none"/><path d="M 0 0 L 0.0 -17.0" stroke="#3D2038" stroke-width="2.6" stroke-linecap="round" fill="none"/><path d="M 0 0 L 8.1 -15.0" stroke="#3D2038" stroke-width="2.6" stroke-linecap="round" fill="none"/><path d="M 0 0 L 14.2 -9.3" stroke="#3D2038" stroke-width="2.6" stroke-linecap="round" fill="none"/><path d="M 0 0 L 16.9 -1.5" stroke="#3D2038" stroke-width="2.6" stroke-linecap="round" fill="none"/><circle r="10" fill="#3D2038" fill-opacity="1" stroke="none"/></g>
+    </g>
+  </g>
+  <g class="bong bong-3">
+    <g transform="translate(72 200) scale(0.2679)" fill="#B8730E" fill-opacity="0.28" stroke="#B8730E" stroke-width="8.211" stroke-linejoin="round" stroke-linecap="round">
+      <path class="canh" d="M 0 -3 C -10 -16 -27 -24 -31 -41 C -35 -57 -31 -70 -19 -73 C -12 -75 -8 -78 0 -78 C 8 -78 12 -75 19 -73 C 31 -70 35 -57 31 -41 C 27 -24 10 -16 0 -3 Z" transform="rotate(45)" style="animation-delay:1.50s"/>
+      <path class="canh" d="M 0 -3 C -10 -16 -27 -24 -31 -41 C -35 -57 -31 -70 -19 -73 C -12 -75 -8 -78 0 -78 C 8 -78 12 -75 19 -73 C 31 -70 35 -57 31 -41 C 27 -24 10 -16 0 -3 Z" transform="rotate(135)" style="animation-delay:1.61s"/>
+      <path class="canh" d="M 0 -3 C -10 -16 -27 -24 -31 -41 C -35 -57 -31 -70 -19 -73 C -12 -75 -8 -78 0 -78 C 8 -78 12 -75 19 -73 C 31 -70 35 -57 31 -41 C 27 -24 10 -16 0 -3 Z" transform="rotate(225)" style="animation-delay:1.72s"/>
+      <path class="canh" d="M 0 -3 C -10 -16 -27 -24 -31 -41 C -35 -57 -31 -70 -19 -73 C -12 -75 -8 -78 0 -78 C 8 -78 12 -75 19 -73 C 31 -70 35 -57 31 -41 C 27 -24 10 -16 0 -3 Z" transform="rotate(315)" style="animation-delay:1.83s"/>
+      <g class="nhuy"><path d="M 0 0 L -16.9 -1.5" stroke="#7A4C06" stroke-width="2.6" stroke-linecap="round" fill="none"/><path d="M 0 0 L -14.2 -9.3" stroke="#7A4C06" stroke-width="2.6" stroke-linecap="round" fill="none"/><path d="M 0 0 L -8.1 -15.0" stroke="#7A4C06" stroke-width="2.6" stroke-linecap="round" fill="none"/><path d="M 0 0 L 0.0 -17.0" stroke="#7A4C06" stroke-width="2.6" stroke-linecap="round" fill="none"/><path d="M 0 0 L 8.1 -15.0" stroke="#7A4C06" stroke-width="2.6" stroke-linecap="round" fill="none"/><path d="M 0 0 L 14.2 -9.3" stroke="#7A4C06" stroke-width="2.6" stroke-linecap="round" fill="none"/><path d="M 0 0 L 16.9 -1.5" stroke="#7A4C06" stroke-width="2.6" stroke-linecap="round" fill="none"/><circle r="10" fill="#7A4C06" fill-opacity="1" stroke="none"/></g>
+    </g>
+  </g>
+</svg>

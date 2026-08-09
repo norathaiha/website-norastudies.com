@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1640 856" width="1640" height="856" role="img" aria-label="NoraStudies">
+  <title>NoraStudies — anh bia Facebook</title>
+  <desc>Ben trai de trong cho chu. Toan bo trang tri nam trong vung an toan, khong bi cat tren dien thoai.</desc>
+  <defs>
+    <linearGradient id="fade" x1="0" y1="856" x2="0" y2="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.85"></stop>
+      <stop offset="0.55" stop-color="#fff" stop-opacity="0.45"></stop>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"></stop>
+    </linearGradient>
+    <mask id="mfade"><rect width="1640" height="856" fill="url(#fade)"></rect></mask>
+  </defs>
+  <rect width="1640" height="856" fill="#FDFBF7"></rect>
+  <g mask="url(#mfade)">
+    <path d="M 1168 856 C 1164 668 1178 484 1190 326" fill="none" stroke="#D1352B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 1286 856 C 1290 688 1278 492 1270 312" fill="none" stroke="#D1352B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 1082 856 C 1078 724 1088 572 1098 428" fill="none" stroke="#D1352B" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></path>
+    <g fill="none" stroke="#D1352B" stroke-width="2.2" stroke-linejoin="round">
+      <path d="M 1190 326 C 1174 315 1168 293 1175 275 C 1185 259 1201 259 1208 275 C 1214 293 1206 315 1190 326 Z"></path>
+      <path d="M 1270 312 C 1256 302 1250 282 1257 266 C 1266 252 1280 252 1286 266 C 1292 282 1284 302 1270 312 Z"></path>
+      <path d="M 1098 428 C 1087 420 1082 404 1087 391 C 1094 380 1105 380 1111 391 C 1116 404 1109 420 1098 428 Z"></path>
+    </g>
+  </g>
+  
+    <path d="M 1108 856 C 1102 722 1112 606 1128 510" fill="none" stroke="#D1352B" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 1232 856 C 1230 700 1214 476 1218 364" fill="none" stroke="#D1352B" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 1330 856 C 1334 774 1322 660 1310 572" fill="none" stroke="#D1352B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 1112 676 C 1090 686 1078 712 1076 742 C 1100 736 1110 706 1112 676 Z" fill="none" stroke="#D1352B" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 1224 610 C 1252 606 1274 624 1284 652 C 1256 654 1234 642 1224 610 Z" fill="none" stroke="#D1352B" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M 1330 726 C 1310 722 1292 734 1284 756 C 1308 760 1324 750 1330 726 Z" fill="none" stroke="#D1352B" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"></path>
+    <g transform="translate(1128 500) rotate(0) scale(0.85)">
+      <g fill="none" stroke="#D1352B" stroke-width="3.06" stroke-linejoin="round"><path d="M 0 -2 C -8 -12 -19 -20 -23 -32 C -27 -43 -20 -54 -8 -55 C -3 -55.5 -1 -53 0 -49 C 1 -53 3 -55.5 8 -55 C 20 -54 27 -43 23 -32 C 19 -20 8 -12 0 -2 Z" transform="rotate(45)"></path><path d="M 0 -2 C -8 -12 -19 -20 -23 -32 C -27 -43 -20 -54 -8 -55 C -3 -55.5 -1 -53 0 -49 C 1 -53 3 -55.5 8 -55 C 20 -54 27 -43 23 -32 C 19 -20 8 -12 0 -2 Z" transform="rotate(135)"></path><path d="M 0 -2 C -8 -12 -19 -20 -23 -32 C -27 -43 -20 -54 -8 -55 C -3 -55.5 -1 -53 0 -49 C 1 -53 3 -55.5 8 -55 C 20 -54 27 -43 23 -32 C 19 -20 8 -12 0 -2 Z" transform="rotate(225)"></path><path d="M 0 -2 C -8 -12 -19 -20 -23 -32 C -27 -43 -20 -54 -8 -55 C -3 -55.5 -1 -53 0 -49 C 1 -53 3 -55.5 8 -55 C 20 -54 27 -43 23 -32 C 19 -20 8 -12 0 -2 Z" transform="rotate(315)"></path><path d="M 0 -2 C -8 -12 -19 -20 -23 -32 C -27 -43 -20 -54 -8 -55 C -3 -55.5 -1 -53 0 -49 C 1 -53 3 -55.5 8 -55 C 20 -54 27 -43 23 -32 C 19 -20 8 -12 0 -2 Z" transform="rotate(45) scale(0.4)"></path><path d="M 0 -2 C -8 -12 -19 -20 -23 -32 C -27 -43 -20 -54 -8 -55 C -3 -55.5 -1 -53 0 -49 C 1 -53 3 -55.5 8 -55 C 20 -54 27 -43 23 -32 C 19 -20 8 -12 0 -2 Z" transform="rotate(135) scale(0.4)"></path><path d="M 0 -2 C -8 -12 -19 -20 -23 -32 C -27 -43 -20 -54 -8 -55 C -3 -55.5 -1 -53 0 -49 C 1 -53 3 -55.5 8 -55 C 20 -54 27 -43 23 -32 C 19 -20 8 -12 0 -2 Z" transform="rotate(225) scale(0.4)"></path><path d="M 0 -2 C -8 -12 -19 -20 -23 -32 C -27 -43 -20 -54 -8 -55 C -3 -55.5 -1 -53 0 -49 C 1 -53 3 -55.5 8 -55 C 20 -54 27 -43 23 -32 C 19 -20 8 -12 0 -2 Z" transform="rotate(315) scale(0.4)"></path></g>
+      <circle r="8.24" fill="#A82419"></circle>
+    </g>
+    <g transform="translate(1218 352) rotate(-6) scale(1)">
+      <g fill="none" stroke="#D1352B" stroke-width="2.60" stroke-linejoin="round"><path d="M 0 -2 C -8 -12 -19 -20 -23 -32 C -27 -43 -20 -54 -8 -55 C -3 -55.5 -1 -53 0 -49 C 1 -53 3 -55.5 8 -55 C 20 -54 27 -43 23 -32 C 19 -20 8 -12 0 -2 Z" transform="rotate(45)"></path><path d="M 0 -2 C -8 -12 -19 -20 -23 -32 C -27 -43 -20 -54 -8 -55 C -3 -55.5 -1 -53 0 -49 C 1 -53 3 -55.5 8 -55 C 20 -54 27 -43 23 -32 C 19 -20 8 -12 0 -2 Z" transform="rotate(135)"></path><path d="M 0 -2 C -8 -12 -19 -20 -23 -32 C -27 -43 -20 -54 -8 -55 C -3 -55.5 -1 -53 0 -49 C 1 -53 3 -55.5 8 -55 C 20 -54 27 -43 23 -32 C 19 -20 8 -12 0 -2 Z" transform="rotate(225)"></path><path d="M 0 -2 C -8 -12 -19 -20 -23 -32 C -27 -43 -20 -54 -8 -55 C -3 -55.5 -1 -53 0 -49 C 1 -53 3 -55.5 8 -55 C 20 -54 27 -43 23 -32 C 19 -20 8 -12 0 -2 Z" transform="rotate(315)"></path><path d="M 0 -2 C -8 -12 -19 -20 -23 -32 C -27 -43 -20 -54 -8 -55 C -3 -55.5 -1 -53 0 -49 C 1 -53 3 -55.5 8 -55 C 20 -54 27 -43 23 -32 C 19 -20 8 -12 0 -2 Z" transform="rotate(45) scale(0.4)"></path><path d="M 0 -2 C -8 -12 -19 -20 -23 -32 C -27 -43 -20 -54 -8 -55 C -3 -55.5 -1 -53 0 -49 C 1 -53 3 -55.5 8 -55 C 20 -54 27 -43 23 -32 C 19 -20 8 -12 0 -2 Z" transform="rotate(135) scale(0.4)"></path><path d="M 0 -2 C -8 -12 -19 -20 -23 -32 C -27 -43 -20 -54 -8 -55 C -3 -55.5 -1 -53 0 -49 C 1 -53 3 -55.5 8 -55 C 20 -54 27 -43 23 -32 C 19 -20 8 -12 0 -2 Z" transform="rotate(225) scale(0.4)"></path><path d="M 0 -2 C -8 -12 -19 -20 -23 -32 C -27 -43 -20 -54 -8 -55 C -3 -55.5 -1 -53 0 -49 C 1 -53 3 -55.5 8 -55 C 20 -54 27 -43 23 -32 C 19 -20 8 -12 0 -2 Z" transform="rotate(315) scale(0.4)"></path></g>
+      <circle r="7.00" fill="#A82419"></circle>
+    </g>
+    <g transform="translate(1310 562) rotate(8) scale(0.72)">
+      <g fill="none" stroke="#D1352B" stroke-width="3.61" stroke-linejoin="round"><path d="M 0 -2 C -8 -12 -19 -20 -23 -32 C -27 -43 -20 -54 -8 -55 C -3 -55.5 -1 -53 0 -49 C 1 -53 3 -55.5 8 -55 C 20 -54 27 -43 23 -32 C 19 -20 8 -12 0 -2 Z" transform="rotate(45)"></path><path d="M 0 -2 C -8 -12 -19 -20 -23 -32 C -27 -43 -20 -54 -8 -55 C -3 -55.5 -1 -53 0 -49 C 1 -53 3 -55.5 8 -55 C 20 -54 27 -43 23 -32 C 19 -20 8 -12 0 -2 Z" transform="rotate(135)"></path><path d="M 0 -2 C -8 -12 -19 -20 -23 -32 C -27 -43 -20 -54 -8 -55 C -3 -55.5 -1 -53 0 -49 C 1 -53 3 -55.5 8 -55 C 20 -54 27 -43 23 -32 C 19 -20 8 -12 0 -2 Z" transform="rotate(225)"></path><path d="M 0 -2 C -8 -12 -19 -20 -23 -32 C -27 -43 -20 -54 -8 -55 C -3 -55.5 -1 -53 0 -49 C 1 -53 3 -55.5 8 -55 C 20 -54 27 -43 23 -32 C 19 -20 8 -12 0 -2 Z" transform="rotate(315)"></path><path d="M 0 -2 C -8 -12 -19 -20 -23 -32 C -27 -43 -20 -54 -8 -55 C -3 -55.5 -1 -53 0 -49 C 1 -53 3 -55.5 8 -55 C 20 -54 27 -43 23 -32 C 19 -20 8 -12 0 -2 Z" transform="rotate(45) scale(0.4)"></path><path d="M 0 -2 C -8 -12 -19 -20 -23 -32 C -27 -43 -20 -54 -8 -55 C -3 -55.5 -1 -53 0 -49 C 1 -53 3 -55.5 8 -55 C 20 -54 27 -43 23 -32 C 19 -20 8 -12 0 -2 Z" transform="rotate(135) scale(0.4)"></path><path d="M 0 -2 C -8 -12 -19 -20 -23 -32 C -27 -43 -20 -54 -8 -55 C -3 -55.5 -1 -53 0 -49 C 1 -53 3 -55.5 8 -55 C 20 -54 27 -43 23 -32 C 19 -20 8 -12 0 -2 Z" transform="rotate(225) scale(0.4)"></path><path d="M 0 -2 C -8 -12 -19 -20 -23 -32 C -27 -43 -20 -54 -8 -55 C -3 -55.5 -1 -53 0 -49 C 1 -53 3 -55.5 8 -55 C 20 -54 27 -43 23 -32 C 19 -20 8 -12 0 -2 Z" transform="rotate(315) scale(0.4)"></path></g>
+      <circle r="9.72" fill="#A82419"></circle>
+    </g>
+</svg>

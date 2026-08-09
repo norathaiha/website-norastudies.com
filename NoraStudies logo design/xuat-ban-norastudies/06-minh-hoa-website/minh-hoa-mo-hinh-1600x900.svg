@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="NoraStudies">
+  <title>NoraStudies — minh hoa &#34;Mo hinh&#34;</title>
+  <desc>Net 2px. Bon nut xam noi vao mot nut do o giua. Nen trong suot.</desc>
+  <g fill="none" stroke="#6B615B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 486.5 276.8 L 733.5 413.2"></path>
+    <path d="M 722.6 398.9 L 733.5 413.2 L 715.5 411.7"></path>
+    <path d="M 1113.5 276.8 L 866.5 413.2"></path>
+    <path d="M 884.5 411.7 L 866.5 413.2 L 877.4 398.9"></path>
+    <path d="M 486.5 623.2 L 733.5 486.8"></path>
+    <path d="M 715.5 488.3 L 733.5 486.8 L 722.6 501.1"></path>
+    <path d="M 1113.5 623.2 L 866.5 486.8"></path>
+    <path d="M 877.4 501.1 L 866.5 486.8 L 884.5 488.3"></path>
+    <circle cx="420" cy="240" r="62"></circle>
+    <circle cx="1180" cy="240" r="62"></circle>
+    <circle cx="420" cy="660" r="62"></circle>
+    <circle cx="1180" cy="660" r="62"></circle>
+  </g>
+  <circle cx="800" cy="450" r="62" fill="none" stroke="#D1352B" stroke-width="2"></circle>
+</svg>

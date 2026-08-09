@@ -1,0 +1,73 @@
+---
+title: ""
+pagetitle: "Bài viết — NoraStudies"
+description: "Bài viết về cách làm nghiên cứu, viết luận án và công bố quốc tế, dành cho nghiên cứu sinh ngành Marketing và Quản trị Kinh doanh."
+---
+
+<!--
+CÁCH NHÚNG VIDEO YOUTUBE VÀO MỘT BÀI VIẾT:
+Lấy mã video từ thanh địa chỉ YouTube (phần sau v=), rồi dán khối này vào chỗ cần:
+
+::: {.video}
+<iframe src="https://www.youtube-nocookie.com/embed/MÃ_VIDEO"
+        title="Tên video"
+        allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen loading="lazy"></iframe>
+:::
+[Chú thích dưới video]{.video-caption}
+-->
+
+::: {.hero}
+
+::: {.eyebrow}
+Bài viết
+:::
+
+# Viết về nghề, không viết để bán
+
+::: {.lede}
+Những bài ở đây là thứ mình hay phải giải thích lại nhiều lần. Viết ra một lần cho gọn, và cũng để bạn xem cách mình làm nghề trước khi quyết định đi cùng nhau.
+:::
+
+:::
+
+::: {.note}
+**Mục này đang trống.** Trang đã dựng xong và sẵn sàng nhận bài, kể cả bài có nhúng video YouTube.
+
+Cách thêm một bài: tạo file `bai-viet/ten-bai.qmd`, viết nội dung, rồi thêm một dòng liên kết vào danh sách bên dưới. Khi số bài vượt quá mười, chuyển trang này sang dạng listing tự động của Quarto.
+:::
+
+## Chủ đề mình định viết trước
+
+Các chủ đề dưới đây đều bắt nguồn từ những câu mình bị hỏi đi hỏi lại, nên gần như chắc chắn có người tìm.
+
+**Về đọc và tổng quan**
+
+1. Ba lý do bản tổng quan của bạn bị chê là mới liệt kê, và cách gỡ từng lý do
+2. Dựng chuỗi truy vấn trên Scopus: từ một từ khoá mơ hồ tới một tập bài đọc được
+3. PRISMA 2020 giải thích cho người chưa từng làm tổng quan hệ thống
+4. Zotero cho nghiên cứu sinh: dựng thư viện một lần, dùng suốt mấy năm
+
+**Về mô hình và lý thuyết**
+
+5. Vì sao hội đồng bác bỏ mô hình và yêu cầu làm lại, và câu bạn phải trả lời được trước khi vào phòng
+6. Chọn lý thuyết nền: bốn câu hỏi để biết lý thuyết đó có hợp đề tài của bạn không
+7. Biến trung gian và biến điều tiết, phân biệt bằng câu hỏi chứ không bằng công thức
+
+**Về phương pháp và số liệu**
+
+8. Bảng hỏi sai từ đầu thì dữ liệu khó cứu: sáu lỗi hay gặp khi dựng thang đo
+9. Đọc bảng kết quả PLS-SEM: chỉ số nào phải báo cáo và phản biện sẽ hỏi gì
+10. Cỡ mẫu bao nhiêu là đủ, và vì sao câu trả lời không phải một con số duy nhất
+
+**Về công bố**
+
+11. Chọn tạp chí: cách tra Scopus, cách nhận ra tạp chí săn mồi, cách tìm tạp chí không thu phí
+12. Nhận thư yêu cầu chỉnh sửa lớn: đọc thế nào, trả lời thế nào, và vì sao đừng trả lời ngay hôm đó
+
+## Trong lúc chờ
+
+[Xem lộ trình các chặng](lo-trinh.qmd){.cta-quiet}
+[Hẹn mình 30 phút nói chuyện](lien-he.qmd){.cta-quiet}
+
+{{< include _cam-ket.qmd >}}

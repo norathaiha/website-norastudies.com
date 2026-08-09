@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="NoraStudies">
+  <title>NoraStudies — minh hoa &#34;Con duong&#34;</title>
+  <desc>Net 2px. Do #D1352B, xam am #6B615B. Nen trong suot.</desc>
+  <path d="M 180 760 C 320 720 460 660 600 600 C 760 530 880 470 1020 400 C 1180 320 1300 240 1420 150" fill="none" stroke="#6B615B" stroke-width="2" stroke-linecap="round"></path>
+  <g fill="#D1352B">
+    <circle cx="180" cy="760" r="9"></circle>
+    <circle cx="600" cy="600" r="9"></circle>
+    <circle cx="1020" cy="400" r="9"></circle>
+    <circle cx="1420" cy="150" r="7"></circle>
+  </g>
+  <circle cx="1420" cy="150" r="20" fill="none" stroke="#D1352B" stroke-width="2"></circle>
+</svg>

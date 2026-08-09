@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="NoraStudies">
+  <title>NoraStudies — chang 1: hat giong</title>
+  <desc>Net 2px, mau #D1352B, nen trong suot.</desc>
+  <g fill="none" stroke="#D1352B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 45 150 H 155"></path>
+    <path d="M 100 150 C 100 132 100 112 100 90"></path>
+    <path d="M 100 120 C 84 120 71 110 68 94 C 85 92 98 103 100 120 Z"></path>
+    <path d="M 100 104 C 102 86 115 75 132 76 C 131 94 117 104 100 104 Z"></path>
+    <ellipse cx="100" cy="168" rx="13" ry="9"></ellipse>
+  </g>
+</svg>

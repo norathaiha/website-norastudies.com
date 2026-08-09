@@ -1,0 +1,271 @@
+---
+title: ""
+pagetitle: "Học phí — NoraStudies"
+description: "Bảng giá công khai. Buổi lẻ phần mềm từ 3 triệu, các chặng luận án từ 7 triệu tới 50 triệu. Chưa gồm phí đăng bài tạp chí."
+---
+
+::: {.hero}
+
+::: {.eyebrow}
+Học phí
+:::
+
+# Giá để công khai, để bạn tự quyết được mà không phải nhắn tin hỏi
+
+::: {.lede}
+Buổi lẻ từ 3 triệu, các chặng lớn từ 7 triệu tới 50 triệu. Bạn lấy một mảnh nhỏ đang cần, đi lẻ từng chặng, hoặc đi cùng mình cả hành trình.
+:::
+
+:::
+
+## Bạn đang cần gỡ đúng một chỗ {#phan-mem}
+
+Không phải ai cũng cần đi cả hành trình. Nhiều bạn chỉ kẹt ở một chỗ rất cụ thể, và gỡ xong chỗ đó là chạy tiếp được.
+
+::: {.price-grid}
+
+::: {.price .sac-xanh .reveal}
+### SmartPLS và fsQCA
+[3.000.000 VNĐ]{.price-amount}
+[2 buổi · kèm trực tiếp]{.price-unit}
+
+Bạn mở phần mềm lên là hoa mắt, xem hết mấy chục video hướng dẫn mà vẫn không biết bắt đầu từ nút nào. Hai buổi này mình ngồi cạnh, bạn thao tác trên máy của bạn.
+
+- Nhập dữ liệu, dựng mô hình, chạy và đọc từng chỉ số
+- Quan trọng hơn cả: cầm bảng output đó viết thành phần kết quả của một bài báo
+- Chưa gồm phí bản quyền phần mềm
+:::
+
+::: {.price .sac-xanh .reveal}
+### NVivo và Cohen's Kappa
+[3.000.000 VNĐ]{.price-amount}
+[Kèm trực tiếp]{.price-unit}
+
+Mã hoá dữ liệu định tính, dựng cây mã, và tính hệ số đồng thuận giữa hai người mã hoá, thứ mà phản biện quốc tế gần như chắc chắn sẽ hỏi.
+
+- Học trên dữ liệu mẫu: 3.000.000 VNĐ
+- Mình xử lý cùng bạn trên chính dữ liệu của bạn: 5.000.000 VNĐ
+:::
+
+::: {.price .sac-man .reveal}
+### Có dữ liệu rồi, viết thành bài thế nào {#tu-du-lieu}
+[Trao đổi riêng]{.price-amount}
+[Tuỳ tình trạng dữ liệu]{.price-unit}
+
+Bạn chạy xong số nhưng nhìn bảng output mà không biết viết gì. Mình ngồi cùng bạn biến nó thành một bản thảo.
+
+Chỗ này mình chưa báo giá được ngay, vì còn phải xem dữ liệu bạn đang có, khung nghiên cứu và mô hình đã ổn chưa. Có bộ dữ liệu viết thẳng ra bài được, có bộ phải quay lại sửa mô hình trước. Bạn gửi mình xem rồi hai bên bàn.
+:::
+
+:::
+
+::: {.hoa}
+:::
+
+## Năm chặng của luận án
+
+::: {.price-grid}
+
+::: {.price .sac-do .reveal}
+### G0 · Đề cương thi đầu vào
+[7.000.000 VNĐ]{.price-amount}
+[4 buổi · 4 tới 6 tuần]{.price-unit}
+
+Dành cho bạn đang chuẩn bị hồ sơ dự tuyển nghiên cứu sinh.
+
+[Xem chi tiết chặng](lo-trinh.qmd#g0){.cta-quiet}
+:::
+
+::: {.price .sac-do .reveal}
+### G1 · Chuyên đề tổng quan
+[12.000.000 VNĐ]{.price-amount}
+[8 buổi]{.price-unit}
+
+Cuối chặng bạn có chuyên đề tổng quan và một bản thảo bài báo.
+
+[Xem chi tiết chặng](lo-trinh.qmd#g1){.cta-quiet}
+:::
+
+::: {.price .sac-vang .reveal}
+### G2 · Cơ sở lý thuyết và mô hình nghiên cứu
+[15.000.000 VNĐ]{.price-amount}
+[10 buổi]{.price-unit}
+
+Cuối chặng bạn có chuyên đề 1 và một bản thảo bài quốc tế hướng Q3.
+
+[Xem chi tiết chặng](lo-trinh.qmd#g2){.cta-quiet}
+:::
+
+::: {.price .sac-la .reveal}
+### G3 · Phương pháp nghiên cứu và kết quả nghiên cứu
+[18.000.000 VNĐ]{.price-amount}
+[12 buổi]{.price-unit}
+
+Cuối chặng bạn có chuyên đề 2 và một bản thảo bài quốc tế.
+
+[Xem chi tiết chặng](lo-trinh.qmd#g3){.cta-quiet}
+:::
+
+::: {.price .sac-man .reveal}
+### G4 · Hoàn thiện toàn bộ luận án
+[15.000.000 VNĐ]{.price-amount}
+[10 buổi]{.price-unit}
+
+Cuối chặng bạn có quyển luận án hoàn chỉnh và đã tập bảo vệ.
+
+[Xem chi tiết chặng](lo-trinh.qmd#g4){.cta-quiet}
+:::
+
+:::
+
+## Đi nhiều chặng cùng lúc
+
+Đi nhiều chặng có lợi cho cả hai bên. Bạn nhẹ tiền hơn, còn mình thì nhìn được toàn cảnh đề tài ngay từ đầu nên đồng hành tốt hơn hẳn so với việc gặp bạn khi hai chặng trước đã lỡ làm lệch, lúc đó gỡ ra mất công gấp đôi.
+
+::: {.price-grid}
+
+::: {.price .reveal}
+### Hai chặng
+[24.000.000 VNĐ]{.price-amount}
+[G1 và G2 · nhẹ hơn 3.000.000 VNĐ]{.price-unit}
+
+Từ chuyên đề tổng quan tới mô hình nghiên cứu hoàn chỉnh.
+:::
+
+::: {.price .reveal}
+### Ba chặng
+[38.000.000 VNĐ]{.price-amount}
+[G1, G2 và G3 · nhẹ hơn 7.000.000 VNĐ]{.price-unit}
+
+Ba chuyên đề và hai bản thảo bài quốc tế.
+:::
+
+::: {.price .price-featured .reveal}
+### Cả hành trình
+[50.000.000 VNĐ]{.price-amount}
+[G1 tới G4 · nhẹ hơn 10.000.000 VNĐ]{.price-unit}
+
+Từ chuyên đề tổng quan tới lúc bạn bước vào phòng bảo vệ.
+:::
+
+:::
+
+## Đi nhóm ba bạn
+
+Ba bạn cùng chặng học chung phần kiến thức và quy trình, còn phần đọc bản viết thì mình làm riêng cho từng người. Điều kiện là ba bạn phải cùng chặng. Mình không ghép người đang ở hai giai đoạn khác nhau, vì như vậy cả ba đều thiệt.
+
+| Chặng | Kèm 1–1 | Nhóm ba bạn, mỗi người |
+|---|---|---|
+| G0 · Đề cương thi đầu vào | 7.000.000 VNĐ | 4.500.000 VNĐ |
+| G1 · Chuyên đề tổng quan | 12.000.000 VNĐ | 7.500.000 VNĐ |
+| G2 · Cơ sở lý thuyết và mô hình nghiên cứu | 15.000.000 VNĐ | 9.500.000 VNĐ |
+| G3 · Phương pháp nghiên cứu và kết quả nghiên cứu | 18.000.000 VNĐ | 11.000.000 VNĐ |
+| G4 · Hoàn thiện toàn bộ luận án | 15.000.000 VNĐ | 9.500.000 VNĐ |
+| Hai chặng | 24.000.000 VNĐ | 15.000.000 VNĐ |
+| Ba chặng | 38.000.000 VNĐ | 24.000.000 VNĐ |
+| Cả hành trình | 50.000.000 VNĐ | 32.000.000 VNĐ |
+
+: {tbl-colwidths="[46,27,27]"}
+
+## Giá đã gồm và chưa gồm
+
+::: {.yes-no}
+
+::: {.yes}
+### Đã gồm
+
+- Toàn bộ số buổi hai bên ngồi với nhau
+- Lộ trình riêng viết ra giấy sau buổi nói chuyện đầu
+- Danh mục 100 bài báo quốc tế mình lọc riêng cho đề tài của bạn
+- Đọc bản viết của bạn một lần mỗi tuần giữa các buổi
+- Trả lời tin nhắn trong 24 giờ làm việc
+- Nhắc mốc tiến độ giúp bạn
+- Buổi dạy bù khi một trong hai bên có việc đột xuất
+:::
+
+::: {.no}
+### Chưa gồm
+
+- Phí xử lý bài báo của tạp chí, thường gọi là APC
+- Phí nộp hồ sơ, học phí và các khoản của nhà trường
+- Chi phí thu dữ liệu, thù lao người trả lời khảo sát
+- Bản quyền phần mềm phân tích như SmartPLS, fsQCA hay NVivo
+- Dịch thuật hoặc hiệu đính tiếng Anh của bên thứ ba
+:::
+
+:::
+
+::: {.note}
+**Hai khoản tiền bạn trả cho tạp chí, không phải cho mình.**
+
+*Phí nộp bản thảo*, tiếng Anh là submission fee. Một số tạp chí thu ngay lúc bạn bấm nút nộp, và thu cả khi bài bị từ chối. Không nhiều tạp chí thu khoản này, nhưng có.
+
+*Phí xử lý bài báo*, tiếng Anh là Article Processing Charge, viết tắt APC. Khoản cố định trả cho nhà xuất bản để bài của bạn được đăng vĩnh viễn ở dạng truy cập mở, ai cũng đọc và tải được mà không mất tiền.
+
+Cả hai khoản đều nằm ngoài học phí và bạn trả thẳng cho nhà xuất bản. Việc chọn tạp chí là phần mình làm cùng bạn, và mình luôn tính cả túi tiền của bạn vào đó. Nhiều tạp chí Scopus uy tín không thu của tác giả đồng nào, chỉ là bạn phải biết chúng nằm ở đâu.
+:::
+
+::: {.hoa}
+:::
+
+## Gói đi kèm: dựng bộ não thứ hai bằng AI {#ai}
+
+::: {.price .price-featured}
+### Dùng AI làm nghiên cứu, và dựng bộ não thứ hai
+[3.000.000 VNĐ]{.price-amount}
+[Chỉ bán kèm, khi bạn đã lấy từ hai chặng trở lên]{.price-unit}
+
+Mình cài đặt và hướng dẫn trực tiếp, làm thật trên máy của bạn cho tới lúc chạy được:
+
+- **Claude và Gemini** cho việc đọc, tóm tắt, đối chiếu tài liệu và rà bản viết. Quan trọng nhất là biết chỗ nào tin được và chỗ nào phải tự kiểm
+- **Google NotebookLM** để hỏi thẳng vào chồng bài báo của bạn thay vì đọc lại từ đầu mỗi lần
+- **Obsidian** làm bộ não thứ hai: dựng kho ghi chú nối với nhau, để bốn năm sau bạn vẫn tìm lại được ý mình từng nghĩ
+- Bộ **skill** mình viết sẵn, cài vào Claude của bạn để nó làm việc theo đúng quy trình nghiên cứu chứ không trả lời chung chung
+
+Học phí chưa gồm tiền bạn đăng ký gói AI hằng tháng, khoản đó bạn trả thẳng cho nhà cung cấp.
+:::
+
+::: {.note}
+**Vì sao gói này không bán riêng.** Công cụ AI chỉ giúp được bạn khi bạn đã biết mình đang đi đâu. Người chưa có câu hỏi nghiên cứu rõ ràng mà cầm sẵn AI trong tay thì thường ra nhanh hơn, sai cũng nhanh hơn, và tự tin vào cái sai đó.
+
+Nên mình chỉ bán gói này cho bạn nào đã đi cùng mình từ hai chặng trở lên. Lúc đó bạn đã có đề tài, có khung, và AI mới thật sự tiết kiệm thời gian cho bạn 🙂
+:::
+
+::: {.hoa}
+:::
+
+## Hai bên cùng giữ lời
+
+Phần này mình viết ra vì nó quyết định hành trình của bạn có về đích hay không, hơn cả chuyện học phí.
+
+Lịch học do hai bên thoả thuận trực tiếp với nhau. Bạn bận đột xuất thì mình dạy bù, mình bận thì mình cũng dạy bù, chuyện đó bình thường.
+
+Nhưng mỗi buổi mình đều để lại cho bạn một phần việc kèm hạn, và phần đó bạn cần làm xong để mình còn đọc và sửa. Học mà không thực hành thì mình không nhận, không phải vì mình khó tính, mà vì mình đã thấy nhiều bạn trả tiền xong rồi trôi mất ba tháng, cuối cùng chẳng có gì trong tay.
+
+Bạn đi làm bận, mình cũng bận. Bạn có gia đình, con nhỏ, cha mẹ đau ốm, mình cũng vậy. Thôi thì hai bên cùng cố, dìu nhau qua từng chặng 🌾
+
+## Thanh toán
+
+| Mục | Nội dung |
+|---|---|
+| Chia đợt | Chặng lẻ: 50% khi bắt đầu, 50% ở giữa chặng. Cả hành trình: đóng theo từng chặng, đầu mỗi chặng |
+| Buổi lẻ phần mềm | Đóng trước buổi đầu |
+| Hình thức | Chuyển khoản ngân hàng. Thông tin tài khoản mình gửi sau buổi nói chuyện đầu |
+| Nếu thấy chưa hợp | Trong hai buổi đầu, nếu bạn thấy không hợp thì mình gửi lại phần chưa dùng, không hỏi lý do |
+| Sau hai buổi đầu | Mình không hoàn phí nữa, nhưng bạn được bảo lưu và dời lịch khi có việc đột xuất |
+| Bạn đang khó khăn | Cứ nhắn cho mình và nói thẳng. Mình không hứa trước, nhưng mình nghe |
+
+: {tbl-colwidths="[26,74]"}
+
+::: {.note}
+**Mỗi lúc mình chỉ nhận được một số bạn nhất định.** Mình đang vừa làm luận án của chính mình vừa làm nghiên cứu ở Viện, nên không nhận đại trà được. Nếu lịch đã đầy, mình nói thật và hẹn bạn đợt sau, chứ nếu nhận rồi mà không dành đủ thời gian cho bạn thì cả hai bên đều thiệt.
+:::
+
+## Chưa biết nên bắt đầu từ đâu
+
+Bạn không phải tự chọn. Trong buổi nói chuyện 30 phút không thu phí, bạn kể mình nghe bạn đang ở đâu, rồi mình nói cho bạn biết nên vào từ chỗ nào. Có khi bạn chỉ cần một buổi ba triệu là gỡ xong, chứ không cần cả chặng mười lăm triệu. Nếu mình thấy vậy thì mình nói vậy 🙂
+
+[Hẹn mình 30 phút nói chuyện](lien-he.qmd){.cta}
+[Đọc cách mình làm việc](liem-chinh.qmd){.cta-quiet}
+
+{{< include _cam-ket.qmd >}}

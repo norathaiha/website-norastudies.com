@@ -1,0 +1,118 @@
+---
+title: ""
+pagetitle: "Cách mình làm việc — NoraStudies"
+description: "Điều mình hứa với bạn, việc mình làm tốt, và những chỗ mình chưa đủ sức nên sẽ gửi bạn tới người phù hợp hơn."
+---
+
+::: {.hero}
+
+::: {.eyebrow}
+Cách mình làm việc
+:::
+
+# Trang này đáng đọc hơn cả trang học phí
+
+::: {.lede}
+Bạn nên đọc hết trang này trước khi nhắn tin cho mình. Nếu có dòng nào ở đây bạn thấy không hợp, thì hai bên biết sớm vẫn hơn.
+:::
+
+:::
+
+## Bảy điều mình hứa với bạn
+
+### 1. Đi cùng bạn trong đúng phần đường mình thuộc
+
+Mình nhận các bạn nghiên cứu sinh ngành Marketing và Quản trị Kinh doanh, chương trình đào tạo bằng tiếng Việt tại các trường trong nước. Đây là hệ thống mình đang học và hiểu từng mốc.
+
+### 2. Bạn viết, mình đọc cùng
+
+Bạn tự đọc, tự nghĩ, tự viết. Mình chỉ chỗ nào lập luận đang hụt, chỗ nào phương pháp chưa khớp câu hỏi, chỗ nào hội đồng sẽ hỏi. Thứ bạn mang về sau hành trình này không phải một bản thảo, mà là khả năng tự viết bản thảo tiếp theo mà không cần mình.
+
+### 3. Nói sớm khi bạn đi lệch
+
+Ngay lúc mình thấy lệch, chứ không đợi bạn viết xong ba chục trang. Nhiều bạn mất cả một học kỳ chỉ vì chưa ai nói với họ câu đó đúng lúc.
+
+### 4. Nói cả khi bạn làm đúng
+
+Nhiều bạn làm đúng nhưng không ai xác nhận, nên tự nghi ngờ rồi làm lại từ đầu. Việc xác nhận cũng là một phần công việc của mình, quan trọng ngang việc chỉ ra cái sai.
+
+### 5. Giữ nhịp cho bạn
+
+Mình nhắc mốc chủ động, không đợi bạn nhớ ra. Đây là phần ít ai bán mà lại là phần nhiều bạn cần nhất.
+
+### 6. Giữ kín chuyện của bạn
+
+Đề tài, dữ liệu và bản thảo của bạn mình không chia sẻ cho ai. Mình cũng không lấy làm ví dụ giảng dạy nếu bạn chưa đồng ý bằng văn bản.
+
+### 7. Tên trên bài báo là của bạn
+
+Mình không đứng tên đồng tác giả bất kỳ công bố nào của bạn. Kết quả nghiên cứu là của bạn. Nếu bạn muốn ghi một dòng cảm ơn ở mục Acknowledgements thì mình vui, mà không ghi thì cũng hoàn toàn bình thường.
+
+::: {.hoa}
+:::
+
+## Những chỗ mình chưa đủ sức
+
+Phần này mình viết ra để bạn khỏi mất thời gian. Chỗ nào mình làm được thì mình làm tới nơi, chỗ nào chưa được thì mình nói thật và tìm giúp bạn người hợp hơn.
+
+::: {.note}
+**Luận án tiếng Anh, hoặc dạng ghép các bài báo thành chương.** Mình học ở Việt Nam, làm theo mẫu chuyên đề tổng quan rồi chuyên đề 1, chuyên đề 2, rồi toàn bộ quyển luận án. Với những chương trình yêu cầu ghép ba bốn bài báo đã công bố thành các chương, như cách nhiều đại học nước ngoài đang làm, mình chưa có kinh nghiệm và cũng không muốn nhận khi chưa đủ vững.
+
+Nhưng mình quen một mentor làm được việc đó, và mình sẵn sàng nối bạn với người ấy. Không mất phí, và đương nhiên chẳng có hoa hồng giới thiệu nào ở đây cả. Bạn cứ nhắn cho mình là được.
+:::
+
+**Đề tài ngoài Marketing và Quản trị Kinh doanh.** Mình nhận thì cũng chỉ làm bạn đi chậm lại. Bạn nhắn cho mình, mình sẽ hỏi quanh trong mạng lưới của mình xem có ai hợp hơn không.
+
+**Viết thay bạn.** Việc này mình không nhận, kể cả một đoạn nhỏ. Nếu bạn đang cần người viết hộ thì mình không phải người đó, và mình nói ngay từ đầu để bạn khỏi mất công.
+
+**Chỉnh số cho ra kết quả đẹp.** Mình không sửa dữ liệu, không loại quan sát để giả thuyết được ủng hộ, không đổi mô hình chỉ vì mô hình kia cho p nhỏ hơn 0,05. Một giả thuyết bị bác bỏ vẫn là kết quả nghiên cứu hợp lệ, và mình sẽ ngồi cùng bạn viết nó thành một đóng góp thật.
+
+**Hứa bài của bạn được đăng.** Không ai hứa được điều đó, kể cả giáo sư đầu ngành. Việc nhận đăng do ban biên tập và người phản biện quyết. Điều mình đi cùng bạn được là làm cho bản thảo đủ chuẩn để nộp, và khi phản biện gửi về thì bạn biết cách trả lời.
+
+**Thay vai trò của người hướng dẫn ở trường.** Thầy cô hướng dẫn là người chịu trách nhiệm học thuật trước nhà trường và là người ký duyệt. Mình đứng ở chỗ khác, là bạn đường thêm chứ không chen vào vai trò đó.
+
+**Nộp bài hộ hoặc liên hệ tạp chí thay bạn.** Bạn là tác giả, nên bạn đứng ra. Mình ngồi cạnh lúc bạn viết cover letter và lúc bạn đọc thư phản biện.
+
+## Hai chỗ mình tự tránh
+
+::: {.note}
+Mình không nhận nghiên cứu sinh của **Đại học Duy Tân**, nơi mình đang làm việc.
+
+Mình cũng không nhận nghiên cứu sinh của **Trường Đại học Kinh tế, Đại học Đà Nẵng**, nơi mình đang học.
+
+Hai chỗ này mình tự đặt ra cho mình, để tránh mọi tình huống xung đột lợi ích, kể cả những tình huống chỉ trông có vẻ xung đột.
+:::
+
+## Về chuyện tài liệu
+
+Mỗi bạn nhận một danh mục 100 bài báo quốc tế mình lọc riêng cho đề tài của bạn, kèm ghi chú vì sao đáng đọc và nên đọc theo thứ tự nào.
+
+Phần khó không nằm ở việc tải bài về, mà ở việc biết bài nào đáng đọc trong hàng nghìn kết quả tìm kiếm. Đó là phần mình làm cho bạn.
+
+Còn việc lấy bản toàn văn, mình chỉ bạn dùng các đường chính đáng: cơ sở dữ liệu mà thư viện trường bạn đã mua quyền truy cập, các tạp chí truy cập mở, bản tác giả tự lưu trên ResearchGate và các kho tiền ấn phẩm, và cách viết thư xin bài trực tiếp từ tác giả. Cách cuối này ít người biết nhưng hiệu quả cao, vì phần lớn tác giả rất sẵn lòng gửi bài cho người đọc nghiêm túc.
+
+## Còn một chuyện nữa
+
+Mình chưa cầm bằng tiến sĩ trong tay. Mình bắt đầu nghiên cứu sinh tháng 9 năm 2023, dự kiến bảo vệ cấp trường vào tháng 12 năm 2026 và nhận bằng trong năm 2027.
+
+Mình nói ra chỗ này vì bạn có quyền biết trước khi quyết định. Nếu bạn cần một người đã có bằng và có thâm niên hướng dẫn nghiên cứu sinh, thì mình chưa phải người đó. Còn nếu bạn cần một người đang đi cùng hệ thống với bạn, biết các mốc còn nóng hổi vì chính mình vừa đi qua, thì đó là chỗ mình mạnh nhất.
+
+::: {.hoa}
+:::
+
+## Hai bên cùng giữ lời
+
+Lịch học do hai bên thoả thuận trực tiếp với nhau. Bạn bận đột xuất thì mình dạy bù, mình bận thì mình cũng dạy bù, chuyện đó bình thường.
+
+Nhưng mỗi buổi mình đều để lại cho bạn một phần việc kèm hạn, và phần đó bạn cần làm xong để mình còn đọc và sửa. Học mà không thực hành thì mình không nhận, không phải vì mình khó tính, mà vì mình đã thấy nhiều bạn trả tiền xong rồi trôi mất ba tháng, cuối cùng chẳng có gì trong tay.
+
+Bạn đi làm bận, mình cũng bận. Bạn có gia đình, con nhỏ, cha mẹ đau ốm, mình cũng vậy. Thôi thì hai bên cùng cố, dìu nhau qua từng chặng 🌾
+
+::: {.note}
+Bạn viết, mình đọc cùng. Chỉ vậy thôi, và mình làm đúng như vậy suốt cả hành trình 🙂
+:::
+
+[Hẹn mình 30 phút nói chuyện](lien-he.qmd){.cta}
+[Xem câu hỏi thường gặp](hoi-dap.qmd){.cta-quiet}
+
+{{< include _cam-ket.qmd >}}

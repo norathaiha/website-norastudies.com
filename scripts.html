@@ -1,0 +1,69 @@
+<div class="float-chat">
+  <a class="float-btn float-zalo"
+     href="https://zalo.me/84933331838"
+     aria-label="Nhắn Zalo cho Nora">Nhắn Zalo</a>
+  <a class="float-btn float-wa"
+     href="https://wa.me/84933331838?text=Ch%C3%A0o%20Nora%2C%20m%C3%ACnh%20mu%E1%BB%91n%20h%E1%BB%8Fi%20v%E1%BB%81%20vi%E1%BB%87c%20%C4%91%E1%BB%93ng%20h%C3%A0nh%20lu%E1%BA%ADn%20%C3%A1n."
+     aria-label="Nhắn WhatsApp cho Nora">WhatsApp</a>
+</div>
+
+<script>
+(function () {
+  var itMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  // Đếm số từ 0 lên giá trị thật
+  function demSo(el) {
+    var dich = parseFloat(el.getAttribute('data-dem'));
+    var duoi = el.getAttribute('data-duoi') || '';
+    if (isNaN(dich)) return;
+    if (itMotion) { el.textContent = dich + duoi; return; }
+
+    var batDau = null;
+    var thoiGian = 1100;
+
+    function buoc(mocThoiGian) {
+      if (batDau === null) batDau = mocThoiGian;
+      var tien = Math.min((mocThoiGian - batDau) / thoiGian, 1);
+      var muot = 1 - Math.pow(1 - tien, 3);
+      el.textContent = Math.round(dich * muot) + duoi;
+      if (tien < 1) requestAnimationFrame(buoc);
+    }
+    requestAnimationFrame(buoc);
+  }
+
+  var daChay = new WeakSet();
+
+  function hienThi(el) {
+    el.classList.add('hien');
+    el.querySelectorAll('[data-dem]').forEach(function (s) {
+      if (!daChay.has(s)) { daChay.add(s); demSo(s); }
+    });
+  }
+
+  var canQuanSat = document.querySelectorAll('.reveal');
+
+  // Con số thật nằm sẵn trong HTML để người tắt JavaScript vẫn đọc được.
+  // Chỉ khi tới đây, tức là JavaScript đang chạy, mới hạ về 0 để đếm lên.
+  if (!itMotion) {
+    document.querySelectorAll('[data-dem]').forEach(function (s) {
+      s.textContent = '0' + (s.getAttribute('data-duoi') || '');
+    });
+  }
+
+  if (!('IntersectionObserver' in window)) {
+    canQuanSat.forEach(hienThi);
+    return;
+  }
+
+  var quanSat = new IntersectionObserver(function (danhSach) {
+    danhSach.forEach(function (muc) {
+      if (muc.isIntersecting) {
+        hienThi(muc.target);
+        quanSat.unobserve(muc.target);
+      }
+    });
+  }, { threshold: 0.18, rootMargin: '0px 0px -40px 0px' });
+
+  canQuanSat.forEach(function (el) { quanSat.observe(el); });
+})();
+</script>

@@ -1,0 +1,177 @@
+---
+title: ""
+pagetitle: "Câu hỏi thường gặp — NoraStudies"
+description: "Mentor khác gì thầy hướng dẫn, mình có viết thay không, học phí có gồm phí đăng bài không, và những câu khác."
+---
+
+::: {.hero}
+
+::: {.eyebrow}
+Hỏi đáp
+:::
+
+# Những câu các bạn hay hỏi mình nhất
+
+::: {.lede}
+Nếu bạn cần hỏi mình chuyện gì mà chưa được nhắc tới ở dưới đây, cứ nhắn tin riêng cho mình, mình sẽ trả lời bạn sớm 🙂
+:::
+
+:::
+
+## Về cách hai bên làm việc
+
+::: {.faq}
+### Mentor khác gì thầy cô hướng dẫn của mình ở trường?
+
+Thầy cô hướng dẫn là người chịu trách nhiệm học thuật trước nhà trường và là người ký duyệt. Mình đứng ở chỗ khác, không chen vào vai trò đó. Mình là người bạn nhắn được giữa hai lần gặp thầy, người đọc lại bản nháp trước khi bạn gửi đi, và người nhắc bạn mốc nộp còn ba tuần.
+:::
+
+::: {.faq}
+### Nora có viết thay mình không?
+
+Không, kể cả một đoạn nhỏ. Bạn viết, mình đọc rồi chỉ ra chỗ chưa ổn cùng lý do. Nếu bạn đang cần người viết hộ thì mình không phải người đó, và mình nói ngay từ buổi đầu để bạn khỏi mất công.
+:::
+
+::: {.faq}
+### Học trực tuyến hay gặp trực tiếp?
+
+Chủ yếu trực tuyến qua Google Meet, nên bạn ở tỉnh nào cũng đi cùng mình được. Bạn ở Đà Nẵng thì gặp trực tiếp cũng được, tuỳ lịch hai bên.
+:::
+
+::: {.faq}
+### Nhóm ba bạn thì học ra sao?
+
+Ba bạn cùng chặng học chung phần kiến thức và quy trình, còn phần đọc bản viết thì mình làm riêng cho từng người. Học phí mỗi bạn nhẹ hơn kèm 1–1 khoảng bốn mươi phần trăm. Điều kiện là ba bạn phải cùng chặng. Mình không ghép người đang ở hai giai đoạn khác nhau, vì như vậy cả ba đều thiệt.
+:::
+
+::: {.faq}
+### Giữa các buổi mình hỏi được không?
+
+Được. Mình trả lời tin nhắn trong 24 giờ làm việc, và đọc bản viết của bạn một lần mỗi tuần. Cần đọc nhiều hơn thì hai bên bàn riêng.
+:::
+
+::: {.faq}
+### Mỗi lúc Nora nhận bao nhiêu bạn?
+
+Có giới hạn, vì mình đang vừa làm luận án của chính mình vừa làm nghiên cứu ở Viện. Khi lịch đầy, mình nói thật và hẹn bạn đợt sau, chứ nếu nhận rồi mà không dành đủ thời gian cho bạn thì cả hai bên đều thiệt.
+:::
+
+## Về chương trình đào tạo của bạn
+
+::: {.faq}
+### Luận án của mình viết bằng tiếng Anh, hoặc theo mẫu ghép các bài báo thành chương.
+
+Chỗ này mình chưa có kinh nghiệm. Mình học ở Việt Nam, đi theo mẫu chuyên đề tổng quan rồi chuyên đề 1, chuyên đề 2, rồi toàn bộ quyển luận án, nên với cấu trúc quyển theo mẫu nước ngoài, mình chưa dám nhận khi chưa đủ vững.
+
+Nhưng mình quen một mentor làm được việc đó và sẵn sàng nối bạn với người ấy. Không mất phí, và cũng chẳng có hoa hồng giới thiệu nào ở đây cả. Bạn cứ nhắn cho mình.
+:::
+
+::: {.faq}
+### Ngành của mình không phải Marketing hay Quản trị Kinh doanh.
+
+Mình nhận thì cũng chỉ làm bạn đi chậm lại. Nhưng bạn cứ nhắn, mình hỏi quanh trong mạng lưới xem có ai hợp hơn không. Việc này mình làm không lấy gì cả.
+:::
+
+::: {.faq}
+### Mình học hai năm rồi và đang thấy mắc kẹt. Nora có nhận không?
+
+Có, nhưng hai bên bắt đầu bằng một buổi gỡ rối. Sau buổi đó mình viết cho bạn một bản đánh giá: gỡ được hay không, gỡ bằng cách nào, mất bao lâu. Nếu mình thấy chưa gỡ được thì mình nói thẳng chứ không nhận tiền của bạn.
+:::
+
+::: {.faq}
+### Mình chưa biết nên bắt đầu từ chặng nào.
+
+Bạn không phải tự chọn. Trong buổi nói chuyện 30 phút không thu phí, bạn kể mình nghe bạn đang ở đâu, rồi mình nói cho bạn biết nên vào từ chặng nào. Nếu mình thấy bạn chưa cần tới mentor, mình cũng nói thẳng vậy.
+:::
+
+::: {.faq}
+### Mình là nghiên cứu sinh của Đại học Duy Tân hoặc Trường Đại học Kinh tế, Đại học Đà Nẵng.
+
+Hai trường này mình tự tránh: Duy Tân là nơi mình làm việc, còn Trường Đại học Kinh tế là nơi mình đang học, nên nhận bạn sẽ tạo ra xung đột lợi ích. Bạn cứ nhắn cho mình, mình giới thiệu bạn tới người khác, không lấy gì cả.
+:::
+
+::: {.hoa}
+:::
+
+## Về đầu ra và bài báo
+
+::: {.faq}
+### Nora có chắc bài của mình được đăng không?
+
+Không ai chắc được điều đó, kể cả giáo sư đầu ngành. Việc nhận đăng do ban biên tập và người phản biện quyết. Điều mình đi cùng bạn được là làm cho bản thảo đủ chuẩn để nộp, và khi phản biện gửi về thì bạn biết cách trả lời chứ không hoảng.
+:::
+
+::: {.faq}
+### Học phí có gồm phí đăng bài quốc tế không?
+
+Không. Có hai khoản tiền bạn có thể phải trả cho tạp chí, và cả hai đều nằm ngoài học phí, bạn trả thẳng cho nhà xuất bản chứ không qua mình.
+
+**Phí nộp bản thảo**, tiếng Anh là submission fee. Một số tạp chí thu ngay lúc bạn bấm nút nộp, và thu cả khi bài của bạn bị từ chối. Số tạp chí thu khoản này không nhiều, nhưng có.
+
+**Phí xử lý bài báo**, tiếng Anh là Article Processing Charge, viết tắt APC. Đây là khoản cố định trả cho nhà xuất bản để bài của bạn được đăng vĩnh viễn ở dạng truy cập mở, tức là ai cũng đọc và tải được mà không phải trả tiền. Với các tạp chí Q1 và Q2 trong ngành mình, khoản này thường không nhỏ.
+
+Việc chọn tạp chí nào là một phần công việc mình làm cùng bạn, và mình luôn tính cả túi tiền của bạn vào đó. Có nhiều tạp chí Scopus uy tín không thu của tác giả đồng nào, chỉ là bạn phải biết chúng nằm ở đâu.
+:::
+
+::: {.faq}
+### Nora có đứng tên đồng tác giả không?
+
+Không. Kết quả nghiên cứu là của bạn, tên trên bài là của bạn. Nếu bạn muốn ghi một dòng cảm ơn ở mục Acknowledgements thì mình vui, mà không ghi thì cũng hoàn toàn bình thường.
+:::
+
+::: {.faq}
+### Nếu giả thuyết của mình bị bác bỏ thì sao?
+
+Đó vẫn là một kết quả nghiên cứu hợp lệ, và mình sẽ ngồi cùng bạn viết nó thành một đóng góp thật. Điều mình không làm là sửa dữ liệu hay loại quan sát để giả thuyết được ủng hộ.
+:::
+
+## Về Nora
+
+::: {.faq}
+### Nora có bằng tiến sĩ chưa?
+
+Chưa. Mình bắt đầu nghiên cứu sinh tháng 9 năm 2023, dự kiến bảo vệ cấp trường tháng 12 năm 2026 và nhận bằng trong năm 2027.
+
+Mình nói ra chỗ này vì bạn có quyền biết trước khi quyết. Nếu bạn cần một người đã có bằng và có thâm niên hướng dẫn nghiên cứu sinh, mình chưa phải người đó. Còn nếu bạn cần một người đang đi cùng hệ thống với bạn và nhớ rõ từng mốc vì vừa mới đi qua, thì đó là chỗ mình mạnh nhất.
+:::
+
+::: {.faq}
+### Nora làm mentor được bao lâu rồi?
+
+Từ năm 2023, mình hướng dẫn các nhóm sinh viên nghiên cứu khoa học ở Duy Tân. Ba năm, tám công bố hội thảo và tạp chí cùng các bạn ấy. Năm 2024, một nhóm mình hướng dẫn đi tới vòng chung kết toàn quốc Giải thưởng Sinh viên nghiên cứu khoa học Euréka. Từ 2024 mình làm cố vấn viết học thuật, tổ chức hội thảo chuyên đề về tổng quan hệ thống, chuẩn báo cáo mô hình cấu trúc và viết tiếng Anh học thuật.
+
+Việc đi cùng nghiên cứu sinh là phần nối dài của mấy năm đó, ở mức khó hơn.
+:::
+
+## Về tiền
+
+::: {.faq}
+### Mình trả một lần hay chia đợt?
+
+Chia đợt. Chặng lẻ thì 50% khi bắt đầu và 50% ở giữa chặng. Đi cả hành trình thì đóng theo từng chặng, đầu mỗi chặng, chứ không đóng hết một lần.
+:::
+
+::: {.faq}
+### Nếu mình thấy không hợp thì sao?
+
+Trong hai buổi đầu, nếu bạn thấy không hợp thì mình gửi lại phần chưa dùng, không hỏi lý do. Sau hai buổi đầu thì mình không hoàn nữa, nhưng bạn được bảo lưu và dời lịch khi có việc đột xuất.
+:::
+
+::: {.faq}
+### Mình đang khó khăn về tiền.
+
+Cứ nhắn cho mình và nói thẳng tình hình. Mình không hứa trước, nhưng mình nghe 🙂
+:::
+
+::: {.faq}
+### Vì sao giá lại để công khai trên web?
+
+Vì bạn có quyền biết trước khi nhắn tin. Việc không công khai học phí chỉ tạo thêm một vòng trao đổi mà cả hai bên đều không cần tới.
+:::
+
+## Vẫn chưa có câu trả lời
+
+[Nhắn Zalo cho mình](https://zalo.me/84933331838){.cta}
+[Hẹn 30 phút nói chuyện](lien-he.qmd){.cta-quiet}
+
+{{< include _cam-ket.qmd >}}

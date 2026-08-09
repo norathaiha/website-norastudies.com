@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="NoraStudies">
+  <title>NoraStudies — chang 3: co so ly thuyet va mo hinh</title>
+  <desc>Net 2px, mau #D1352B, nen trong suot.</desc>
+  <g fill="none" stroke="#D1352B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="100" cy="44" r="13"></circle>
+    <circle cx="44" cy="100" r="13"></circle>
+    <circle cx="156" cy="100" r="13"></circle>
+    <circle cx="100" cy="156" r="13"></circle>
+    <path d="M 90.8 53.2 L 53.2 90.8"></path>
+    <path d="M 109.2 53.2 L 146.8 90.8"></path>
+    <path d="M 53.2 109.2 L 90.8 146.8"></path>
+    <path d="M 146.8 109.2 L 109.2 146.8"></path>
+  </g>
+</svg>

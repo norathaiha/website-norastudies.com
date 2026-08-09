@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="NoraStudies">
+  <title>NoraStudies — chang 2: chuyen de tong quan</title>
+  <desc>Net 2px, mau #D1352B, nen trong suot.</desc>
+  <g fill="none" stroke="#D1352B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="34" y="46" width="104" height="72"></rect>
+    <rect x="46" y="60" width="104" height="72"></rect>
+    <rect x="58" y="74" width="104" height="72"></rect>
+    <path d="M 76 104 H 144"></path>
+    <path d="M 76 122 H 122"></path>
+  </g>
+</svg>
