@@ -10,7 +10,7 @@ description: "Năm chặng của một luận án tiến sĩ ngành Marketing v�
 Lộ trình
 :::
 
-# Năm chặng, hết mỗi chặng bạn cầm được một thứ trong tay
+# Năm chặng, và hết mỗi chặng bạn có một sản phẩm nộp được
 
 ::: {.lede}
 Điều làm nhiều bạn nản lòng thường không phải khối lượng công việc, mà là không biết mình còn cách đích bao xa. Lộ trình này cắt bốn năm thành năm đoạn, mỗi đoạn kết thúc bằng một sản phẩm cụ thể để bạn nhìn thấy mình vừa đi được bao nhiêu.
@@ -33,7 +33,7 @@ Bạn không bắt buộc phải đi cả năm chặng cùng mình. Nếu bạn 
 Mỗi chặng khép lại bằng một sản phẩm nộp được. Đây là chỗ khác nhau giữa việc học thêm kiến thức và việc đi hết một quãng đường: cuối chặng bạn có thứ cầm đi nộp, chứ không phải một cảm giác đã hiểu.
 
 ::: {.note}
-**Về chuyện bài báo.** Lộ trình hướng tới hai bài Scopus và một bài trong nước từ 0,75 điểm. Nhưng việc một bản thảo có được nhận đăng hay không thì ban biên tập và người phản biện quyết, không phải mình, cũng không phải bạn. Điều mình đi cùng bạn được là làm cho bản thảo đủ chuẩn để nộp, và khi phản biện gửi về thì bạn biết cách trả lời chứ không hoảng.
+**Về chuyện bài báo.** Lộ trình hướng tới hai bài Scopus và một bài trong nước từ 0,75 điểm. Nhưng việc một bản thảo có được nhận đăng hay không thì ban biên tập và người phản biện quyết, không phải mình, cũng không phải bạn. Điều mình hỗ trợ bạn được là làm cho bản thảo đủ chuẩn để nộp, và khi phản biện gửi về thì bạn biết cách trả lời chứ không hoảng.
 :::
 
 ## G0 · Đề cương nghiên cứu thi đầu vào {#g0}
@@ -144,7 +144,7 @@ Ba chuyên đề viết cách nhau hai năm thường không khớp nhau: ký hi
 
 | Hạng mục | Nội dung |
 |---|---|
-| Buổi nói chuyện đầu | 30 phút, không thu phí, qua Google Meet hoặc Zalo. Đủ để hai bên biết có hợp nhau không |
+| Buổi nói chuyện đầu | 30 phút, không thu phí, qua Google Meet hoặc Messenger. Đủ để hai bên biết có hợp nhau không |
 | Lộ trình riêng của bạn | Sau buổi đầu, bạn nhận một lộ trình viết ra giấy: mốc nào làm gì, hạn nào, sản phẩm nào |
 | Thư viện 100 bài | Danh mục 100 bài báo quốc tế mình lọc riêng cho đề tài của bạn, kèm ghi chú vì sao đáng đọc và nên đọc theo thứ tự nào, kèm hướng dẫn lấy bản toàn văn qua thư viện trường, các cơ sở dữ liệu truy cập mở, ResearchGate và cách viết thư xin bài từ chính tác giả. Xem mục dưới đây để hiểu vì sao lại là con số 100 |
 | Hỏi giữa các buổi | Mình trả lời trong 24 giờ làm việc, và đọc bản viết của bạn một lần mỗi tuần |

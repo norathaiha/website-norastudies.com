@@ -1,11 +1,13 @@
 ::: {.cam-ket}
 <img class="ck-hoa" src="/assets/hoa-do.svg" alt="" aria-hidden="true">
 
+[Liêm chính khoa học]{.ck-nhan}
+
 ### Một lời nói rõ trước, để hai bên đỡ ngại về sau
 
 Mentor là người bạn đường và là người chỉ hướng đi. Mình không nhận viết thay bạn bất cứ thứ gì, dù chỉ là một phần nhỏ của luận án, của chuyên đề hay của một bài báo.
 
 Nếu bạn tìm tới mình với mong muốn mình viết ra một sản phẩm để bạn đứng tên, mình xin phép được từ chối và dừng cuộc trao đổi ngay ở đó. Mong bạn hiểu và thông cảm cho mình, vì đây là ranh giới mình giữ cho cả hai phía: cho công việc của bạn, và cho nghề của mình.
 
-Còn nếu bạn muốn tự làm và cần một người đi cùng, thì mình ở đây, và mình sẽ đi hết chặng đường với bạn.
+Còn nếu bạn muốn tự làm và cần một người đồng hành, thì mình ở đây, và mình sẽ đi hết chặng đường với bạn.
 :::

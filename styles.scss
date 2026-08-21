@@ -419,18 +419,19 @@ strong { font-weight: 600; color: $ink; }
   .lede { font-size: 1.22rem; color: $ink; opacity: .88; position: relative; z-index: 1; }
   .eyebrow, p { position: relative; z-index: 1; }
 
-  // Luống anh túc mọc lên từ mép dưới, nằm sau chữ và để rất mờ
-  // để không bao giờ nuốt mất chữ tiêu đề.
+  // Luống anh túc mọc lên từ mép dưới, nằm sau chữ và để rất mờ.
+  // Độ mờ hạ xuống .14 và luống được đẩy sang phải sau khi thấy hoa hiện
+  // chồng lên các dòng tiêu đề dài, làm chữ khó đọc.
   &::after {
     content: "";
     position: absolute;
-    right: -2.5rem;
+    right: -4rem;
     bottom: 0;
-    width: 230px;
+    width: 190px;
     height: 100%;
-    max-height: 430px;
+    max-height: 330px;
     background: url("/assets/hoa-cum.svg") no-repeat right bottom / contain;
-    opacity: .3;
+    opacity: .14;
     pointer-events: none;
     z-index: 0;
   }
@@ -624,33 +625,51 @@ strong { font-weight: 600; color: $ink; }
 // KHỐI CAM KẾT, ĐẶT CUỐI MỌI TRANG
 // ===========================================================================
 
+// Đây là khối duy nhất trên toàn trang được đóng khung và tô nền. Chỗ này nói
+// về ranh giới nghề nghiệp, nên nó cần đứng tách hẳn ra khỏi phần bán hàng.
 .cam-ket {
   margin: 3.6rem 0 1rem;
-  padding: 1.7rem 0 0;
-  background: none;
-  border: 0;
-  border-top: 3px solid $poppy;
-  border-radius: 0;
+  padding: 1.7rem 1.8rem 1.8rem;
+  background: $blush;
+  border: 2px solid $poppy;
+  border-radius: 4px;
 
   h2, h3 {
-    margin: 0 0 .7rem;
-    padding: 0;
+    margin: 0 0 .8rem;
+    padding: 0 0 .7rem;
     border: 0;
-    font-size: 1.08rem;
+    border-bottom: 1px solid rgba($poppy, .3);
+    font-size: 1.14rem;
+    line-height: 1.4;
     color: $poppy-deep;
 
     &::before { display: none; }
   }
 
-  p { font-size: .96rem; margin-bottom: .75rem; }
+  p { font-size: .97rem; color: $ink; margin-bottom: .8rem; }
   p:last-child { margin-bottom: 0; }
+  strong { color: $poppy-deep; }
+
+  // Nhãn nhỏ ở đầu khung, để người đọc biết ngay đây là phần nói về nguyên tắc
+  p:has(.ck-nhan) { margin-bottom: .5rem; }
+  .ck-nhan {
+    display: inline-block;
+    background: $poppy;
+    color: #fff;
+    font-size: .68rem;
+    font-weight: 800;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    padding: .22rem .6rem;
+    border-radius: 2px;
+  }
 
   .ck-hoa {
     float: right;
     width: 46px;
     height: 46px;
-    margin: -.3rem -.3rem .4rem .9rem;
-    opacity: .85;
+    margin: -.2rem -.2rem .4rem .9rem;
+    opacity: .9;
   }
 }
 
@@ -954,7 +973,7 @@ tbody tr:nth-child(even) td { background: $cream; }
 }
 
 // ===========================================================================
-// NÚT NHẮN TIN NỔI — ZALO VÀ WHATSAPP
+// NÚT NHẮN TIN NỔI — MESSENGER VÀ WHATSAPP
 // ===========================================================================
 
 .float-chat {
@@ -983,7 +1002,7 @@ tbody tr:nth-child(even) td { background: $cream; }
   &:hover { transform: translateY(-1px); border-bottom: none; }
 }
 
-.float-zalo {
+.float-mes {
   background: $poppy;
   color: #fff !important;
   &:hover { background: $poppy-deep; color: #fff !important; }
@@ -1064,29 +1083,20 @@ tbody tr:nth-child(even) td { background: $cream; }
 // CHUYỂN ĐỘNG
 // ===========================================================================
 
-// Chỉ ẩn đi khi trình duyệt chạy được JavaScript, nếu không nội dung sẽ
-// không bao giờ hiện lại. Lớp .co-js do head.html gắn vào thẻ html.
-.co-js .reveal {
-  opacity: 0;
-  transform: translateY(14px);
-  transition: opacity .6s cubic-bezier(.2, .7, .3, 1), transform .6s cubic-bezier(.2, .7, .3, 1);
-}
-
-.co-js .reveal.hien {
+// Hiệu ứng hiện dần khi cuộn đã được gỡ bỏ.
+//
+// Trước đây mỗi khối .reveal bắt đầu ở opacity 0 và chỉ hiện ra khi cuộn tới.
+// Cách làm đó để lại hai lỗi thật trên máy người đọc: những khoảng trắng lớn
+// giữa các mục khi trình duyệt chưa kịp báo khối nào đã vào tầm nhìn, và các
+// khối đang dịch chuyển thì chồng lên nhau. Nội dung của trang quan trọng hơn
+// một hiệu ứng, nên bây giờ mọi khối đều hiện sẵn.
+//
+// Lớp .reveal vẫn giữ trong tệp .qmd vì phần đếm số trong scripts.html dựa
+// vào nó để biết chỗ nào có con số cần đếm.
+.reveal, .co-js .reveal {
   opacity: 1;
   transform: none;
 }
-
-// Bốn con số hiện lần lượt
-.facts > .reveal:nth-child(1) { transition-delay: 0ms; }
-.facts > .reveal:nth-child(2) { transition-delay: 100ms; }
-.facts > .reveal:nth-child(3) { transition-delay: 200ms; }
-.facts > .reveal:nth-child(4) { transition-delay: 300ms; }
-
-.card-grid > .reveal:nth-child(1) { transition-delay: 0ms; }
-.card-grid > .reveal:nth-child(2) { transition-delay: 80ms; }
-.card-grid > .reveal:nth-child(3) { transition-delay: 160ms; }
-.card-grid > .reveal:nth-child(4) { transition-delay: 240ms; }
 
 // Con số đang đếm giữ chỗ để chữ bên dưới không nhảy
 .fact-num { font-variant-numeric: tabular-nums; min-height: 1.1em; }
@@ -1107,7 +1117,6 @@ tbody tr:nth-child(even) td { background: $cream; }
 
 // Tôn trọng thiết lập giảm chuyển động của người dùng
 @media (prefers-reduced-motion: reduce) {
-  .co-js .reveal { opacity: 1; transform: none; transition: none; }
   .hero h1, .hero .lede, .hero .eyebrow, .hero p { animation: none; }
   .tagline-track { animation: none; padding-left: 0; }
   .tagline-bar { text-align: center; }

@@ -26,7 +26,7 @@ Bài viết
 # Viết về nghề, không viết để bán
 
 ::: {.lede}
-Những bài ở đây là thứ mình hay phải giải thích lại nhiều lần. Viết ra một lần cho gọn, và cũng để bạn xem cách mình làm nghề trước khi quyết định đi cùng nhau.
+Những bài ở đây là thứ mình hay phải giải thích lại nhiều lần. Viết ra một lần cho gọn, và cũng để bạn xem cách mình làm nghề trước khi quyết định đồng hành cùng nhau.
 :::
 
 :::

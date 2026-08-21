@@ -258,7 +258,7 @@ Hai lối tiếp cận này đòi hai cách nghĩ khác nhau. Bạn làm hỗn h
 :::
 
 ::: {.card .reveal}
-### Đã đi cùng người khác trước bạn
+### Đã đồng hành với người khác trước bạn
 
 Tám công bố cùng các nhóm sinh viên trong ba năm. Năm 2024, một nhóm mình hướng dẫn vào tới vòng chung kết toàn quốc Giải thưởng Sinh viên nghiên cứu khoa học Euréka.
 :::
@@ -309,7 +309,7 @@ Mình biết cảm giác gửi bản thảo đi rồi chờ, và cảm giác ph�
 
 ## Học phí
 
-Buổi lẻ từ 3 triệu. Các chặng lớn từ 7 triệu tới 50 triệu, tuỳ bạn đi cùng mình bao xa. Giá đã gồm toàn bộ thời gian hai bên làm việc với nhau và tài liệu mình chuẩn bị cho bạn. Chưa gồm phí đăng bài của tạp chí, khoản đó bạn trả thẳng cho tạp chí.
+Buổi lẻ từ 3 triệu. Các chặng lớn từ 7 triệu tới 50 triệu, tuỳ bạn đồng hành với mình bao xa. Giá đã gồm toàn bộ thời gian hai bên làm việc với nhau và tài liệu mình chuẩn bị cho bạn. Chưa gồm phí đăng bài của tạp chí, khoản đó bạn trả thẳng cho tạp chí.
 
 [Xem bảng học phí đầy đủ](hoc-phi.qmd){.cta}
 [Đọc câu hỏi thường gặp](hoi-dap.qmd){.cta-quiet}

@@ -132,6 +132,8 @@ NoraStudies · ດານັງ, ຫວຽດນາມ
 ::: {.cam-ket}
 <img class="ck-hoa" src="/assets/hoa-do.svg" alt="" aria-hidden="true">
 
+[Research integrity]{.ck-nhan}
+
 ### ຂໍແຈ້ງໃຫ້ຊັດເຈນຕັ້ງແຕ່ຕົ້ນ
 
 Mentor ແມ່ນເພື່ອນຮ່ວມທາງ ແລະ ຜູ້ຊີ້ແນະ. ຂ້ອຍບໍ່ຮັບຂຽນແທນເຈົ້າ ບໍ່ວ່າສ່ວນໃດ, ທັງວິທະຍານິພົນ, ບົດສະເພາະ ຫຼື ບົດຄວາມ.

@@ -13,7 +13,7 @@ Học phí
 # Giá để công khai, để bạn tự quyết được mà không phải nhắn tin hỏi
 
 ::: {.lede}
-Buổi lẻ từ 3 triệu, các chặng lớn từ 7 triệu tới 50 triệu. Bạn lấy một mảnh nhỏ đang cần, đi lẻ từng chặng, hoặc đi cùng mình cả hành trình.
+Buổi lẻ từ 3 triệu, các chặng lớn từ 7 triệu tới 50 triệu. Bạn lấy một mảnh nhỏ đang cần, đi lẻ từng chặng, hoặc đồng hành với mình suốt cả hành trình.
 :::
 
 :::
@@ -228,7 +228,7 @@ Học phí chưa gồm tiền bạn đăng ký gói AI hằng tháng, khoản đ
 ::: {.note}
 **Vì sao gói này không bán riêng.** Công cụ AI chỉ giúp được bạn khi bạn đã biết mình đang đi đâu. Người chưa có câu hỏi nghiên cứu rõ ràng mà cầm sẵn AI trong tay thì thường ra nhanh hơn, sai cũng nhanh hơn, và tự tin vào cái sai đó.
 
-Nên mình chỉ bán gói này cho bạn nào đã đi cùng mình từ hai chặng trở lên. Lúc đó bạn đã có đề tài, có khung, và AI mới thật sự tiết kiệm thời gian cho bạn 🙂
+Nên mình chỉ bán gói này cho bạn nào đã đồng hành với mình từ hai chặng trở lên. Lúc đó bạn đã có đề tài, có khung, và AI mới thật sự tiết kiệm thời gian cho bạn 🙂
 :::
 
 ::: {.hoa}

@@ -1,7 +1,7 @@
 ---
 title: ""
 pagetitle: "Liên hệ và hẹn nói chuyện — NoraStudies"
-description: "Buổi nói chuyện đầu 30 phút, không thu phí. Zalo, WhatsApp, email. Nguyễn Thái Hà, Đà Nẵng."
+description: "Buổi nói chuyện đầu 30 phút, không thu phí. Messenger, WhatsApp, email. Nguyễn Thái Hà, Đà Nẵng."
 ---
 
 ::: {.hero}
@@ -16,14 +16,14 @@ Liên hệ
 Bạn kể mình nghe bạn đang ở đâu, mình nói cho bạn biết nên vào từ chặng nào. Nếu mình thấy bạn chưa cần tới mentor, mình cũng nói thẳng như vậy 🙂
 :::
 
-[Nhắn Zalo cho mình](https://zalo.me/84965849113){.cta}
+[Nhắn Messenger cho mình](https://m.me/norastudies){.cta}
 [Nhắn WhatsApp](https://wa.me/84965849113?text=Ch%C3%A0o%20Nora%2C%20m%C3%ACnh%20mu%E1%BB%91n%20h%E1%BA%B9n%20bu%E1%BB%95i%20n%C3%B3i%20chuy%E1%BB%87n%2030%20ph%C3%BAt.){.cta-quiet}
 
 :::
 
 ## Buổi nói chuyện diễn ra thế nào
 
-Ba mươi phút, qua Google Meet hoặc Zalo. Không có phần giới thiệu dài dòng, hai bên vào việc luôn.
+Ba mươi phút, qua Google Meet hoặc Messenger. Không có phần giới thiệu dài dòng, hai bên vào việc luôn.
 
 **Mười phút đầu, bạn nói.** Bạn đang học năm thứ mấy, ở trường nào, chương trình tiếng Việt hay tiếng Anh, đề tài là gì, đang mắc ở chỗ nào, trường yêu cầu mốc nào.
 
@@ -54,7 +54,7 @@ Hai trang này trả lời phần lớn câu hỏi, và đọc trước thì bu�
 
 ## Theo dõi mình trước cũng được
 
-Mình đăng nội dung về cách làm nghiên cứu ở các kênh trên. Xem thử một thời gian rồi hẵng quyết định đi cùng nhau cũng là cách hay, để bạn biết mình làm nghề thế nào trước khi trả đồng nào 🌾
+Mình đăng nội dung về cách làm nghiên cứu ở các kênh trên. Xem thử một thời gian rồi hẵng quyết định đồng hành cùng nhau cũng là cách hay, để bạn biết mình làm nghề thế nào trước khi trả đồng nào 🌾
 
 Hồ sơ học thuật: [ORCID](https://orcid.org/0000-0002-8865-9461) · [Google Scholar](https://scholar.google.com/citations?user=EWGQWc4AAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Thai-Ha-Nguyen) · [LinkedIn](https://www.linkedin.com/in/nguyenthai-ha/)
 

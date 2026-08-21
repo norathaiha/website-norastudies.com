@@ -13,10 +13,10 @@ Bài báo Q1 và Q2 · Marketing, Quản trị Kinh doanh và các ngành gần
 # Bản thảo của bạn có thể đã đủ tốt, chỉ là nó chưa được kể đúng cách
 
 ::: {.lede}
-Nhiều bản thảo bị từ chối không phải vì nghiên cứu yếu, mà vì phần đóng góp chưa được nói ra rõ ràng, hoặc vì tạp chí được chọn chưa hợp với câu chuyện mà bài đang kể. Mình đi cùng bạn ở cả hai chỗ đó 🙂
+Nhiều bản thảo bị từ chối không phải vì nghiên cứu yếu, mà vì phần đóng góp chưa được nói ra rõ ràng, hoặc vì tạp chí được chọn chưa hợp với câu chuyện mà bài đang kể. Mình đồng hành với bạn ở cả hai chỗ đó 🙂
 :::
 
-[Nhắn Zalo để trao đổi](https://zalo.me/84965849113){.cta}
+[Nhắn Messenger để trao đổi](https://m.me/norastudies){.cta}
 [Xem cách mình làm việc](liem-chinh.qmd){.cta-quiet}
 
 ::: {.hoa-no-khung}
@@ -61,7 +61,7 @@ Ba trang nhận xét gửi về, đọc xong thấy nặng nề và không biế
 
 :::
 
-## Phần mình đi cùng bạn gồm những gì
+## Phần mình đồng hành với bạn gồm những gì
 
 ::: {.card-grid}
 
@@ -117,21 +117,23 @@ Khi thư phản biện gửi về, hai bên cùng đọc, cùng phân loại t�
 
 ## Ngành nào mình nhận
 
-Mình làm việc trong nhóm ngành kinh doanh và khoa học xã hội ứng dụng, gồm Marketing, Quản trị Kinh doanh, hành vi người tiêu dùng, quản trị nhân sự, du lịch và khách sạn, giáo dục đại học, cùng những hướng nghiên cứu về công nghệ và con người nằm giữa các ngành này.
+Phạm vi quen thuộc nhất của mình nằm ở nhóm ngành kinh doanh và khoa học xã hội ứng dụng: Marketing, Quản trị Kinh doanh, hành vi người tiêu dùng, quản trị nhân sự, quản trị chất lượng và vận hành, tài chính hành vi, thương mại điện tử, khởi nghiệp, du lịch và khách sạn.
 
-Nếu đề tài của bạn nằm ngoài phạm vi đó, bạn cứ nhắn cho mình. Mình sẽ nói thật ngay từ đầu là mình có đi cùng bạn được hay không, và nếu không thì mình hỏi quanh trong mạng lưới của mình xem có ai hợp hơn.
+Bên cạnh đó, mình cũng nhận những ngành gần có cùng lối làm việc với dữ liệu khảo sát và phỏng vấn: giáo dục và quản lý giáo dục, tâm lý học ứng dụng, xã hội học, truyền thông, y tế công cộng ở phần hành vi người bệnh, cùng các hướng nghiên cứu về công nghệ và con người nằm giữa những ngành này.
 
-## Học phí
+Nếu đề tài của bạn nằm ngoài phạm vi trên, bạn cứ nhắn cho mình. Mình sẽ nói thật ngay từ đầu là mình có hỗ trợ được cho bạn hay không, và nếu không thì mình hỏi quanh trong mạng lưới của mình xem có ai hợp hơn với bạn.
+
+## Phí mentor
 
 ::: {.note}
 **Phần này mình xin được trao đổi riêng với từng bạn.** Không phải để giữ giá, mà vì mức công sức chênh nhau rất nhiều giữa các trường hợp.
 
 Một bản thảo đã hoàn chỉnh, chỉ cần soát lại phần diễn đạt và chọn tạp chí, khác hẳn một bộ dữ liệu chưa có khung bài mà phải dựng lại từ đầu. Báo một con số chung cho cả hai sẽ thiệt cho một trong hai bên.
 
-Bạn gửi mình xem bản thảo hoặc bộ dữ liệu đang có, mình đọc rồi báo lại mức học phí cùng thời gian dự kiến. Việc xem và báo giá này mình không thu phí.
+Bạn gửi mình xem bản thảo hoặc bộ dữ liệu đang có, mình đọc rồi báo lại mức phí mentor cùng thời gian dự kiến. Việc xem và báo mức phí này mình không thu tiền.
 :::
 
-Học phí chưa bao gồm phí nộp bản thảo và phí xử lý bài báo mà tạp chí thu, gọi là submission fee và Article Processing Charge. Hai khoản đó bạn trả thẳng cho nhà xuất bản. Trong lúc chọn tạp chí, mình luôn tính cả túi tiền của bạn vào đó, và nhiều tạp chí Scopus uy tín không thu của tác giả đồng nào.
+Phí mentor chưa bao gồm phí nộp bản thảo và phí xử lý bài báo mà tạp chí thu, gọi là submission fee và Article Processing Charge. Hai khoản đó bạn trả thẳng cho nhà xuất bản. Trong lúc chọn tạp chí, mình luôn tính cả túi tiền của bạn vào đó, và nhiều tạp chí Scopus uy tín không thu của tác giả đồng nào.
 
 ## Điều mình muốn nói rõ trước
 
@@ -158,7 +160,7 @@ Tên trên bài là của bạn và của nhóm bạn. Nếu bạn muốn ghi m�
 
 ### Mình không hứa bài sẽ được nhận đăng
 
-Việc nhận đăng do ban biên tập và người phản biện quyết định. Điều mình đi cùng bạn được là làm cho bản thảo đủ chuẩn để nộp, và khi phản biện gửi về thì bạn biết cách trả lời chứ không hoảng.
+Việc nhận đăng do ban biên tập và người phản biện quyết định. Điều mình hỗ trợ bạn được là làm cho bản thảo đủ chuẩn để nộp, và khi phản biện gửi về thì bạn biết cách trả lời chứ không hoảng.
 :::
 
 ::: {.card .reveal}
@@ -182,11 +184,11 @@ Mình cũng làm việc được với cả hai lối tiếp cận, định tín
 
 ## Bắt đầu thế nào
 
-Bạn nhắn cho mình, kể ngắn gọn bạn đang có gì trong tay: một ý tưởng, một bộ dữ liệu, một bản thảo, hay một thư phản biện vừa nhận. Hai bên hẹn ba mươi phút nói chuyện, không thu phí, để mình xem có đi cùng bạn được hay không.
+Bạn nhắn cho mình, kể ngắn gọn bạn đang có gì trong tay: một ý tưởng, một bộ dữ liệu, một bản thảo, hay một thư phản biện vừa nhận. Hai bên hẹn ba mươi phút nói chuyện, không thu phí, để mình xem có hỗ trợ được cho bạn hay không.
 
 Nếu mình thấy bản thảo của bạn đã đủ tốt để nộp mà chưa cần tới mentor, mình cũng nói thẳng như vậy 🌾
 
-[Nhắn Zalo cho mình](https://zalo.me/84965849113){.cta}
+[Nhắn Messenger cho mình](https://m.me/norastudies){.cta}
 [Nhắn WhatsApp](https://wa.me/84965849113){.cta-quiet}
 
 {{< include _cam-ket.qmd >}}

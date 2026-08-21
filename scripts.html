@@ -1,7 +1,7 @@
 <div class="float-chat">
-  <a class="float-btn float-zalo"
-     href="https://zalo.me/84965849113"
-     aria-label="Nhắn Zalo cho Nora">Nhắn Zalo</a>
+  <a class="float-btn float-mes"
+     href="https://m.me/norastudies"
+     aria-label="Nhắn Messenger cho Nora">Nhắn Messenger</a>
   <a class="float-btn float-wa"
      href="https://wa.me/84965849113?text=Ch%C3%A0o%20Nora%2C%20m%C3%ACnh%20mu%E1%BB%91n%20h%E1%BB%8Fi%20v%E1%BB%81%20vi%E1%BB%87c%20%C4%91%E1%BB%93ng%20h%C3%A0nh%20lu%E1%BA%ADn%20%C3%A1n."
      aria-label="Nhắn WhatsApp cho Nora">WhatsApp</a>
@@ -33,11 +33,15 @@
 
   var daChay = new WeakSet();
 
+  function chayMot(s) {
+    if (daChay.has(s)) return;
+    daChay.add(s);
+    demSo(s);
+  }
+
   function hienThi(el) {
     el.classList.add('hien');
-    el.querySelectorAll('[data-dem]').forEach(function (s) {
-      if (!daChay.has(s)) { daChay.add(s); demSo(s); }
-    });
+    el.querySelectorAll('[data-dem]').forEach(chayMot);
   }
 
   var canQuanSat = document.querySelectorAll('.reveal');
@@ -65,5 +69,11 @@
   }, { threshold: 0.18, rootMargin: '0px 0px -40px 0px' });
 
   canQuanSat.forEach(function (el) { quanSat.observe(el); });
+
+  // Lưới an toàn: nếu vì lý do nào đó bộ quan sát không báo về, các con số
+  // vẫn phải trở lại giá trị thật thay vì đứng mãi ở số 0.
+  setTimeout(function () {
+    document.querySelectorAll('[data-dem]').forEach(chayMot);
+  }, 4000);
 })();
 </script>

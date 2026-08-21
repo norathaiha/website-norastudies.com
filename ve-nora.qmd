@@ -43,7 +43,6 @@ Nghiên cứu viên tại Viện Nghiên cứu Kinh tế Xã hội, Đại học
 ::: {.vuon}
 :::
 
-[Một vườn anh túc, để chào bạn 🌾]{.video-caption}
 
 ## Mình là ai
 
@@ -54,7 +53,7 @@ Công việc chính của mình là nghiên cứu viên tại Viện Nghiên c�
 Mình vào nghiên cứu sinh tháng 9 năm 2023. Dự kiến bảo vệ luận án cấp trường vào tháng 12 năm 2026 và nhận bằng trong năm 2027, tính từ lúc nhập học tới lúc nhận bằng là ba năm tám tháng.
 
 ::: {.note}
-**Solo researcher.** Mình hay tự gọi mình như vậy. Một người làm nghiên cứu, tự chọn câu hỏi, tự đi tìm câu trả lời, không nằm trong một nhóm lớn nào và cũng không chờ ai giao đề tài. Vừa làm nghiên cứu vừa làm marketing thật, vừa đi cùng người khác trên đường của họ 🙂
+**Solo researcher.** Mình hay tự gọi mình như vậy. Một người làm nghiên cứu, tự chọn câu hỏi, tự đi tìm câu trả lời, không nằm trong một nhóm lớn nào và cũng không chờ ai giao đề tài. Vừa làm nghiên cứu vừa làm marketing thật, vừa đồng hành với người khác trên con đường của họ 🙂
 :::
 
 ::: {.hoa}
@@ -216,7 +215,7 @@ Một bản tổng quan kết hợp hai hoặc ba cách tiếp cận với nhau 
 ::: {}
 Mình đã thực hiện và có bài công bố theo hướng này. Tuy nhiên, nếu bạn hỏi mình có nên chọn trắc lượng thư mục làm phương pháp chính cho luận án hay không, mình thường thưa rằng nên cân nhắc thêm.
 
-Một bản đồ đồng trích dẫn được dựng cẩn thận vẫn rất đẹp và có giá trị riêng của nó. Chỉ là câu chuyện nó kể thường xoay quanh các bài báo nhiều hơn là quanh con người. Nếu bạn vẫn muốn theo hướng này, mình sẵn sàng đi cùng bạn, và mình chia sẻ quan điểm của mình từ đầu để bạn cân nhắc cho thuận tiện.
+Một bản đồ đồng trích dẫn được dựng cẩn thận vẫn rất đẹp và có giá trị riêng của nó. Chỉ là câu chuyện nó kể thường xoay quanh các bài báo nhiều hơn là quanh con người. Nếu bạn vẫn muốn theo hướng này, mình sẵn sàng đồng hành với bạn, và mình chia sẻ quan điểm của mình từ đầu để bạn cân nhắc cho thuận tiện.
 :::
 :::
 
@@ -266,7 +265,7 @@ Mình không đuổi theo mẫu lớn và cũng không đuổi theo số lượn
 
 Mình đang tìm người để làm chung với tư cách đồng tác giả, không phải quan hệ mua bán dịch vụ. Chuyện này mình xếp lịch riêng và bàn riêng 🙂
 
-[Nhắn Zalo cho mình](https://zalo.me/84965849113){.cta-quiet}
+[Nhắn Messenger cho mình](https://m.me/norastudies){.cta-quiet}
 :::
 
 ## Tìm mình ở đâu
@@ -285,6 +284,6 @@ Hồ sơ học thuật để bạn tra cứu độc lập:
 
 : {tbl-colwidths="[26,74]"}
 
-Nếu bạn tới đây vì đang tìm mentor đi cùng luận án, [phần đó nằm ở trang chủ](index.qmd).
+Nếu bạn tới đây vì đang tìm mentor đồng hành trong quá trình làm luận án, [phần đó nằm ở trang chủ](index.qmd).
 
 {{< include _cam-ket.qmd >}}
