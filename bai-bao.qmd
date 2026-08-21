@@ -1,0 +1,192 @@
+---
+title: ""
+pagetitle: "Mentor viết bài báo Q1 và Q2 — NoraStudies"
+description: "Đồng hành cùng bạn viết và nộp bài báo Scopus Q1, Q2 ngành Marketing, Quản trị Kinh doanh và các ngành gần. Mentor và soát bản thảo, không viết thay."
+---
+
+::: {.hero .hero-hoa}
+
+::: {.eyebrow}
+Bài báo Q1 và Q2 · Marketing, Quản trị Kinh doanh và các ngành gần
+:::
+
+# Bản thảo của bạn có thể đã đủ tốt, chỉ là nó chưa được kể đúng cách
+
+::: {.lede}
+Nhiều bản thảo bị từ chối không phải vì nghiên cứu yếu, mà vì phần đóng góp chưa được nói ra rõ ràng, hoặc vì tạp chí được chọn chưa hợp với câu chuyện mà bài đang kể. Mình đi cùng bạn ở cả hai chỗ đó 🙂
+:::
+
+[Nhắn Zalo để trao đổi](https://zalo.me/84965849113){.cta}
+[Xem cách mình làm việc](liem-chinh.qmd){.cta-quiet}
+
+::: {.hoa-no-khung}
+{{< include _hoa-no.qmd >}}
+:::
+
+:::
+
+::: {.note}
+**Đây là dịch vụ mentor và soát bản thảo, không phải dịch vụ viết bài.** Bạn viết bản thảo của mình. Mình đọc cùng bạn, chỉ ra chỗ lập luận đang hụt, và soát lại phần diễn đạt tiếng Anh trước khi bạn nộp. Mình không viết thay bạn một phần nào, và mình cũng không đứng tên đồng tác giả.
+:::
+
+## Bạn đang ở đâu trong chuyện này
+
+Ba tình huống dưới đây là ba lý do các anh chị tìm tới mình. Bạn đọc rồi nhận ra mình đang ở đâu.
+
+::: {.card-grid}
+
+::: {.card .sac-do .reveal}
+[Chưa có bản thảo]{.card-note}
+
+### Có dữ liệu và ý tưởng, chưa biết bắt đầu viết từ đâu
+
+Bạn đã thu xong dữ liệu, đã chạy ra kết quả, nhưng nhìn vào đó thì chưa thấy nó thành một bài báo. Việc cần làm trước tiên là tìm ra câu chuyện mà bộ dữ liệu này kể được, rồi mới dựng khung bài quanh câu chuyện ấy.
+:::
+
+::: {.card .sac-vang .reveal}
+[Đã có bản thảo]{.card-note}
+
+### Viết xong rồi nhưng chưa dám nộp
+
+Bạn đọc lại bản thảo của mình và thấy có chỗ chưa ổn, nhưng chưa gọi được tên chỗ đó. Mình đọc như một người phản biện sẽ đọc, đánh dấu từng chỗ họ sẽ dừng lại hỏi, và cùng bạn xử lý trước khi nộp.
+:::
+
+::: {.card .sac-man .reveal}
+[Đã nhận phản biện]{.card-note}
+
+### Nhận thư yêu cầu chỉnh sửa và thấy nản
+
+Ba trang nhận xét gửi về, đọc xong thấy nặng nề và không biết bắt đầu từ đâu. Mình ngồi cùng bạn đọc lại từng nhận xét, phân loại chỗ nào phải sửa, chỗ nào giải thích được, rồi cùng bạn dựng thư phản hồi.
+:::
+
+:::
+
+## Phần mình đi cùng bạn gồm những gì
+
+::: {.card-grid}
+
+::: {.card .reveal}
+[01]{.card-note}
+
+### Tìm ra đóng góp thật của bài
+
+Đây là câu hỏi đầu tiên mà ban biên tập đặt ra, và cũng là chỗ nhiều bản thảo bị dừng lại ngay từ vòng sàng lọc. Hai bên cùng làm rõ bài của bạn thêm được điều gì vào phần đã biết, và điều đó đủ mới tới mức nào so với các công trình đã đăng.
+:::
+
+::: {.card .reveal}
+[02]{.card-note}
+
+### Dựng khung bài theo chuẩn của tạp chí đích
+
+Mỗi nhóm tạp chí có cách trình bày và thứ tự lập luận riêng. Bạn sẽ biết bài của mình cần bao nhiêu phần, mỗi phần dài chừng nào, và phần nào cần đặt trước phần nào để người đọc đi theo được mạch lập luận.
+:::
+
+::: {.card .reveal}
+[03]{.card-note}
+
+### Soát phần phương pháp và kết quả
+
+Mình rà xem bạn đã báo cáo đủ những chỉ số mà phản biện quốc tế sẽ hỏi hay chưa, và cách trình bày bảng biểu đã theo đúng thông lệ của ngành hay chưa. Đây là chỗ dễ mất điểm nhất mà lại dễ sửa nhất.
+:::
+
+::: {.card .reveal}
+[04]{.card-note}
+
+### Chọn tạp chí và viết thư gửi ban biên tập
+
+Hai bên cùng lập một danh sách ngắn các tạp chí phù hợp với chủ đề, phương pháp và túi tiền của bạn, kèm cách nhận ra tạp chí săn mồi. Sau đó bạn viết cover letter, mình đọc lại.
+:::
+
+::: {.card .reveal}
+[05]{.card-note}
+
+### Soát tiếng Anh học thuật
+
+Phần này gọi đúng tên là proofreading. Mình soát lại cách diễn đạt để bản thảo đọc trôi và đúng chuẩn học thuật, nhưng không viết lại nội dung khoa học và không thêm ý mới vào bài của bạn.
+:::
+
+::: {.card .reveal}
+[06]{.card-note}
+
+### Đi cùng bạn qua vòng phản biện
+
+Khi thư phản biện gửi về, hai bên cùng đọc, cùng phân loại từng nhận xét, rồi bạn viết thư phản hồi và sửa bản thảo. Mình đọc lại trước khi bạn gửi đi.
+:::
+
+:::
+
+## Ngành nào mình nhận
+
+Mình làm việc trong nhóm ngành kinh doanh và khoa học xã hội ứng dụng, gồm Marketing, Quản trị Kinh doanh, hành vi người tiêu dùng, quản trị nhân sự, du lịch và khách sạn, giáo dục đại học, cùng những hướng nghiên cứu về công nghệ và con người nằm giữa các ngành này.
+
+Nếu đề tài của bạn nằm ngoài phạm vi đó, bạn cứ nhắn cho mình. Mình sẽ nói thật ngay từ đầu là mình có đi cùng bạn được hay không, và nếu không thì mình hỏi quanh trong mạng lưới của mình xem có ai hợp hơn.
+
+## Học phí
+
+::: {.note}
+**Phần này mình xin được trao đổi riêng với từng bạn.** Không phải để giữ giá, mà vì mức công sức chênh nhau rất nhiều giữa các trường hợp.
+
+Một bản thảo đã hoàn chỉnh, chỉ cần soát lại phần diễn đạt và chọn tạp chí, khác hẳn một bộ dữ liệu chưa có khung bài mà phải dựng lại từ đầu. Báo một con số chung cho cả hai sẽ thiệt cho một trong hai bên.
+
+Bạn gửi mình xem bản thảo hoặc bộ dữ liệu đang có, mình đọc rồi báo lại mức học phí cùng thời gian dự kiến. Việc xem và báo giá này mình không thu phí.
+:::
+
+Học phí chưa bao gồm phí nộp bản thảo và phí xử lý bài báo mà tạp chí thu, gọi là submission fee và Article Processing Charge. Hai khoản đó bạn trả thẳng cho nhà xuất bản. Trong lúc chọn tạp chí, mình luôn tính cả túi tiền của bạn vào đó, và nhiều tạp chí Scopus uy tín không thu của tác giả đồng nào.
+
+## Điều mình muốn nói rõ trước
+
+::: {.card-grid}
+
+::: {.card .reveal}
+[Ranh giới]{.card-note}
+
+### Mình không viết thay bạn
+
+Kể cả một đoạn nhỏ, kể cả phần mở đầu, kể cả khi bạn đang gấp. Bạn viết, mình đọc cùng, và phần soát tiếng Anh chỉ dừng ở cách diễn đạt chứ không chạm vào nội dung khoa học.
+:::
+
+::: {.card .reveal}
+[Ranh giới]{.card-note}
+
+### Mình không đứng tên đồng tác giả
+
+Tên trên bài là của bạn và của nhóm bạn. Nếu bạn muốn ghi một dòng cảm ơn ở mục Acknowledgements thì mình vui, mà không ghi thì cũng hoàn toàn bình thường.
+:::
+
+::: {.card .reveal}
+[Ranh giới]{.card-note}
+
+### Mình không hứa bài sẽ được nhận đăng
+
+Việc nhận đăng do ban biên tập và người phản biện quyết định. Điều mình đi cùng bạn được là làm cho bản thảo đủ chuẩn để nộp, và khi phản biện gửi về thì bạn biết cách trả lời chứ không hoảng.
+:::
+
+::: {.card .reveal}
+[Ranh giới]{.card-note}
+
+### Mình không nộp bài hộ bạn
+
+Bạn là tác giả, nên bạn là người đứng ra làm việc với tạp chí. Mình ngồi cạnh lúc bạn viết cover letter và lúc bạn đọc thư phản biện, nhưng tài khoản nộp bài là của bạn.
+:::
+
+:::
+
+## Vì sao mình làm được việc này
+
+Mình có 16 công trình khoa học, trong đó bốn bài đăng năm 2026 thuộc danh mục SSCI hoặc ESCI, và hai bài nằm ở nhóm Scopus Q1. Mình đứng vai tác giả thứ nhất hoặc tác giả liên hệ ở sáu công bố, nghĩa là mình đã tự tay đi qua toàn bộ quy trình từ lúc nộp tới lúc trả lời phản biện.
+
+Mình cũng làm việc được với cả hai lối tiếp cận, định tính và định lượng, nên bài của bạn theo hướng nào thì mình cũng đọc được phần phương pháp.
+
+[Xem danh mục 16 công trình](cong-bo.qmd){.cta-quiet}
+[Đọc thêm về mình](ve-nora.qmd){.cta-quiet}
+
+## Bắt đầu thế nào
+
+Bạn nhắn cho mình, kể ngắn gọn bạn đang có gì trong tay: một ý tưởng, một bộ dữ liệu, một bản thảo, hay một thư phản biện vừa nhận. Hai bên hẹn ba mươi phút nói chuyện, không thu phí, để mình xem có đi cùng bạn được hay không.
+
+Nếu mình thấy bản thảo của bạn đã đủ tốt để nộp mà chưa cần tới mentor, mình cũng nói thẳng như vậy 🌾
+
+[Nhắn Zalo cho mình](https://zalo.me/84965849113){.cta}
+[Nhắn WhatsApp](https://wa.me/84965849113){.cta-quiet}
+
+{{< include _cam-ket.qmd >}}

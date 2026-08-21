@@ -2,3 +2,6 @@ _site/
 .quarto/
 *.docx
 ~$*
+
+/.quarto/
+**/*.quarto_ipynb

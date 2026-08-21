@@ -44,7 +44,7 @@ Chân trang hoặc thanh điều hướng phải có liên kết tới các kên
 
 ```yaml
 right: |
-  [Zalo](https://zalo.me/84933331838) · [WhatsApp](https://wa.me/84933331838)
+  [Zalo](https://zalo.me/84965849113) · [WhatsApp](https://wa.me/84965849113)
 ```
 
 Thêm vào:
@@ -55,7 +55,7 @@ right: |
   [Threads](https://www.threads.com/@norathai_studies) · 
   [Facebook](https://www.facebook.com/norastudies) · 
   [TikTok](https://www.tiktok.com/@norathai_studies) · 
-  [Zalo](https://zalo.me/84933331838) · [WhatsApp](https://wa.me/84933331838)
+  [Zalo](https://zalo.me/84965849113) · [WhatsApp](https://wa.me/84965849113)
 ```
 
 Hoặc tách riêng thành một phần "Theo dõi" ở chân trang.

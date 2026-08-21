@@ -84,12 +84,6 @@ Có, nhưng hai bên bắt đầu bằng một buổi gỡ rối. Sau buổi đ�
 Bạn không phải tự chọn. Trong buổi nói chuyện 30 phút không thu phí, bạn kể mình nghe bạn đang ở đâu, rồi mình nói cho bạn biết nên vào từ chặng nào. Nếu mình thấy bạn chưa cần tới mentor, mình cũng nói thẳng vậy.
 :::
 
-::: {.faq}
-### Mình là nghiên cứu sinh của Đại học Duy Tân hoặc Trường Đại học Kinh tế, Đại học Đà Nẵng.
-
-Hai trường này mình tự tránh: Duy Tân là nơi mình làm việc, còn Trường Đại học Kinh tế là nơi mình đang học, nên nhận bạn sẽ tạo ra xung đột lợi ích. Bạn cứ nhắn cho mình, mình giới thiệu bạn tới người khác, không lấy gì cả.
-:::
-
 ::: {.hoa}
 :::
 
@@ -171,7 +165,7 @@ Vì bạn có quyền biết trước khi nhắn tin. Việc không công khai h
 
 ## Vẫn chưa có câu trả lời
 
-[Nhắn Zalo cho mình](https://zalo.me/84933331838){.cta}
+[Nhắn Zalo cho mình](https://zalo.me/84965849113){.cta}
 [Hẹn 30 phút nói chuyện](lien-he.qmd){.cta-quiet}
 
 {{< include _cam-ket.qmd >}}

@@ -222,6 +222,16 @@ Claude, Gemini, NotebookLM và Obsidian làm bộ não thứ hai. Mình cài đ�
 [Xem chi tiết](hoc-phi.qmd#ai){.cta-quiet}
 :::
 
+::: {.card .sac-la .reveal}
+[Dịch vụ riêng]{.card-note}
+
+### Bài báo Scopus Q1 và Q2
+
+Bạn đã có dữ liệu hoặc bản thảo và muốn nhắm tới tạp chí Q1, Q2. Mentor và soát bản thảo, không viết thay. Học phí trao đổi riêng theo tình trạng bài của bạn.
+
+[Xem trang riêng](bai-bao.qmd){.cta-quiet}
+:::
+
 :::
 
 ::: {.hoa}

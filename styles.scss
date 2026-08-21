@@ -384,17 +384,12 @@ strong { font-weight: 600; color: $ink; }
 .sac-xanh   { --sac: #{$navy};   --sac-bg: #{$navy-bg};   }
 .sac-do     { --sac: #{$poppy-deep}; --sac-bg: #{$blush}; }
 
+// Lớp .sac-* chỉ đổi màu chữ và biểu tượng, không tô nền,
+// để giữ cách trình bày phẳng theo hàng ngang.
 .sac-vang, .sac-la, .sac-man, .sac-xanh, .sac-do {
-  background: var(--sac-bg);
-  border-color: var(--sac);
-
-  .card-note, .stage-code, .price-amount { color: var(--sac); }
+  .card-note, .price-amount, .card-bt { color: var(--sac); }
   .stage-code { background: var(--sac); color: #fff; }
   h3 { color: var(--sac); }
-}
-
-.stage.sac-vang, .stage.sac-la, .stage.sac-man, .stage.sac-xanh, .stage.sac-do {
-  border-left-color: var(--sac);
 }
 
 // Nhãn nhỏ đổi màu
@@ -509,24 +504,61 @@ strong { font-weight: 600; color: $ink; }
 // THẺ
 // ===========================================================================
 
+// Bố cục hàng ngang: nhãn và biểu tượng bên trái, tiêu đề và diễn giải bên phải,
+// ngăn nhau bằng một đường kẻ mảnh. Không viền, không nền màu, không bo góc.
 .card-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
-  gap: 1.2rem;
-  margin: 1.6rem 0 2rem;
+  display: block;
+  margin: 1.6rem 0 2.2rem;
 }
 
-// display:block ghi đè .card của Bootstrap, vốn là flex column
 .card {
-  display: block;
-  background: $cream;
-  border: 1px solid $rule;
-  border-radius: 4px;
-  padding: 1.5rem 1.4rem;
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  column-gap: 1.8rem;
+  background: none;
+  border: 0;
+  border-top: 1px solid $rule;
+  border-radius: 0;
+  padding: 1.5rem 0 1.4rem;
+  align-items: start;
 
-  h3 { margin-top: 0; margin-bottom: .5rem; font-size: 1.05rem; }
-  p  { font-size: .95rem; color: $muted; margin-bottom: .7rem; }
+  &:last-child { border-bottom: 1px solid $rule; }
+
+  > * { grid-column: 2; }
+
+  h3 {
+    margin-top: 0;
+    margin-bottom: .55rem;
+    font-size: 1.08rem;
+    line-height: 1.35;
+    color: var(--sac, #{$ink});
+  }
+
+  p  { font-size: .97rem; margin-bottom: .8rem; }
   p:last-child { margin-bottom: 0; }
+  ul { font-size: .97rem; }
+}
+
+// Pandoc bọc nhãn và biểu tượng trong một thẻ đoạn văn, nên phải bắt qua đoạn văn đó.
+// Biểu tượng nằm ở hàng một, nhãn nằm ngay dưới, cả hai ở cột trái.
+.card > p:has(.card-bt) {
+  grid-column: 1;
+  grid-row: 1;
+  align-self: start;
+  margin: 0 0 .55rem;
+}
+
+.card > p:has(.card-note) {
+  grid-column: 1;
+  grid-row: 2;
+  align-self: start;
+  margin: 0;
+}
+
+// Thẻ không có biểu tượng thì nhãn lên hàng một
+.card > p:has(.card-note):first-child {
+  grid-row: 1;
+  margin-top: .2rem;
 }
 
 .card-note {
@@ -539,11 +571,10 @@ strong { font-weight: 600; color: $ink; }
   margin-bottom: .55rem;
 }
 
-// Biểu tượng nét đặt đầu thẻ, tự lấy màu theo lớp .sac-* của thẻ
 .card-bt {
   display: block;
-  width: 42px;
-  height: 42px;
+  width: 40px;
+  height: 40px;
   margin-bottom: .8rem;
   color: var(--sac, #{$poppy});
 
@@ -594,12 +625,12 @@ strong { font-weight: 600; color: $ink; }
 // ===========================================================================
 
 .cam-ket {
-  margin: 3.4rem 0 1rem;
-  padding: 1.6rem 1.7rem 1.5rem;
-  background: $cream;
-  border: 1px solid $rule;
-  border-top: 4px solid $poppy;
-  border-radius: 0 0 6px 6px;
+  margin: 3.6rem 0 1rem;
+  padding: 1.7rem 0 0;
+  background: none;
+  border: 0;
+  border-top: 3px solid $poppy;
+  border-radius: 0;
 
   h2, h3 {
     margin: 0 0 .7rem;
@@ -627,15 +658,30 @@ strong { font-weight: 600; color: $ink; }
 // CHẶNG LỘ TRÌNH
 // ===========================================================================
 
+// Chặng lộ trình cũng theo bố cục hàng ngang, mã chặng nằm ở cột trái
 .stage {
-  border-left: 3px solid $poppy;
-  background: $cream;
-  padding: 1.6rem 1.5rem;
-  margin: 1.4rem 0;
-  border-radius: 0 4px 4px 0;
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  column-gap: 1.8rem;
+  background: none;
+  border: 0;
+  border-top: 1px solid $rule;
+  border-radius: 0;
+  padding: 1.6rem 0 1.5rem;
+  margin: 0;
+  align-items: start;
 
-  h3 { margin-top: 0; }
+  > * { grid-column: 2; }
+
+  h3 { margin-top: 0; color: var(--sac, #{$ink}); }
   ul { margin-bottom: 0; }
+}
+
+.stage > p:has(.stage-code) {
+  grid-column: 1;
+  grid-row: 1;
+  align-self: start;
+  margin: .2rem 0 0;
 }
 
 .stage-code {
@@ -644,31 +690,32 @@ strong { font-weight: 600; color: $ink; }
   font-weight: 800;
   letter-spacing: .1em;
   color: #fff;
-  background: $poppy;
-  padding: .18rem .5rem;
+  background: var(--sac, #{$poppy});
+  padding: .2rem .55rem;
   border-radius: 2px;
   margin-bottom: .7rem;
 }
 
 .stage-out {
-  font-size: .9rem;
+  font-size: .91rem;
   color: $muted;
   border-top: 1px solid $rule;
   padding-top: .8rem;
-  margin-top: 1rem;
+  margin-top: 1.1rem;
   margin-bottom: 0;
 }
 
 // ===========================================================================
-// KHỐI NHẤN
+// KHỐI NHẤN — chỉ một vạch đỏ bên trái, không nền, không bo góc
 // ===========================================================================
 
 .note {
-  background: $blush;
-  border-left: 4px solid $poppy;
-  padding: 1.3rem 1.4rem;
-  margin: 1.8rem 0;
-  border-radius: 0 4px 4px 0;
+  background: none;
+  border: 0;
+  border-left: 3px solid $poppy;
+  padding: .35rem 0 .35rem 1.5rem;
+  margin: 1.9rem 0;
+  border-radius: 0;
 
   p:last-child { margin-bottom: 0; }
   strong { color: $poppy-deep; }
@@ -714,44 +761,63 @@ tbody tr:nth-child(even) td { background: $cream; }
 // BẢNG GIÁ
 // ===========================================================================
 
+// Bảng học phí cũng theo hàng ngang: tên gói và số tiền bên trái,
+// phần diễn giải bên phải.
 .price-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 1.2rem;
-  margin: 1.8rem 0 2.2rem;
+  display: block;
+  margin: 1.8rem 0 2.4rem;
 }
 
 .price {
-  border: 1px solid $rule;
-  border-radius: 4px;
-  padding: 1.5rem 1.4rem;
-  background: $ivory;
+  display: grid;
+  grid-template-columns: 240px 1fr;
+  column-gap: 1.8rem;
+  border: 0;
+  border-top: 1px solid $rule;
+  border-radius: 0;
+  padding: 1.5rem 0 1.4rem;
+  background: none;
+  align-items: start;
 
-  h3 { margin-top: 0; margin-bottom: .4rem; font-size: 1.05rem; }
-  p  { font-size: .92rem; color: $muted; }
-  ul { font-size: .9rem; color: $muted; padding-left: 1.1rem; }
+  &:last-child { border-bottom: 1px solid $rule; }
+
+  > * { grid-column: 2; }
+
+  h3 { margin-top: 0; margin-bottom: .35rem; font-size: 1.05rem; line-height: 1.35; }
+  p  { font-size: .96rem; margin-bottom: .7rem; }
+  p:last-child { margin-bottom: 0; }
+  ul { font-size: .94rem; padding-left: 1.1rem; margin-bottom: 0; }
   li { margin-bottom: .35rem; }
 }
 
+// Tên gói và số tiền chuyển sang cột trái
+.price > h3 { grid-column: 1; grid-row: 1; }
+.price > p:has(.price-amount) { grid-column: 1; grid-row: 2; margin-bottom: 0; }
+
+// Gói nổi bật chỉ khác ở vạch đỏ bên trái
 .price-featured {
-  border: 2px solid $poppy;
-  background: $blush;
+  border-left: 3px solid $poppy;
+  padding-left: 1.4rem;
+  background: none;
+
+  h3 { color: $poppy-deep; }
 }
 
 .price-amount {
   display: block;
-  font-size: 1.6rem;
+  font-size: 1.5rem;
   font-weight: 800;
-  color: $poppy-deep;
+  color: var(--sac, #{$poppy-deep});
   letter-spacing: -.02em;
-  margin: .5rem 0 .2rem;
+  margin: .2rem 0 .15rem;
+  line-height: 1.2;
 }
 
 .price-unit {
   display: block;
-  font-size: .82rem;
+  font-size: .8rem;
   color: $muted;
-  margin-bottom: .9rem;
+  line-height: 1.45;
 }
 
 // ===========================================================================
@@ -1083,9 +1149,30 @@ tbody tr:nth-child(even) td { background: $cream; }
 
   .hoa { height: 46px; }
 
-  .tc-muc { grid-template-columns: 1fr; gap: .7rem; }
-  .cam-ket { padding: 1.3rem 1.2rem; }
+  // Trên điện thoại, mọi bố cục hai cột xếp lại thành một cột
+  .tc-muc, .card, .price, .stage {
+    grid-template-columns: 1fr;
+    column-gap: 0;
+  }
+
+  .card > p:has(.card-bt),
+  .card > p:has(.card-note),
+  .card > p:has(.card-note):first-child,
+  .stage > p:has(.stage-code),
+  .price > h3,
+  .price > p:has(.price-amount) {
+    grid-column: 1;
+    grid-row: auto;
+  }
+
+  .card > p:has(.card-note),
+  .stage > p:has(.stage-code) { margin-bottom: .5rem; }
+  .price > p:has(.price-amount) { margin-bottom: .7rem; }
+  .price-featured { padding-left: 1.1rem; }
+
+  .cam-ket { padding-top: 1.3rem; }
   .cam-ket .ck-hoa { width: 36px; height: 36px; }
+  .note { padding-left: 1.1rem; }
 
   .cta, a.cta { display: block; text-align: center; margin-right: 0; }
 

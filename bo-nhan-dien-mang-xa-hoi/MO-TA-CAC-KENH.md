@@ -10,7 +10,7 @@ Thông tin dùng chung:
 | Người phụ trách | Nguyễn Thái Hà (Nora Thai) |
 | Website | norastudies.com |
 | Email | nguyenthaiha1212@gmail.com |
-| Zalo / WhatsApp | 0933 331 838 |
+| Zalo / WhatsApp | 0965 849 113 |
 | Threads | `threads.com/@norathai_studies` |
 | Khu vực | Đà Nẵng, Việt Nam |
 | Khẩu hiệu | If it's stupid but it works, it ain't stupid |
@@ -82,7 +82,7 @@ norastudies.com
 |---|---|
 | Website | `https://norastudies.com` |
 | Email | `nguyenthaiha1212@gmail.com` |
-| Điện thoại | `0933 331 838` |
+| Điện thoại | `0965 849 113` |
 | Khu vực | Đà Nẵng, Việt Nam |
 | Giờ làm việc | Chọn "Luôn phản hồi trong vòng một ngày" thay vì giờ cố định |
 
@@ -230,7 +230,7 @@ Mentor nghiên cứu khoa học · Bạn viết, mình đọc cùng
 | Nhãn | Đường dẫn |
 |---|---|
 | Website | `https://norastudies.com` |
-| Zalo | `https://zalo.me/84933331838` |
+| Zalo | `https://zalo.me/84965849113` |
 | Facebook | điền sau khi chốt đường dẫn page mới |
 
 **Ảnh**
@@ -279,7 +279,7 @@ Threads cho tối đa 5 liên kết. Ba cái là đủ:
 
 ```
 https://norastudies.com
-https://zalo.me/84933331838
+https://zalo.me/84965849113
 [đường dẫn Facebook Page sau khi chốt]
 ```
 

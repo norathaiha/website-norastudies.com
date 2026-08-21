@@ -24,6 +24,7 @@ Muốn xem site trông thế nào trên điện thoại: bấm F12 trong trình 
 | `_quarto.yml` | Cấu hình chung: tên site, menu, chân trang, ảnh xem trước |
 | `index.qmd` | Trang chủ |
 | `lo-trinh.qmd` | Năm chặng của luận án, có neo `#g0` tới `#g4` |
+| `bai-bao.qmd` | Mentor và soát bản thảo bài báo Scopus Q1, Q2. Học phí trao đổi riêng |
 | `hoc-phi.qmd` | Bảng giá, gói lẻ, combo, học nhóm ba người |
 | `ve-nora.qmd` | Trang cá nhân, tách riêng khỏi phần bán hàng. Có sẵn ba khung nhúng video YouTube |
 | `cong-bo.qmd` | Danh mục 16 công trình |
@@ -103,6 +104,16 @@ https://norastudies.com/?utm_source=tiktok
 https://norastudies.com/?utm_source=youtube
 https://norastudies.com/?utm_source=facebook
 ```
+
+## Cách trình bày nội dung
+
+Toàn site dùng bố cục hàng ngang, không dùng khối vuông có viền. Mỗi mục là một hàng: nhãn hoặc biểu tượng nằm ở cột trái rộng 200px, tiêu đề và phần diễn giải nằm ở cột phải, hai hàng ngăn nhau bằng một đường kẻ mảnh. Trên điện thoại thì tự xếp lại thành một cột.
+
+Ba lớp dùng chung bố cục này: `.card` cho các mục nội dung, `.price` cho bảng học phí, `.stage` cho năm chặng lộ trình.
+
+Một lưu ý kỹ thuật khi sửa CSS: Pandoc bọc mọi nhãn dạng `[Nhãn]{.card-note}` vào trong một thẻ đoạn văn, nên bộ chọn phải viết là `.card > p:has(.card-note)` chứ không phải `.card > .card-note`. Viết sai chỗ này thì nhãn không nhảy sang cột trái được, mà nhìn qua rất khó nhận ra.
+
+Khối `.note` chỉ còn một vạch đỏ bên trái, không nền và không bo góc.
 
 ## Quy tắc thiết kế cần giữ
 
