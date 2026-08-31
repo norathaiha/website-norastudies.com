@@ -1,7 +1,7 @@
 ---
 title: ""
-pagetitle: "Mentor viết bài báo Q1 và Q2 — NoraStudies"
-description: "Đồng hành cùng bạn viết và nộp bài báo Scopus Q1, Q2 ngành Marketing, Quản trị Kinh doanh và các ngành gần. Mentor và soát bản thảo, không viết thay."
+pagetitle: "Mentor làm bài báo Q1 và Q2 · NoraStudies"
+description: "Đồng hành với bạn viết và nộp bài báo Scopus Q1, Q2 ngành Marketing, Quản trị Kinh doanh và các ngành gần"
 ---
 
 ::: {.hero .hero-hoa}
@@ -10,10 +10,10 @@ description: "Đồng hành cùng bạn viết và nộp bài báo Scopus Q1, Q2
 Bài báo Q1 và Q2 · Marketing, Quản trị Kinh doanh và các ngành gần
 :::
 
-# Bản thảo của bạn có thể đã đủ tốt, chỉ là nó chưa được kể đúng cách
+# Bản thảo của bạn có thể đã đủ tốt, chỉ là chưa được cấu trúc một cách đúng mà thôi
 
 ::: {.lede}
-Nhiều bản thảo bị từ chối không phải vì nghiên cứu yếu, mà vì phần đóng góp chưa được nói ra rõ ràng, hoặc vì tạp chí được chọn chưa hợp với câu chuyện mà bài đang kể. Mình đồng hành với bạn ở cả hai chỗ đó 🙂
+Nhiều bản thảo bị từ chối không phải vì nghiên cứu yếu kém, mà vì phần đóng góp chưa được thể hiện rõ ràng, câu chuyện truyền tải mờ nhạt, hoặc vì tạp chí được lựa chọn chưa phù hợp với câu chuyện mà bài đang kể. Mình đồng hành với bạn ở cả hai chỗ đó 🙂
 :::
 
 [Nhắn Messenger để trao đổi](https://m.me/norastudies){.cta}
@@ -26,12 +26,12 @@ Nhiều bản thảo bị từ chối không phải vì nghiên cứu yếu, mà
 :::
 
 ::: {.note}
-**Đây là dịch vụ mentor và soát bản thảo, không phải dịch vụ viết bài.** Bạn viết bản thảo của mình. Mình đọc cùng bạn, chỉ ra chỗ lập luận đang hụt, và soát lại phần diễn đạt tiếng Anh trước khi bạn nộp. Mình không viết thay bạn một phần nào, và mình cũng không đứng tên đồng tác giả.
+**Đây là dịch vụ mentor và rà soát bản thảo, không phải dịch vụ viết bài.** Bạn viết bản thảo của mình. Mình đọc cùng bạn, chỉ ra chỗ lập luận còn thiếu hụt, và rà soát lại phần diễn đạt tiếng Anh trước khi bạn nộp. Mình không viết thay bạn một phần nào, và mình cũng không đứng tên đồng tác giả.
 :::
 
-## Bạn đang ở đâu trong chuyện này
+## Bạn đang gặp vấn đề gì?
 
-Ba tình huống dưới đây là ba lý do các anh chị tìm tới mình. Bạn đọc rồi nhận ra mình đang ở đâu.
+Ba tình huống dưới đây là ba lý do các anh chị tìm tới mình. Bạn đọc rồi nhận ra mình có đang gặp vấn đề chung không nhé.
 
 ::: {.card-grid}
 
@@ -40,7 +40,7 @@ Ba tình huống dưới đây là ba lý do các anh chị tìm tới mình. B�
 
 ### Có dữ liệu và ý tưởng, chưa biết bắt đầu viết từ đâu
 
-Bạn đã thu xong dữ liệu, đã chạy ra kết quả, nhưng nhìn vào đó thì chưa thấy nó thành một bài báo. Việc cần làm trước tiên là tìm ra câu chuyện mà bộ dữ liệu này kể được, rồi mới dựng khung bài quanh câu chuyện ấy.
+Bạn đã thu thập xong dữ liệu, đã chạy ra kết quả, nhưng nhìn vào đó thì chưa thấy nó thành một bài báo. Việc cần làm trước tiên là tìm ra câu chuyện mà bộ dữ liệu này kể được, rồi mới xây dựng khung bài quanh câu chuyện ấy.
 :::
 
 ::: {.card .sac-vang .reveal}
@@ -48,15 +48,15 @@ Bạn đã thu xong dữ liệu, đã chạy ra kết quả, nhưng nhìn vào �
 
 ### Viết xong rồi nhưng chưa dám nộp
 
-Bạn đọc lại bản thảo của mình và thấy có chỗ chưa ổn, nhưng chưa gọi được tên chỗ đó. Mình đọc như một người phản biện sẽ đọc, đánh dấu từng chỗ họ sẽ dừng lại hỏi, và cùng bạn xử lý trước khi nộp.
+Bạn đọc lại bản thảo của mình và thấy có chỗ chưa ổn thoả, nhưng thực sự chưa biết vấn đề nằm ở đâu. Mình sẽ đọc như một người phản biện đọc, đánh dấu từng chỗ còn chưa ổn, và cùng bạn xử lý trước khi nộp.
 :::
 
 ::: {.card .sac-man .reveal}
 [Đã nhận phản biện]{.card-note}
 
-### Nhận thư yêu cầu chỉnh sửa và thấy nản
+### Nhận thư yêu cầu chỉnh sửa và thấy nản lòng
 
-Ba trang nhận xét gửi về, đọc xong thấy nặng nề và không biết bắt đầu từ đâu. Mình ngồi cùng bạn đọc lại từng nhận xét, phân loại chỗ nào phải sửa, chỗ nào giải thích được, rồi cùng bạn dựng thư phản hồi.
+Ba trang nhận xét gửi về, đọc xong thấy nặng nề và không biết bắt đầu từ đâu. Thỉnh thoảng còn thấy bất mãn, hoang mang, vô lý, không công bằng........ Mình ngồi cùng bạn đọc lại từng nhận xét, phân loại chỗ nào phải sửa, chỗ nào giải thích được, rồi cùng bạn xây dựng thư phản hồi.
 :::
 
 :::
@@ -68,25 +68,25 @@ Ba trang nhận xét gửi về, đọc xong thấy nặng nề và không biế
 ::: {.card .reveal}
 [01]{.card-note}
 
-### Tìm ra đóng góp thật của bài
+### Tìm ra đóng góp thật sự của bài
 
-Đây là câu hỏi đầu tiên mà ban biên tập đặt ra, và cũng là chỗ nhiều bản thảo bị dừng lại ngay từ vòng sàng lọc. Hai bên cùng làm rõ bài của bạn thêm được điều gì vào phần đã biết, và điều đó đủ mới tới mức nào so với các công trình đã đăng.
+Đây là câu hỏi đầu tiên mà ban biên tập đặt ra, và cũng là chỗ nhiều bản thảo bị dừng lại ngay từ vòng sàng lọc. Hai bên cùng làm rõ bài của bạn thêm được điều gì vào phần đã biết, và điều đó đủ mới mẻ tới mức nào so với các công trình đã công bố trước đó.
 :::
 
 ::: {.card .reveal}
 [02]{.card-note}
 
-### Dựng khung bài theo chuẩn của tạp chí đích
+### Xây dựng khung bài theo chuẩn của tạp chí đích
 
-Mỗi nhóm tạp chí có cách trình bày và thứ tự lập luận riêng. Bạn sẽ biết bài của mình cần bao nhiêu phần, mỗi phần dài chừng nào, và phần nào cần đặt trước phần nào để người đọc đi theo được mạch lập luận.
+Mỗi nhóm tạp chí có cách trình bày và thứ tự lập luận riêng. Bạn sẽ biết bài của mình cần bao nhiêu phần, mỗi phần dài chừng nào, và phần nào cần đặt trước phần nào để người đọc đi theo được mạch lập luận và nắm bắt được ý tưởng nghiên cứu/ câu chuyện bạn muốn truyền tải.
 :::
 
 ::: {.card .reveal}
 [03]{.card-note}
 
-### Soát phần phương pháp và kết quả
+### Rà soát phần phương pháp và kết quả
 
-Mình rà xem bạn đã báo cáo đủ những chỉ số mà phản biện quốc tế sẽ hỏi hay chưa, và cách trình bày bảng biểu đã theo đúng thông lệ của ngành hay chưa. Đây là chỗ dễ mất điểm nhất mà lại dễ sửa nhất.
+Mình rà soát xem bạn đã báo cáo đủ những chỉ số mà người phản biện quốc tế thường hỏi tới hay chưa, và cách trình bày bảng biểu đã theo đúng thông lệ của ngành hay chưa. Đây là chỗ dễ mất điểm mà lại dễ điều chỉnh.
 :::
 
 ::: {.card .reveal}
@@ -94,21 +94,21 @@ Mình rà xem bạn đã báo cáo đủ những chỉ số mà phản biện qu
 
 ### Chọn tạp chí và viết thư gửi ban biên tập
 
-Hai bên cùng lập một danh sách ngắn các tạp chí phù hợp với chủ đề, phương pháp và túi tiền của bạn, kèm cách nhận ra tạp chí săn mồi. Sau đó bạn viết cover letter, mình đọc lại.
+Hai bên cùng lập một danh sách ngắn gọn các tạp chí phù hợp với chủ đề, phương pháp và túi tiền của bạn, kèm cách nhận ra tạp chí săn mồi. Sau đó bạn viết cover letter, mình đọc lại.
 :::
 
 ::: {.card .reveal}
 [05]{.card-note}
 
-### Soát tiếng Anh học thuật
+### Rà soát tiếng Anh học thuật
 
-Phần này gọi đúng tên là proofreading. Mình soát lại cách diễn đạt để bản thảo đọc trôi và đúng chuẩn học thuật, nhưng không viết lại nội dung khoa học và không thêm ý mới vào bài của bạn.
+Phần này gọi đúng tên là proofreading. Mình rà soát lại cách diễn đạt để bản thảo đọc trôi chảy và đúng chuẩn học thuật, nhưng không viết lại nội dung khoa học và không thêm ý mới vào bài của bạn.
 :::
 
 ::: {.card .reveal}
 [06]{.card-note}
 
-### Đi cùng bạn qua vòng phản biện
+### Đồng hành cùng bạn qua vòng phản biện
 
 Khi thư phản biện gửi về, hai bên cùng đọc, cùng phân loại từng nhận xét, rồi bạn viết thư phản hồi và sửa bản thảo. Mình đọc lại trước khi bạn gửi đi.
 :::
@@ -121,21 +121,21 @@ Phạm vi quen thuộc nhất của mình nằm ở nhóm ngành kinh doanh và 
 
 Bên cạnh đó, mình cũng nhận những ngành gần có cùng lối làm việc với dữ liệu khảo sát và phỏng vấn: giáo dục và quản lý giáo dục, tâm lý học ứng dụng, xã hội học, truyền thông, y tế công cộng ở phần hành vi người bệnh, cùng các hướng nghiên cứu về công nghệ và con người nằm giữa những ngành này.
 
-Nếu đề tài của bạn nằm ngoài phạm vi trên, bạn cứ nhắn cho mình. Mình sẽ nói thật ngay từ đầu là mình có hỗ trợ được cho bạn hay không, và nếu không thì mình hỏi quanh trong mạng lưới của mình xem có ai hợp hơn với bạn.
+Nếu đề tài của bạn nằm ngoài phạm vi trên, bạn cứ nhắn cho mình. Mình sẽ nói thật ngay từ đầu là mình có hỗ trợ được cho bạn hay không, và nếu không thì mình hỏi quanh trong mạng lưới của mình xem có ai phù hợp hơn với bạn và giới thiệu bạn sang Mentor đó. Tất nhiên mình giới thiệu miễn phí và không có phí hoa hồng nào ở đây hết!
 
 ## Phí mentor
 
 ::: {.note}
-**Phần này mình xin được trao đổi riêng với từng bạn.** Không phải để giữ giá, mà vì mức công sức chênh nhau rất nhiều giữa các trường hợp.
+**Phần này mình xin được trao đổi riêng với từng bạn.** Không phải để bí mật giá, mà vì mức công sức chênh lệch rất nhiều giữa các trường hợp.
 
-Một bản thảo đã hoàn chỉnh, chỉ cần soát lại phần diễn đạt và chọn tạp chí, khác hẳn một bộ dữ liệu chưa có khung bài mà phải dựng lại từ đầu. Báo một con số chung cho cả hai sẽ thiệt cho một trong hai bên.
+Một bản thảo đã hoàn chỉnh, chỉ cần rà soát lại phần diễn đạt và lựa chọn tạp chí, khác hẳn một bộ dữ liệu chưa có khung bài mà phải xây dựng lại từ đầu. Báo một con số chung cho cả hai sẽ thiệt thòi cho một trong hai bên.
 
 Bạn gửi mình xem bản thảo hoặc bộ dữ liệu đang có, mình đọc rồi báo lại mức phí mentor cùng thời gian dự kiến. Việc xem và báo mức phí này mình không thu tiền.
 :::
 
-Phí mentor chưa bao gồm phí nộp bản thảo và phí xử lý bài báo mà tạp chí thu, gọi là submission fee và Article Processing Charge. Hai khoản đó bạn trả thẳng cho nhà xuất bản. Trong lúc chọn tạp chí, mình luôn tính cả túi tiền của bạn vào đó, và nhiều tạp chí Scopus uy tín không thu của tác giả đồng nào.
+Phí mentor chưa bao gồm phí nộp bản thảo và phí xử lý bài báo mà tạp chí thu, gọi là submission fee và Article Processing Charge. Hai khoản đó bạn trả thẳng cho nhà xuất bản. Trong lúc lựa chọn tạp chí, mình luôn tính cả túi tiền của bạn vào đó, và nhiều tạp chí Scopus uy tín không thu của tác giả đồng nào.
 
-## Điều mình muốn nói rõ trước
+## Điều mình muốn chia sẻ thẳng thắn với bạn về ranh giới làm việc của mình:
 
 ::: {.card-grid}
 
@@ -144,7 +144,7 @@ Phí mentor chưa bao gồm phí nộp bản thảo và phí xử lý bài báo 
 
 ### Mình không viết thay bạn
 
-Kể cả một đoạn nhỏ, kể cả phần mở đầu, kể cả khi bạn đang gấp. Bạn viết, mình đọc cùng, và phần soát tiếng Anh chỉ dừng ở cách diễn đạt chứ không chạm vào nội dung khoa học.
+Kể cả một đoạn nhỏ, kể cả phần mở đầu, kể cả khi bạn đang gấp gáp. Bạn viết, mình đọc cùng, và phần rà soát tiếng Anh chỉ dừng ở cách diễn đạt chứ không chạm vào nội dung khoa học.
 :::
 
 ::: {.card .reveal}
@@ -160,7 +160,7 @@ Tên trên bài là của bạn và của nhóm bạn. Nếu bạn muốn ghi m�
 
 ### Mình không hứa bài sẽ được nhận đăng
 
-Việc nhận đăng do ban biên tập và người phản biện quyết định. Điều mình hỗ trợ bạn được là làm cho bản thảo đủ chuẩn để nộp, và khi phản biện gửi về thì bạn biết cách trả lời chứ không hoảng.
+Việc nhận đăng do ban biên tập và người phản biện quyết định. Điều mình hỗ trợ bạn được là làm cho bản thảo đủ chuẩn để nộp, và khi phản biện gửi về thì bạn biết cách trả lời chứ không hoảng hốt.
 :::
 
 ::: {.card .reveal}
@@ -175,18 +175,18 @@ Bạn là tác giả, nên bạn là người đứng ra làm việc với tạp
 
 ## Vì sao mình làm được việc này
 
-Mình có 16 công trình khoa học, trong đó bốn bài đăng năm 2026 thuộc danh mục SSCI hoặc ESCI, và hai bài nằm ở nhóm Scopus Q1. Mình đứng vai tác giả thứ nhất hoặc tác giả liên hệ ở sáu công bố, nghĩa là mình đã tự tay đi qua toàn bộ quy trình từ lúc nộp tới lúc trả lời phản biện.
+Mình có 16 công trình khoa học, trong đó bốn bài đăng năm 2026 thuộc danh mục SSCI hoặc ESCI, và hai bài nằm ở nhóm Scopus Q1. Mình giữ vai trò tác giả thứ nhất hoặc tác giả liên hệ ở sáu công bố, nghĩa là mình đã tự tay đi qua toàn bộ quy trình từ lúc nộp tới lúc trả lời phản biện.
 
-Mình cũng làm việc được với cả hai lối tiếp cận, định tính và định lượng, nên bài của bạn theo hướng nào thì mình cũng đọc được phần phương pháp.
+Mình cũng làm việc được với cả hai lối tiếp cận, định tính và định lượng, nên bài của bạn theo hướng nào thì mình cũng đọc được phần phương pháp. Nếu ngoài khả năng của mình, mình vẫn sẽ giới thiệu bạn sang Mentor khác phù hợp hơn, chứ mình không nhận bừa.
 
 [Xem danh mục 16 công trình](cong-bo.qmd){.cta-quiet}
 [Đọc thêm về mình](ve-nora.qmd){.cta-quiet}
 
 ## Bắt đầu thế nào
 
-Bạn nhắn cho mình, kể ngắn gọn bạn đang có gì trong tay: một ý tưởng, một bộ dữ liệu, một bản thảo, hay một thư phản biện vừa nhận. Hai bên hẹn ba mươi phút nói chuyện, không thu phí, để mình xem có hỗ trợ được cho bạn hay không.
+Bạn nhắn cho mình, kể ngắn gọn bạn đang có sẵn những gì: một ý tưởng, một bộ dữ liệu, một bản thảo, hay một thư phản biện vừa nhận. Hai bên hẹn ba mươi phút nói chuyện, không thu phí, để mình xem có hỗ trợ được cho bạn hay không.
 
-Nếu mình thấy bản thảo của bạn đã đủ tốt để nộp mà chưa cần tới mentor, mình cũng nói thẳng như vậy 🌾
+Nếu mình thấy bản thảo của bạn đã đủ tốt để nộp mà chưa cần tới mentor, mình cũng chia sẻ luôn với bạn và chúc bạn nộp bài thật tốt 🌾
 
 [Nhắn Messenger cho mình](https://m.me/norastudies){.cta}
 [Nhắn WhatsApp](https://wa.me/84965849113){.cta-quiet}

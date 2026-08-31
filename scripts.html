@@ -7,6 +7,23 @@
      aria-label="Nhắn WhatsApp cho Nora">WhatsApp</a>
 </div>
 
+<!-- Đưa thanh giới thiệu dịch vụ vào trong khối header cố định của Quarto.
+     Làm vậy thì thanh khoá luôn ở đầu màn hình, và Quarto vẫn tự tính đúng
+     khoảng chừa phía trên của thân trang cũng như vị trí của các liên kết
+     neo như #g0 hay #phan-mem. Đoạn này chạy ngay lúc trang đang dựng, tức
+     là trước khi Quarto chạy phần tính toán của nó.
+     Người tắt JavaScript vẫn đọc được thanh, chỉ là nó nằm trong dòng chảy
+     của trang và trượt đi theo nội dung. -->
+<script>
+(function () {
+  var thanh = document.querySelector('.thanh-dich-vu');
+  var khoiDau = document.getElementById('quarto-header');
+  if (thanh && khoiDau && !khoiDau.contains(thanh)) {
+    khoiDau.insertBefore(thanh, khoiDau.firstChild);
+  }
+})();
+</script>
+
 <script>
 (function () {
   var itMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;

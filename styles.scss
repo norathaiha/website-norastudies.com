@@ -159,44 +159,66 @@ strong { font-weight: 600; color: $ink; }
 }
 
 // ===========================================================================
-// DẢI KHẨU HIỆU CHẠY Ở ĐẦU TRANG
+// THANH GIỚI THIỆU DỊCH VỤ, KHOÁ Ở ĐẦU TRANG
+// Thanh này nằm trong tagline.html, được scripts.html chuyển vào trong khối
+// header cố định của Quarto ngay khi trang vừa dựng xong. Nhờ vậy Quarto tự
+// tính đúng khoảng chừa phía trên của thân trang và tự tính đúng vị trí khi
+// người đọc bấm vào một liên kết neo như #g0 hay #hoc-phi.
+// Muốn cho thanh điều hướng ẩn đi khi trượt xuống như trước, xoá đúng một
+// dòng: dòng transform: none dưới đây.
 // ===========================================================================
 
-.tagline-bar {
+header#quarto-header.headroom { transform: none !important; }
+
+.thanh-dich-vu {
   background: $poppy;
   color: $ivory;
-  overflow: hidden;
-  white-space: nowrap;
-  padding: .48rem 0;
-  font-size: .84rem;
+  font-size: .82rem;
   font-weight: 600;
-  letter-spacing: .04em;
-  position: relative;
+  letter-spacing: .02em;
+  line-height: 1.5;
+  text-align: center;
+  padding: .42rem 1.1rem;
+
+  p {
+    margin: 0;
+    color: $ivory;
+  }
 }
 
-.tagline-track {
+.thanh-dich-vu .td-muc {
   display: inline-block;
-  padding-left: 100%;
-  animation: chay 26s linear infinite;
+  padding: 0 .28rem;
 }
 
-.tagline-track span {
-  padding: 0 2.6rem;
-  color: $ivory;
-}
-
-.tagline-track span::before {
+.thanh-dich-vu .td-muc + .td-muc::before {
   content: "✻";
   color: $blush;
-  margin-right: 2.6rem;
-  font-size: .9em;
+  margin: 0 .95rem 0 .68rem;
+  font-size: .92em;
+  font-weight: 400;
 }
 
-.tagline-bar:hover .tagline-track { animation-play-state: paused; }
+@media (max-width: 767.98px) {
+  .thanh-dich-vu {
+    font-size: .715rem;
+    letter-spacing: 0;
+    padding: .4rem .8rem;
+  }
 
-@keyframes chay {
-  from { transform: translateX(0); }
-  to   { transform: translateX(-100%); }
+  .thanh-dich-vu .td-muc {
+    display: block;
+    padding: 0;
+  }
+
+  .thanh-dich-vu .td-muc + .td-muc {
+    margin-top: .12rem;
+  }
+
+  .thanh-dich-vu .td-muc + .td-muc::before {
+    content: "";
+    margin: 0;
+  }
 }
 
 // ===========================================================================
@@ -1118,9 +1140,6 @@ tbody tr:nth-child(even) td { background: $cream; }
 // Tôn trọng thiết lập giảm chuyển động của người dùng
 @media (prefers-reduced-motion: reduce) {
   .hero h1, .hero .lede, .hero .eyebrow, .hero p { animation: none; }
-  .tagline-track { animation: none; padding-left: 0; }
-  .tagline-bar { text-align: center; }
-  .tagline-track span:not(:first-child) { display: none; }
   .hoa-no .canh, .hoa-no .nhuy, .hoa-no .than { animation: none; }
   .hoa-no .than { stroke-dashoffset: 0; }
   .hoa-no:hover .canh { animation: none; }

@@ -1,6 +1,6 @@
 ---
 title: ""
-pagetitle: "Liên hệ và hẹn nói chuyện — NoraStudies"
+pagetitle: "Liên hệ và hẹn nói chuyện · NoraStudies"
 description: "Buổi nói chuyện đầu 30 phút, không thu phí. Messenger, WhatsApp, email. Nguyễn Thái Hà, Đà Nẵng."
 ---
 
@@ -21,17 +21,17 @@ Bạn kể mình nghe bạn đang ở đâu, mình nói cho bạn biết nên v�
 
 :::
 
-## Buổi nói chuyện diễn ra thế nào
+## Buổi nói chuyện đầu diễn ra thế nào?
 
 Ba mươi phút, qua Google Meet hoặc Messenger. Không có phần giới thiệu dài dòng, hai bên vào việc luôn.
 
-**Mười phút đầu, bạn nói.** Bạn đang học năm thứ mấy, ở trường nào, chương trình tiếng Việt hay tiếng Anh, đề tài là gì, đang mắc ở chỗ nào, trường yêu cầu mốc nào.
+**Mười phút đầu, bạn nói.** Bạn đang học năm thứ mấy, ở trường nào, chương trình tiếng Việt hay tiếng Anh, đề tài là gì, đang mắc kẹt ở chỗ nào, trường yêu cầu mốc nào.
 
-**Mười phút giữa, mình hỏi.** Mấy câu này thường làm lộ ra chỗ mắc thật sự, mà nhiều khi không phải chỗ bạn nghĩ.
+**Mười phút giữa, mình hỏi.** Mấy câu này thường cho thấy chỗ mắc kẹt thật sự, mà nhiều khi không phải chỗ bạn nghĩ.
 
-**Mười phút cuối, mình nói thẳng.** Bạn nên vào từ chặng nào, mất bao lâu, và có đáng bỏ tiền ra không. Nếu câu trả lời là chưa cần thì mình nói chưa cần. Nếu chương trình của bạn nằm ngoài phần mình thuộc, mình giới thiệu bạn tới người hợp hơn, không lấy gì cả.
+**Mười phút cuối, mình nói thẳng.** Bạn nên vào từ chặng nào, mất bao lâu, và có đáng để bạn đầu tư không. Nếu câu trả lời là chưa cần thì mình nói chưa cần. Nếu chương trình của bạn nằm ngoài phần mình thuộc, mình sẽ giới thiệu bạn sang Mentor phù hợp hơn. Tất nhiên mình giới thiệu miễn phí, không có phí hoa hồng nào ở đây hết!
 
-Sau buổi đó, nếu hai bên thấy hợp, mình gửi bạn một lộ trình riêng viết ra giấy: mốc nào làm gì, hạn nào, sản phẩm nào. Bạn đọc rồi mới quyết.
+Sau buổi đó, nếu hai bên thấy phù hợp, mình gửi bạn một lộ trình riêng viết ra giấy: mốc nào làm gì, hạn nào, sản phẩm nào. Bạn đọc rồi mới quyết định.
 
 ## Nhắn cho mình ở đâu cũng được
 
@@ -45,7 +45,7 @@ Sau buổi đó, nếu hai bên thấy hợp, mình gửi bạn một lộ trìn
 **Nhắn tin thì bạn kể giúp mình bốn thứ này**, buổi nói chuyện sẽ đi thẳng vào việc của bạn thay vì mất mười phút hỏi qua lại: bạn đang học năm thứ mấy và ở trường nào, chương trình tiếng Việt hay tiếng Anh, đề tài đang làm là gì, và mốc gần nhất trường yêu cầu là khi nào.
 :::
 
-## Trước khi nhắn tin
+## Trước khi nhắn tin cho mình
 
 Hai trang này trả lời phần lớn câu hỏi, và đọc trước thì buổi nói chuyện của hai bên đi được sâu hơn.
 
@@ -54,7 +54,7 @@ Hai trang này trả lời phần lớn câu hỏi, và đọc trước thì bu�
 
 ## Theo dõi mình trước cũng được
 
-Mình đăng nội dung về cách làm nghiên cứu ở các kênh trên. Xem thử một thời gian rồi hẵng quyết định đồng hành cùng nhau cũng là cách hay, để bạn biết mình làm nghề thế nào trước khi trả đồng nào 🌾
+Mình đăng nội dung về cách làm nghiên cứu ở các kênh trên. Xem thử một thời gian rồi hẵng quyết định đồng hành với nhau cũng là một cách, để bạn biết mình làm nghề thế nào trước khi trả đồng nào 🌾
 
 Hồ sơ học thuật: [ORCID](https://orcid.org/0000-0002-8865-9461) · [Google Scholar](https://scholar.google.com/citations?user=EWGQWc4AAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Thai-Ha-Nguyen) · [LinkedIn](https://www.linkedin.com/in/nguyenthai-ha/)
 

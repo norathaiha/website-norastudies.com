@@ -1,6 +1,6 @@
 ---
 title: ""
-pagetitle: "Câu hỏi thường gặp — NoraStudies"
+pagetitle: "Câu hỏi thường gặp · NoraStudies"
 description: "Mentor khác gì thầy hướng dẫn, mình có viết thay không, học phí có gồm phí đăng bài không, và những câu khác."
 ---
 
@@ -23,13 +23,13 @@ Nếu bạn cần hỏi mình chuyện gì mà chưa được nhắc tới ở d
 ::: {.faq}
 ### Mentor khác gì thầy cô hướng dẫn của mình ở trường?
 
-Thầy cô hướng dẫn là người chịu trách nhiệm học thuật trước nhà trường và là người ký duyệt. Mình đứng ở chỗ khác, không chen vào vai trò đó. Mình là người bạn nhắn được giữa hai lần gặp thầy, người đọc lại bản nháp trước khi bạn gửi đi, và người nhắc bạn mốc nộp còn ba tuần.
+Thầy cô hướng dẫn là người chịu trách nhiệm học thuật trước nhà trường và là người ký duyệt. Mình đứng ở vị trí khác, không chen vào vai trò đó. Mình là người bạn nhắn được giữa hai lần gặp thầy, người đọc lại bản nháp trước khi bạn gửi đi, và người nhắc bạn mốc nộp còn ba tuần.
 :::
 
 ::: {.faq}
 ### Nora có viết thay mình không?
 
-Không, kể cả một đoạn nhỏ. Bạn viết, mình đọc rồi chỉ ra chỗ chưa ổn cùng lý do. Nếu bạn đang cần người viết hộ thì mình không phải người đó, và mình nói ngay từ buổi đầu để bạn khỏi mất công.
+Không, kể cả một đoạn nhỏ. Bạn viết, mình đọc rồi chỉ ra chỗ chưa ổn thoả cùng lý do. Nếu bạn đang cần người viết hộ thì mình không phải người đó, và mình nói ngay từ buổi đầu để bạn khỏi mất công.
 :::
 
 ::: {.faq}
@@ -41,19 +41,19 @@ Chủ yếu trực tuyến qua Google Meet, nên bạn ở tỉnh nào cũng là
 ::: {.faq}
 ### Nhóm ba bạn thì học ra sao?
 
-Ba bạn cùng chặng học chung phần kiến thức và quy trình, còn phần đọc bản viết thì mình làm riêng cho từng người. Học phí mỗi bạn nhẹ hơn kèm 1–1 khoảng bốn mươi phần trăm. Điều kiện là ba bạn phải cùng chặng. Mình không ghép người đang ở hai giai đoạn khác nhau, vì như vậy cả ba đều thiệt.
+Ba bạn cùng chặng học chung phần kiến thức và quy trình, còn phần đọc bản viết thì mình làm riêng cho từng người. Học phí mỗi bạn thấp hơn mức kèm riêng 1-1 khoảng bốn mươi phần trăm. Điều kiện là ba bạn phải cùng chặng. Mình không ghép người đang ở hai giai đoạn khác nhau, vì như vậy cả ba đều thiệt thòi.
 :::
 
 ::: {.faq}
 ### Giữa các buổi mình hỏi được không?
 
-Được. Mình trả lời tin nhắn trong 24 giờ làm việc, và đọc bản viết của bạn một lần mỗi tuần. Cần đọc nhiều hơn thì hai bên bàn riêng.
+Được. Mình trả lời tin nhắn trong 24 giờ làm việc, và đọc bản viết của bạn một lần mỗi tuần. Cần đọc nhiều hơn thì hai bên trao đổi riêng.
 :::
 
 ::: {.faq}
 ### Mỗi lúc Nora nhận bao nhiêu bạn?
 
-Có giới hạn, vì mình đang vừa làm luận án của chính mình vừa làm nghiên cứu ở Viện. Khi lịch đầy, mình nói thật và hẹn bạn đợt sau, chứ nếu nhận rồi mà không dành đủ thời gian cho bạn thì cả hai bên đều thiệt.
+Có giới hạn, vì mình đang vừa làm luận án của chính mình vừa làm nghiên cứu ở Viện. Khi lịch đầy, mình nói thật và hẹn bạn đợt sau, chứ mình không nhận bừa rồi để bạn chờ đợi.
 :::
 
 ## Về chương trình đào tạo của bạn
@@ -61,9 +61,9 @@ Có giới hạn, vì mình đang vừa làm luận án của chính mình vừa
 ::: {.faq}
 ### Luận án của mình viết bằng tiếng Anh, hoặc theo mẫu ghép các bài báo thành chương.
 
-Chỗ này mình chưa có kinh nghiệm. Mình học ở Việt Nam, đi theo mẫu chuyên đề tổng quan rồi chuyên đề 1, chuyên đề 2, rồi toàn bộ quyển luận án, nên với cấu trúc quyển theo mẫu nước ngoài, mình chưa dám nhận khi chưa đủ vững.
+Chỗ này mình chưa có kinh nghiệm. Mình học ở Việt Nam, đi theo mẫu chuyên đề tổng quan rồi chuyên đề 1, chuyên đề 2, rồi toàn bộ quyển luận án, nên với cấu trúc quyển theo mẫu nước ngoài, mình chưa dám nhận khi chưa đủ vững vàng.
 
-Nhưng mình quen một mentor làm được việc đó và sẵn sàng nối bạn với người ấy. Không mất phí, và cũng chẳng có hoa hồng giới thiệu nào ở đây cả. Bạn cứ nhắn cho mình.
+Nhưng mình quen một mentor làm được việc đó và sẵn sàng giới thiệu bạn sang Mentor đó. Tất nhiên mình giới thiệu miễn phí, không có phí hoa hồng nào ở đây hết! Bạn cứ nhắn cho mình.
 :::
 
 ::: {.faq}
@@ -71,15 +71,15 @@ Nhưng mình quen một mentor làm được việc đó và sẵn sàng nối b
 
 Bạn cứ nhắn cho mình, vì phạm vi mình làm được rộng hơn hai ngành đó. Ngoài Marketing và Quản trị Kinh doanh, mình nhận cả những ngành gần có cùng lối làm việc với dữ liệu: quản trị nhân sự, quản trị chất lượng và vận hành, thương mại điện tử, khởi nghiệp, du lịch và khách sạn, giáo dục và quản lý giáo dục, tâm lý học ứng dụng, xã hội học và truyền thông.
 
-Thứ quyết định thường không phải tên ngành, mà là cách đề tài của bạn thu và xử lý dữ liệu. Nếu bạn làm việc với bảng hỏi, với phỏng vấn sâu, hoặc với tổng quan có hệ thống, thì khả năng cao là mình đọc cùng bạn được.
+Thứ quyết định thường không phải tên ngành, mà là cách đề tài của bạn thu thập và xử lý dữ liệu. Nếu bạn làm việc với bảng hỏi, với phỏng vấn sâu, hoặc với tổng quan có hệ thống, thì khả năng cao là mình đọc cùng bạn được.
 
-Còn nếu đề tài nằm ngoài phạm vi ấy thật, mình nói rõ ngay từ buổi đầu và hỏi quanh trong mạng lưới xem có ai hợp hơn với bạn. Việc hỏi giúp này mình không lấy gì cả 🙂
+Còn nếu đề tài nằm ngoài phạm vi ấy thật, mình nói rõ ngay từ buổi đầu và hỏi quanh trong mạng lưới xem có ai phù hợp hơn với bạn, chứ mình không nhận bừa. Việc hỏi giúp và giới thiệu này mình không lấy gì cả 🙂
 :::
 
 ::: {.faq}
 ### Mình học hai năm rồi và đang thấy mắc kẹt. Nora có nhận không?
 
-Có, nhưng hai bên bắt đầu bằng một buổi gỡ rối. Sau buổi đó mình viết cho bạn một bản đánh giá: gỡ được hay không, gỡ bằng cách nào, mất bao lâu. Nếu mình thấy chưa gỡ được thì mình nói thẳng chứ không nhận tiền của bạn.
+Có, nhưng hai bên bắt đầu bằng một buổi gỡ rối. Sau buổi đó mình viết cho bạn một bản đánh giá: tháo gỡ được hay không, tháo gỡ bằng cách nào, mất bao lâu. Nếu mình thấy chưa tháo gỡ được thì mình nói thẳng chứ không nhận tiền của bạn.
 :::
 
 ::: {.faq}
@@ -96,7 +96,7 @@ Bạn không phải tự chọn. Trong buổi nói chuyện 30 phút không thu 
 ::: {.faq}
 ### Nora có chắc bài của mình được đăng không?
 
-Không ai chắc được điều đó, kể cả giáo sư đầu ngành. Việc nhận đăng do ban biên tập và người phản biện quyết. Điều mình hỗ trợ bạn được là làm cho bản thảo đủ chuẩn để nộp, và khi phản biện gửi về thì bạn biết cách trả lời chứ không hoảng.
+Không ai chắc chắn được điều đó, kể cả giáo sư đầu ngành. Việc nhận đăng do ban biên tập và người phản biện quyết định. Điều mình hỗ trợ bạn được là làm cho bản thảo đủ chuẩn để nộp, và khi phản biện gửi về thì bạn biết cách trả lời chứ không hoảng hốt.
 :::
 
 ::: {.faq}
@@ -108,7 +108,7 @@ Không. Có hai khoản tiền bạn có thể phải trả cho tạp chí, và 
 
 **Phí xử lý bài báo**, tiếng Anh là Article Processing Charge, viết tắt APC. Đây là khoản cố định trả cho nhà xuất bản để bài của bạn được đăng vĩnh viễn ở dạng truy cập mở, tức là ai cũng đọc và tải được mà không phải trả tiền. Với các tạp chí Q1 và Q2 trong ngành mình, khoản này thường không nhỏ.
 
-Việc chọn tạp chí nào là một phần công việc mình làm cùng bạn, và mình luôn tính cả túi tiền của bạn vào đó. Có nhiều tạp chí Scopus uy tín không thu của tác giả đồng nào, chỉ là bạn phải biết chúng nằm ở đâu.
+Việc lựa chọn tạp chí nào là một phần công việc mình làm cùng bạn, và mình luôn tính cả túi tiền của bạn vào đó. Có nhiều tạp chí Scopus uy tín không thu của tác giả đồng nào, chỉ là bạn phải biết chúng nằm ở đâu.
 :::
 
 ::: {.faq}
@@ -120,7 +120,7 @@ Không. Kết quả nghiên cứu là của bạn, tên trên bài là của b�
 ::: {.faq}
 ### Nếu giả thuyết của mình bị bác bỏ thì sao?
 
-Đó vẫn là một kết quả nghiên cứu hợp lệ, và mình sẽ ngồi cùng bạn viết nó thành một đóng góp thật. Điều mình không làm là sửa dữ liệu hay loại quan sát để giả thuyết được ủng hộ.
+Đó vẫn là một kết quả nghiên cứu hợp lệ, và mình sẽ ngồi cùng bạn viết nó thành một đóng góp thật sự. Điều mình không làm là sửa dữ liệu hay loại bỏ quan sát để giả thuyết được ủng hộ.
 :::
 
 ## Về Nora
@@ -130,7 +130,7 @@ Không. Kết quả nghiên cứu là của bạn, tên trên bài là của b�
 
 Chưa. Mình bắt đầu nghiên cứu sinh tháng 9 năm 2023, dự kiến bảo vệ cấp trường tháng 12 năm 2026 và nhận bằng trong năm 2027.
 
-Mình nói ra chỗ này vì bạn có quyền biết trước khi quyết. Nếu bạn cần một người đã có bằng và có thâm niên hướng dẫn nghiên cứu sinh, mình chưa phải người đó. Còn nếu bạn cần một người đang học trong cùng hệ thống với bạn và nhớ rõ từng mốc vì vừa mới đi qua, thì đó là chỗ mình mạnh nhất.
+Mình nói ra chỗ này vì bạn có quyền biết trước khi quyết định. Nếu bạn cần một người đã có bằng và có thâm niên hướng dẫn nghiên cứu sinh, mình chưa phải người đó. Còn nếu bạn cần một người đang học trong cùng hệ thống với bạn và nhớ rõ từng mốc vì vừa mới đi qua, thì đó đúng là chỗ mình đang có.
 :::
 
 ::: {.faq}
@@ -138,7 +138,7 @@ Mình nói ra chỗ này vì bạn có quyền biết trước khi quyết. Nế
 
 Từ năm 2023, mình hướng dẫn các nhóm sinh viên nghiên cứu khoa học ở Duy Tân. Ba năm, tám công bố hội thảo và tạp chí cùng các bạn ấy. Năm 2024, một nhóm mình hướng dẫn đi tới vòng chung kết toàn quốc Giải thưởng Sinh viên nghiên cứu khoa học Euréka. Từ 2024 mình làm cố vấn viết học thuật, tổ chức hội thảo chuyên đề về tổng quan hệ thống, chuẩn báo cáo mô hình cấu trúc và viết tiếng Anh học thuật.
 
-Việc đồng hành với nghiên cứu sinh là phần nối dài của mấy năm đó, ở mức khó hơn.
+Việc đồng hành với nghiên cứu sinh là phần nối dài của mấy năm đó, ở mức độ khó hơn.
 :::
 
 ## Về tiền
@@ -150,15 +150,15 @@ Chia đợt. Chặng lẻ thì 50% khi bắt đầu và 50% ở giữa chặng. 
 :::
 
 ::: {.faq}
-### Nếu mình thấy không hợp thì sao?
+### Nếu mình thấy không phù hợp thì sao?
 
-Trong hai buổi đầu, nếu bạn thấy không hợp thì mình gửi lại phần chưa dùng, không hỏi lý do. Sau hai buổi đầu thì mình không hoàn nữa, nhưng bạn được bảo lưu và dời lịch khi có việc đột xuất.
+Trong hai buổi đầu, nếu bạn thấy không phù hợp thì mình gửi lại phần chưa sử dụng, không hỏi lý do. Sau hai buổi đầu thì mình không hoàn nữa, nhưng bạn được bảo lưu và dời lịch khi có việc đột xuất.
 :::
 
 ::: {.faq}
 ### Mình đang khó khăn về tiền.
 
-Cứ nhắn cho mình và nói thẳng tình hình. Mình không hứa trước, nhưng mình nghe 🙂
+Cứ nhắn cho mình và nói thẳng tình hình. Mình không hứa trước, nhưng mình lắng nghe 🙂
 :::
 
 ::: {.faq}
@@ -167,7 +167,7 @@ Cứ nhắn cho mình và nói thẳng tình hình. Mình không hứa trước,
 Vì bạn có quyền biết trước khi nhắn tin. Việc không công khai học phí chỉ tạo thêm một vòng trao đổi mà cả hai bên đều không cần tới.
 :::
 
-## Vẫn chưa có câu trả lời
+## Vẫn chưa có câu trả lời cho câu hỏi của bạn?
 
 [Nhắn Messenger cho mình](https://m.me/norastudies){.cta}
 [Hẹn 30 phút nói chuyện](lien-he.qmd){.cta-quiet}

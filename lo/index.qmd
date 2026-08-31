@@ -1,7 +1,7 @@
 ---
 title: ""
-pagetitle: "NoraStudies — ທີ່ປຶກສາການຄົ້ນຄວ້າ ສຳລັບນັກສຶກສາປະລິນຍາເອກ"
-description: "NoraStudies — mentor for PhD candidates in Marketing and Business Administration studying in Vietnamese-language programmes in Vietnam."
+pagetitle: "NoraStudies · ທີ່ປຶກສາການຄົ້ນຄວ້າ ສຳລັບນັກສຶກສາປະລິນຍາເອກ"
+description: "NoraStudies, mentor for PhD candidates in Marketing and Business Administration studying in Vietnamese-language programmes in Vietnam."
 lang: lo
 ---
 

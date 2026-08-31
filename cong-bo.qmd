@@ -1,6 +1,6 @@
 ---
 title: ""
-pagetitle: "Danh mục công bố — Nguyễn Thái Hà"
+pagetitle: "Danh mục công bố · Nguyễn Thái Hà"
 description: "16 công trình khoa học của Nguyễn Thái Hà: 8 bài tạp chí có bình duyệt và 8 báo cáo hội thảo, giai đoạn 2023 đến 2026."
 ---
 
@@ -19,7 +19,7 @@ Tám bài tạp chí có bình duyệt và tám báo cáo hội thảo, giai đo
 :::
 
 ::: {.note}
-**Cách đọc danh mục.** Tên mình được in đậm và tô màu đỏ trong mỗi trích dẫn, để bạn thấy nhanh vị trí của mình trong nhóm tác giả. Những bài mình giữ vai trò tác giả thứ nhất hoặc tác giả liên hệ đều có ghi chú riêng ngay bên dưới.
+**Cách đọc danh mục.** Tên mình được in đậm và tô màu đỏ trong mỗi trích dẫn, để bạn nhận ra nhanh chóng vị trí của mình trong nhóm tác giả. Những bài mình giữ vai trò tác giả thứ nhất hoặc tác giả liên hệ đều có ghi chú riêng ngay bên dưới.
 
 Thứ tự tên tác giả trong mỗi bài do cả nhóm cùng thống nhất, và mình xin được ghi nhận đóng góp của tất cả các anh chị đồng tác giả trong những công trình này 🌾
 :::
@@ -61,7 +61,7 @@ Thứ tự tên tác giả trong mỗi bài do cả nhóm cùng thống nhất, 
 
 ## Bài đăng cùng sinh viên
 
-Hai bài dưới đây là kết quả mình đồng hành cùng sinh viên năm cuối, đưa khoá luận tốt nghiệp của các bạn ấy thành bài đăng được. Mình để riêng ra đây vì tính chất công việc khác hẳn: phần lớn là hướng dẫn, còn tên tuổi và kết quả là của các bạn sinh viên.
+Ba bài dưới đây là kết quả mình đồng hành với sinh viên năm cuối, đưa khoá luận tốt nghiệp của các bạn ấy thành bài đăng được. Mình để riêng ra đây vì tính chất công việc khác biệt hẳn: phần lớn là hướng dẫn, còn tên tuổi và kết quả là của các bạn sinh viên.
 
 ::: {.pub}
 [2025]{.pub-year}
@@ -131,11 +131,11 @@ Hai bài dưới đây là kết quả mình đồng hành cùng sinh viên năm
 [<strong class="ten-minh">Nguyen, T.-H.</strong> Tháng 8 năm 2023]{.pub-venue}
 :::
 
-## Muốn đọc bài nào
+## Bạn muốn đọc bài nào?
 
 Toàn bộ danh mục trên tra được tại [ORCID 0000-0002-8865-9461](https://orcid.org/0000-0002-8865-9461), [Google Scholar](https://scholar.google.com/citations?user=EWGQWc4AAAAJ) và [ResearchGate](https://www.researchgate.net/profile/Thai-Ha-Nguyen).
 
-Bài nào đăng ở tạp chí truy cập mở thì bạn bấm vào DOI là tải được bản đầy đủ. Bài nào nhà xuất bản chưa mở, bạn cứ nhắn cho mình, mình gửi bạn.
+Bài nào đăng ở tạp chí truy cập mở thì bạn bấm vào DOI là tải được bản đầy đủ. Bài nào nhà xuất bản chưa mở quyền truy cập, bạn cứ nhắn cho mình, mình gửi bạn ngay.
 
 [Đọc thêm về mình](ve-nora.qmd){.cta-quiet}
 
