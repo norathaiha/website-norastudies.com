@@ -1,19 +1,19 @@
 ---
 title: ""
 pagetitle: "NoraStudies · Mentor đồng hành với nghiên cứu sinh Marketing và Quản trị Kinh doanh"
-description: "Mình là Nora, mentor đồng hành với nghiên cứu sinh ngành Marketing và Quản trị Kinh doanh, chương trình tiếng Việt. Bạn viết, mình đọc cùng."
+description: "Mình là Nora, mentor đồng hành với nghiên cứu sinh ngành Marketing và Quản trị Kinh doanh, chương trình tiếng Việt. Bạn viết, và có mình đọc cùng."
 ---
 
 ::: {.hero .hero-hoa}
 
 ::: {.eyebrow}
-Mentor kèm riêng 1-1 và nhóm ba bạn · Marketing và Quản trị Kinh doanh
+Mentor kèm riêng 1-1 · Marketing và Quản trị Kinh doanh
 :::
 
-# Ba năm nữa trôi qua, bạn vẫn đang sửa chương hai.
+# Bạn đã làm nghiên cứu sinh tới năm thứ ba, nhưng tất cả những gì bạn có chỉ là sự bế tắc ở việc xây dựng mô hình nghiên cứu, chưa thu thập dữ liệu, chưa có công bố khoa học nào...
 
 ::: {.lede}
-Đó là tình huống mình muốn giúp bạn tránh. Không phải vì bạn thiếu năng lực, mà vì chẳng ai nói cho bạn biết chỗ nào đang lệch, cho tới lúc lệch quá xa để quay lại.
+Nếu bạn đang ở đúng chỗ đó, chuyện không phải vì bạn thiếu năng lực, mà vì chẳng ai nói cho bạn biết chỗ nào bạn đang đi chệch hướng, cho tới lúc bạn đã rẽ nhầm đường quá xa để quay lại.
 :::
 
 [Hẹn mình 30 phút nói chuyện](lien-he.qmd){.cta}
@@ -46,16 +46,16 @@ Mentor kèm riêng 1-1 và nhóm ba bạn · Marketing và Quản trị Kinh doa
 :::
 
 ::: {.reveal}
-[1-3]{.fact-num}
+[24]{.fact-num data-dem="24"}
 
-[Số bạn đường trong một nhóm, để mình còn đủ thời gian cho từng người]{.fact-label}
+[Số giờ làm việc tối đa mình trả lời tin nhắn của bạn, giữa hai buổi hẹn]{.fact-label}
 :::
 
 :::
 
 ## Điều làm bạn mệt mỏi nhất thường không phải khối lượng công việc
 
-Nếu bạn đã học được hơn một năm, có lẽ bạn đang gặp ít nhất một trong bốn chuyện dưới đây. Không chuyện nào trong số đó là do bạn lười biếng cả.
+Nếu bạn đã học được hơn một năm, có lẽ bạn đang gặp ít nhất một trong bốn vấn đề dưới đây:
 
 ::: {.card-grid}
 
@@ -117,7 +117,7 @@ Ba năm qua mình làm đúng công việc này với các nhóm sinh viên nghi
 
 ### Sắp thi đầu vào
 
-Bạn có bằng thạc sĩ và muốn làm tiến sĩ, nhưng nhìn tờ đề cương nộp hồ sơ mà không biết bắt đầu từ đâu. Lo lắng nhất là trượt rồi phải chờ đợi đợt sau, mất thêm một năm.
+Bạn muốn mở cánh cổng để bước vào hành trình tiến sĩ, nhưng mở bằng cách nào? Bạn có bằng thạc sĩ và muốn làm tiến sĩ, nhưng nhìn tờ đề cương nộp hồ sơ mà không biết bắt đầu từ đâu. Lo lắng nhất là trượt rồi phải chờ đợi đợt sau, mất thêm một năm.
 
 [Chặng G0, đề cương thi đầu vào](lo-trinh.qmd#g0){.cta-quiet}
 :::
@@ -146,7 +146,7 @@ Mô hình bị hội đồng yêu cầu làm lại, dữ liệu thu về chưa s
 
 ## Con đường được chia thành năm chặng
 
-Mỗi chặng khép lại bằng một sản phẩm bạn cầm đi nộp được. Bạn không phải đoán mình đang ở đâu nữa: hết chặng một là có chuyên đề tổng quan trong tay, hết chặng hai là có mô hình nghiên cứu, cứ thế cho tới lúc bạn cầm cả quyển luận án.
+Mỗi chặng sẽ được nghiệm thu bằng một sản phẩm bạn cầm đi nộp được, có thể là một cuốn chuyên đề hoàn thiện, cũng có thể là một bản thảo nghiên cứu hoàn chỉnh. Bạn không phải đoán mình đang ở đâu nữa: hết chặng một là có chuyên đề tổng quan trong tay, hết chặng hai là có mô hình nghiên cứu, cứ thế cho tới lúc bạn cầm cả quyển luận án.
 
 ::: {.card-grid}
 
@@ -163,7 +163,7 @@ Mỗi chặng khép lại bằng một sản phẩm bạn cầm đi nộp đư�
 
 ### Cơ sở lý thuyết và mô hình nghiên cứu
 
-Chọn lý thuyết nền, phát biểu giả thuyết đúng chuẩn, xây dựng mô hình bảo vệ được trước hội đồng.
+Chọn lý thuyết nền, phát biểu giả thuyết đúng chuẩn, xây dựng mô hình có luận cứ chắc chắn.
 :::
 
 ::: {.card .sac-la .reveal}
@@ -188,7 +188,7 @@ Ghép ba chuyên đề thành một quyển đọc liền mạch, xử lý phụ
 
 ## Bạn chỉ cần tháo gỡ đúng một chỗ cũng được
 
-Không phải ai cũng cần đi cả hành trình. Có bạn chỉ mắc kẹt đúng một chỗ, và tháo gỡ xong chỗ đó là đi tiếp được.
+Không phải ai cũng cần đi cả hành trình. Có bạn chỉ mắc kẹt đúng một chỗ, và tháo gỡ xong chỗ đó là bạn sẽ tự đi tiếp được.
 
 ::: {.card-grid}
 
@@ -217,7 +217,7 @@ Bạn đã chạy xong số liệu nhưng nhìn bảng kết xuất mà không b
 
 ### Sử dụng AI trong nghiên cứu
 
-Claude, Gemini, NotebookLM và Obsidian làm bộ não thứ hai, tức kho ghi chú cá nhân nối với nhau. Mình cài đặt và hướng dẫn trực tiếp, 3 triệu. Chỉ bán kèm khi bạn đã lấy từ hai chặng trở lên.
+Claude, Gemini, NotebookLM và Zotero để quản lý học liệu, thư mục, tài liệu tham khảo, ebook. Mình cài đặt và hướng dẫn trực tiếp, 3 triệu. Chỉ bán kèm khi bạn đã lấy từ hai chặng trở lên.
 
 [Xem chi tiết](hoc-phi.qmd#ai){.cta-quiet}
 :::
@@ -227,7 +227,7 @@ Claude, Gemini, NotebookLM và Obsidian làm bộ não thứ hai, tức kho ghi 
 
 ### Bài báo Scopus Q1 và Q2
 
-Bạn đã có dữ liệu hoặc bản thảo và muốn nhắm tới tạp chí Q1, Q2. Mentor và soát bản thảo, không viết thay. Học phí trao đổi riêng theo tình trạng bài của bạn.
+Bạn đã có dữ liệu hoặc bản thảo và muốn nhắm tới tạp chí Q1, Q2. Mentor và rà soát bản thảo (mình không viết thay). Học phí trao đổi riêng theo tình trạng bài của bạn.
 
 [Xem trang riêng](bai-bao.qmd){.cta-quiet}
 :::
@@ -246,7 +246,7 @@ Luận án của mình có tên *Tác động của thực tế tăng cường �
 ::: {.card-grid}
 
 ::: {.card .reveal}
-### Mình chưa hoàn thành, và mình nói thật chỗ đó
+### Mình chưa hoàn thành chương trình tiến sĩ đâu!
 
 Mình chưa cầm bằng tiến sĩ. Thứ mình có là ba năm đang đi trong đúng hệ thống mà bạn đang đi, với các mốc còn mới nguyên vì mình vừa đi qua.
 :::
@@ -254,7 +254,7 @@ Mình chưa cầm bằng tiến sĩ. Thứ mình có là ba năm đang đi trong
 ::: {.card .reveal}
 ### Làm được cả nghiên cứu định tính và định lượng
 
-Hai lối tiếp cận này đòi hỏi hai cách nghĩ khác nhau. Bạn làm hỗn hợp phương pháp mà phải tìm hai người, thì thường nhận về hai lời khuyên lệch nhau và tự phải ghép nối.
+Mình mô hình hoá bằng PLS-SEM, và cũng mã hoá dữ liệu phỏng vấn bằng phân tích chủ đề phản tư. Đề tài của bạn đi theo hướng nào, hay hỗn hợp cả hai hướng, thì phần phương pháp vẫn do một người đọc từ đầu tới cuối.
 :::
 
 ::: {.card .reveal}
@@ -273,7 +273,7 @@ Mình biết cảm giác gửi bản thảo đi rồi chờ đợi, và cảm gi
 
 [Đọc thêm về mình](ve-nora.qmd){.cta-quiet}
 
-## Mình giúp được gì, và chỗ nào mình sẽ giới thiệu bạn sang người phù hợp hơn
+## Mình giúp được gì, và trường hợp nào mình sẽ giới thiệu bạn sang người phù hợp hơn
 
 ::: {.yes-no}
 
@@ -281,15 +281,15 @@ Mình biết cảm giác gửi bản thảo đi rồi chờ đợi, và cảm gi
 ### Chỗ mình làm tốt
 
 - Đọc bản nháp của bạn và chỉ ra chỗ lập luận còn thiếu hụt, kèm lý do
-- Nói sớm khi thấy bạn đi lệch, thay vì đợi bạn viết xong ba chục trang
+- Nói sớm khi thấy bạn đi chệch hướng, thay vì đợi bạn viết xong ba chục trang
 - Xác nhận khi bạn làm đúng, để bạn khỏi tự nghi ngờ rồi làm lại từ đầu
-- Nhắc mốc tiến độ giúp bạn, không đợi bạn nhớ ra
-- Tuyển chọn sẵn 100 bài báo quốc tế đáng đọc cho riêng đề tài của bạn
+- Nhắc mốc tiến độ giúp bạn, không đợi bạn nhớ ra. Và bạn có một người đóng vai "kẻ ác" hối thúc bạn, để bạn giữ đúng tiến độ 🙂
+- Tuyển chọn sẵn 100 bài báo quốc tế đáng đọc cho riêng đề tài của bạn, kèm thứ tự nên đọc
 - Luận án tiếng Việt, theo mẫu chương trình đào tạo trong nước
 :::
 
 ::: {.no}
-### Chỗ mình chưa đủ sức, và có người phù hợp hơn
+### Trường hợp mình chưa đủ sức, và sẽ có người phù hợp hơn
 
 - Luận án viết bằng tiếng Anh, hoặc dạng ghép các bài báo đã đăng thành từng chương theo mẫu đại học nước ngoài. Mình học ở Việt Nam nên chưa có kinh nghiệm chỗ này. Mình quen một mentor làm được và sẵn sàng giới thiệu bạn sang Mentor đó. Tất nhiên mình giới thiệu miễn phí, không có phí hoa hồng nào ở đây hết!
 - Đề tài ngoài Marketing và Quản trị Kinh doanh. Mình nhận thì cũng chỉ làm bạn chậm lại, nên mình sẽ tìm giúp bạn người phù hợp hơn, chứ mình không nhận bừa
@@ -299,7 +299,7 @@ Mình biết cảm giác gửi bản thảo đi rồi chờ đợi, và cảm gi
 :::
 
 ::: {.note}
-**Bạn viết, mình đọc cùng.** Kết quả nghiên cứu là của bạn, tên trên bài báo là của bạn, và thứ bạn mang về sau hành trình này là khả năng tự làm nghiên cứu tiếp mà không cần tới mình nữa 🙂
+**Bạn viết và có mình đọc cùng.** Kết quả nghiên cứu là của bạn, tên trên bài báo là của bạn, và thứ bạn mang về sau hành trình này là khả năng tự làm nghiên cứu tiếp mà không cần tới mình nữa 🙂
 
 [Đọc kỹ cách mình làm việc](liem-chinh.qmd){.cta-quiet}
 :::

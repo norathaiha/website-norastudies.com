@@ -32,7 +32,7 @@ và thay MÃ_VIDEO bằng mã vừa lấy:
 Nguyễn Thái Hà · Nora Thai · Solo researcher
 :::
 
-# Mình đi tìm câu trả lời cho chữ "vì sao", ở quy mô đủ nhỏ để còn nhìn thấy từng người trong đó
+# Mình quan sát một hiện tượng trong xã hội, đặt câu hỏi vì sao, tự đi tìm câu trả lời bằng dữ liệu, rồi kể lại câu chuyện ấy qua từng nghiên cứu
 
 ::: {.lede}
 Nghiên cứu viên tại Viện Nghiên cứu Kinh tế Xã hội, Đại học Duy Tân. Nghiên cứu sinh ngành Quản trị Kinh doanh tại Trường Đại học Kinh tế, Đại học Đà Nẵng. Trước đó làm marketing trực tiếp cho doanh nghiệp vừa và nhỏ. Sống và làm việc ở Đà Nẵng 🌾
@@ -76,7 +76,7 @@ Hiện tại mình làm việc ở khoảng giữa của hai thế giới đó. 
 ::: {.hoa}
 :::
 
-## Nghiên cứu, với mình, là một sở thích
+## Với mình, nghiên cứu là một sở thích thuần tuý (không phải đam mê, nhưng mình thích nó)
 
 Mình không xem nghiên cứu như một công việc từ chín giờ sáng tới năm giờ chiều đầy áp lực. Mình đến với nó theo cách người ta đến với một thú vui mà mình thật lòng yêu thích.
 
@@ -91,7 +91,7 @@ Những người mình mong hiểu được thường đang ở phía chịu nhi
 
 [Người lao động]{.card-note}
 
-### Người lao động trung niên (trên bốn mươi tuổi) giữa thời phát triển bùng nổ của trí tuệ nhân tạo
+### Người lao động trung niên (trên bốn mươi tuổi) giữa thời trí tuệ nhân tạo phát triển rất nhanh
 
 Nhiều anh chị đã gắn bó hai mươi năm với một bộ kỹ năng lao động, rồi công nghệ xuất hiện và nhanh chóng thay đổi cách vận hành của cả ngành nghề đó chỉ trong vài tháng. Điều mình muốn hiểu là họ đang xoay xở ra sao, họ được và mất những gì, và ai trong số họ đang chịu phần khó khăn nhất. Thực sự thì họ có sợ bị bỏ lại và bị thay thế trong thị trường lao động hay không?
 :::
@@ -229,7 +229,7 @@ Tính tới tháng 7 năm 2026, mình có 16 công trình: 8 bài tạp chí và
 
 [Xem danh mục đầy đủ 16 công trình](cong-bo.qmd){.cta-quiet}
 
-## Đồng hành cùng các đồng tác giả và cộng sự khác
+## Đồng hành với các đồng tác giả và cộng sự khác
 
 Từ năm 2023 mình hướng dẫn các nhóm sinh viên nghiên cứu khoa học tại Đại học Duy Tân. Ba năm, tám công bố hội thảo và tạp chí cùng các bạn ấy, về hành vi người tiêu dùng, thương mại điện tử, du lịch và tâm lý thị trường bất động sản.
 

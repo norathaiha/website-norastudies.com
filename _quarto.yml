@@ -20,7 +20,7 @@ project:
 
 website:
   title: "NoraStudies"
-  description: "Mentor 1-1 và nhóm ba người cho nghiên cứu sinh ngành Marketing, Quản trị Kinh doanh và các ngành gần, chương trình tiếng Việt. Bạn viết, mình đọc cùng và đồng hành với bạn tới lúc bảo vệ."
+  description: "Mentor kèm riêng 1-1 cho nghiên cứu sinh ngành Marketing, Quản trị Kinh doanh và các ngành gần, chương trình tiếng Việt. Bạn viết, mình đọc cùng và đồng hành với bạn tới lúc bảo vệ."
   site-url: "https://norastudies.com"
   favicon: assets/favicon.png
 

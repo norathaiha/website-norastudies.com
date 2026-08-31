@@ -108,7 +108,7 @@ Phần này gọi đúng tên là proofreading. Mình rà soát lại cách di�
 ::: {.card .reveal}
 [06]{.card-note}
 
-### Đồng hành cùng bạn qua vòng phản biện
+### Đồng hành với bạn qua vòng phản biện
 
 Khi thư phản biện gửi về, hai bên cùng đọc, cùng phân loại từng nhận xét, rồi bạn viết thư phản hồi và sửa bản thảo. Mình đọc lại trước khi bạn gửi đi.
 :::

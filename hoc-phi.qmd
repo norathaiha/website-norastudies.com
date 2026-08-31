@@ -150,23 +150,6 @@ Từ chuyên đề tổng quan tới lúc bạn bước vào phòng bảo vệ.
 
 :::
 
-## Đi nhóm ba bạn
-
-Ba bạn cùng chặng học chung phần kiến thức và quy trình, còn phần đọc bản viết thì mình làm riêng cho từng người. Điều kiện là ba bạn phải cùng chặng. Mình không ghép người đang ở hai giai đoạn khác nhau, vì như vậy cả ba đều thiệt thòi.
-
-| Chặng | Kèm riêng 1-1 | Nhóm ba bạn, mỗi người |
-|---|---|---|
-| G0 · Đề cương thi đầu vào | 7.000.000 VNĐ | 4.500.000 VNĐ |
-| G1 · Chuyên đề tổng quan | 12.000.000 VNĐ | 7.500.000 VNĐ |
-| G2 · Cơ sở lý thuyết và mô hình nghiên cứu | 15.000.000 VNĐ | 9.500.000 VNĐ |
-| G3 · Phương pháp nghiên cứu và kết quả nghiên cứu | 18.000.000 VNĐ | 11.000.000 VNĐ |
-| G4 · Hoàn thiện toàn bộ luận án | 15.000.000 VNĐ | 9.500.000 VNĐ |
-| Hai chặng | 24.000.000 VNĐ | 15.000.000 VNĐ |
-| Ba chặng | 38.000.000 VNĐ | 24.000.000 VNĐ |
-| Cả hành trình | 50.000.000 VNĐ | 32.000.000 VNĐ |
-
-: {tbl-colwidths="[46,27,27]"}
-
 ## Giá đã gồm và chưa gồm
 
 ::: {.yes-no}
@@ -208,10 +191,10 @@ Cả hai khoản đều nằm ngoài học phí và bạn trả thẳng cho nhà
 ::: {.hoa}
 :::
 
-## Gói đi kèm: xây dựng bộ não thứ hai bằng AI {#ai}
+## Gói đi kèm: dùng AI để quản lý học liệu và tài liệu tham khảo {#ai}
 
 ::: {.price .price-featured}
-### Sử dụng AI trong nghiên cứu, và xây dựng bộ não thứ hai
+### Sử dụng AI trong nghiên cứu, và dựng kho học liệu của riêng bạn
 [3.000.000 VNĐ]{.price-amount}
 [Chỉ bán kèm, khi bạn đã lấy từ hai chặng trở lên]{.price-unit}
 
@@ -219,7 +202,7 @@ Mình cài đặt và hướng dẫn trực tiếp, thực hành thật trên m�
 
 - **Claude và Gemini** cho việc đọc, tóm tắt, đối chiếu tài liệu và rà soát bản viết, kèm cách nhận ra chỗ nào tin được và chỗ nào phải tự kiểm tra lại
 - **Google NotebookLM** để hỏi thẳng vào tập tài liệu của bạn thay vì đọc lại từ đầu mỗi lần
-- **Obsidian** làm bộ não thứ hai, tức kho ghi chú cá nhân nối với nhau, để bốn năm sau bạn vẫn tìm lại được ý mình từng nghĩ
+- **Zotero** để quản lý học liệu, thư mục tài liệu và ebook, xuất trích dẫn tự động, và bốn năm sau vẫn tìm lại được bài mình từng đọc
 - Bộ **skill** mình viết sẵn, cài vào Claude của bạn để nó làm việc theo đúng quy trình nghiên cứu chứ không trả lời chung chung
 
 Học phí chưa gồm tiền bạn đăng ký gói AI hằng tháng, khoản đó bạn trả thẳng cho nhà cung cấp.
