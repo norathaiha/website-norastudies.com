@@ -13,7 +13,7 @@ Cách mình làm việc
 # Bảy điều mình hứa, và những chỗ mình chưa đủ sức
 
 ::: {.lede}
-Bạn nên đọc hết trang này trước khi nhắn tin cho mình. Nếu có dòng nào ở đây bạn thấy không phù hợp, thì hai bên biết sớm vẫn hơn.
+Trang này mình viết ra để bạn đọc trước khi nhắn tin cho mình. Nếu có dòng nào ở đây bạn thấy chưa phù hợp, thì hai bên biết sớm vẫn hơn.
 :::
 
 :::
@@ -30,7 +30,7 @@ Bạn tự đọc, tự nghĩ, tự viết. Mình chỉ ra chỗ nào lập lu�
 
 ### 3. Nói sớm khi bạn đi lệch
 
-Ngay lúc mình thấy lệch, chứ không đợi bạn viết xong ba chục trang. Nhiều bạn mất cả một học kỳ chỉ vì chưa ai nói với họ câu đó đúng lúc.
+Ngay lúc mình thấy lệch, chứ không đợi tới khi bạn viết xong ba chục trang. Cũng đã có bạn mất trọn một học kỳ mà phần nhiều là vì chưa có ai ngồi đọc cùng bạn ấy từ sớm.
 
 ### 4. Nói cả khi bạn làm đúng
 
@@ -38,7 +38,7 @@ Nhiều bạn làm đúng nhưng không ai xác nhận, nên tự nghi ngờ r�
 
 ### 5. Giữ nhịp cho bạn
 
-Mình nhắc mốc tiến độ chủ động, không đợi bạn nhớ ra. Đây là phần ít nơi cung cấp mà lại là phần nhiều bạn cần tới.
+Mình nhắc mốc tiến độ chủ động, không đợi bạn nhớ ra. Đây là phần nhiều bạn nói với mình là cần tới.
 
 ### 6. Giữ bí mật chuyện của bạn
 
@@ -51,9 +51,9 @@ Mình không đứng tên đồng tác giả bất kỳ công bố nào của b�
 ::: {.hoa}
 :::
 
-## Những chỗ mình chưa đủ sức, và mình nói thẳng ngay từ đầu
+## Những chỗ mình chưa đủ sức, và mình xin nói trước
 
-Phần này mình viết ra để bạn khỏi mất thời gian. Chỗ nào mình làm được thì mình làm tới nơi, chỗ nào chưa được thì mình nói thật và tìm giúp bạn người phù hợp hơn.
+Phần này mình viết ra để bạn khỏi mất thời gian. Chỗ nào mình làm được thì mình làm tới nơi, chỗ nào chưa được thì mình nói trước và tìm giúp bạn người phù hợp hơn.
 
 ::: {.note}
 **Luận án tiếng Anh, hoặc dạng ghép các bài báo thành chương.** Mình học ở Việt Nam, làm theo mẫu chuyên đề tổng quan rồi chuyên đề 1, chuyên đề 2, rồi toàn bộ quyển luận án. Với những chương trình yêu cầu ghép ba bốn bài báo đã công bố thành các chương, như cách nhiều đại học nước ngoài đang làm, mình chưa có kinh nghiệm và cũng không muốn nhận khi chưa đủ vững vàng.
@@ -61,9 +61,9 @@ Phần này mình viết ra để bạn khỏi mất thời gian. Chỗ nào mì
 Nhưng mình quen một mentor làm được việc đó, và mình sẵn sàng giới thiệu bạn sang Mentor đó. Tất nhiên mình giới thiệu miễn phí, không có phí hoa hồng nào ở đây hết! Bạn cứ nhắn cho mình là được.
 :::
 
-**Đề tài ngoài Marketing và Quản trị Kinh doanh.** Mình nhận thì cũng chỉ làm bạn đi chậm lại, chứ mình không nhận bừa. Bạn nhắn cho mình, mình sẽ hỏi quanh trong mạng lưới của mình xem có ai phù hợp hơn không.
+**Đề tài ngoài Marketing và Quản trị Kinh doanh.** Mình nhận thì cũng chỉ làm bạn đi chậm lại. Bạn cứ nhắn cho mình, mình sẽ hỏi quanh trong mạng lưới của mình xem có ai phù hợp hơn với bạn không.
 
-**Viết thay bạn.** Việc này mình không nhận, kể cả một đoạn nhỏ. Nếu bạn đang cần người viết hộ thì mình không phải người đó, và mình nói ngay từ đầu để bạn khỏi mất công.
+**Viết thay bạn.** Việc này mình không nhận, kể cả một đoạn nhỏ. Nếu bạn đang cần người viết hộ thì mình không phải người đó, và mình xin nói ngay từ đầu để bạn khỏi mất công.
 
 **Chỉnh sửa số liệu cho ra kết quả như ý.** Mình không sửa dữ liệu, không loại bỏ quan sát để giả thuyết được ủng hộ, không thay đổi mô hình chỉ vì mô hình kia cho p nhỏ hơn 0,05. Một giả thuyết bị bác bỏ vẫn là kết quả nghiên cứu hợp lệ, và mình sẽ ngồi cùng bạn viết nó thành một đóng góp thật sự.
 
@@ -94,7 +94,7 @@ Mình nói ra chỗ này vì bạn có quyền biết trước khi quyết đị
 
 Lịch học do hai bên thoả thuận trực tiếp với nhau. Bạn bận đột xuất thì mình dạy bù, mình bận thì mình cũng dạy bù, chuyện đó bình thường.
 
-Nhưng mỗi buổi mình đều để lại cho bạn một phần việc kèm hạn, và phần đó bạn cần làm xong để mình còn đọc và sửa. Học mà không thực hành thì mình không nhận, không phải vì mình khó tính, mà vì mình đã thấy nhiều bạn trả tiền xong rồi để mất ba tháng, cuối cùng chẳng có gì trong tay.
+Nhưng mỗi buổi mình đều để lại cho bạn một phần việc kèm hạn, và phần đó bạn cần làm xong để mình còn đọc và góp ý. Mình xin phép không nhận trường hợp học mà không thực hành, không phải vì mình khó tính, mà vì phần thực hành mới là chỗ bạn đi lên được, và mình mong bạn về tới đích chứ không chỉ đi hết số buổi.
 
 Bạn đi làm bận rộn, mình cũng bận rộn. Bạn có gia đình, con nhỏ, cha mẹ đau ốm, mình cũng vậy. Thôi thì hai bên cùng cố gắng, dìu nhau qua từng chặng 🌾
 

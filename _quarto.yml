@@ -43,6 +43,8 @@ website:
         href: liem-chinh.qmd
       - text: "Hỏi đáp"
         href: hoi-dap.qmd
+      - text: "Sản phẩm"
+        href: san-pham.qmd
       - text: "Liên hệ"
         href: lien-he.qmd
       - text: "ລາວ"
@@ -58,7 +60,8 @@ website:
     center: |
       [Lộ trình](lo-trinh.qmd) · [Bài báo Q1 Q2](bai-bao.qmd) · [Học phí](hoc-phi.qmd)<br>
       [Về mình](ve-nora.qmd) · [Công bố](cong-bo.qmd) · [Cách làm việc](liem-chinh.qmd)<br>
-      [Bài viết](bai-viet.qmd) · [Hỏi đáp](hoi-dap.qmd) · [Liên hệ](lien-he.qmd)
+      [Bài viết](bai-viet.qmd) · [Sản phẩm](san-pham.qmd) · [Hỏi đáp](hoi-dap.qmd)<br>
+      [Liên hệ](lien-he.qmd)
     right: |
       [ORCID](https://orcid.org/0000-0002-8865-9461) · [Google Scholar](https://scholar.google.com/citations?user=EWGQWc4AAAAJ)<br>
       [ResearchGate](https://www.researchgate.net/profile/Thai-Ha-Nguyen) · [LinkedIn](https://www.linkedin.com/in/nguyenthai-ha/)

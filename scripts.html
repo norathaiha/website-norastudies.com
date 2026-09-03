@@ -1,3 +1,60 @@
+<!-- Hai thanh sản phẩm nổi hai bên, chỉ hiện trên màn hình rộng từ 1400px.
+     Danh sách xáo trộn mỗi lần tải trang nên mỗi lượt ghé thăm thấy một bộ khác.
+     Thanh tự gỡ khỏi chính trang Sản phẩm và khỏi các trang tiếng Lào. -->
+<aside class="rail-sach rail-trai" aria-label="Sách mình đọc, cột trái" hidden></aside>
+<aside class="rail-sach rail-phai" aria-label="Sách mình đọc, cột phải" hidden></aside>
+<script>
+(function () {
+  var duong = location.pathname;
+  if (/san-pham(\.html)?$/.test(duong) || duong.indexOf('/lo/') === 0) return;
+
+  var trai = document.querySelector('.rail-trai');
+  var phai = document.querySelector('.rail-phai');
+  if (!trai || !phai) return;
+
+  var ANH = 'https://down-vn.img.susercontent.com/file/';
+
+  var sanPham = [
+    { ten: 'Giáo trình Marketing Du Lịch',        gia: '237.500 đ', anh: 'vn-11134201-7r98o-lleudk6055me87', lk: 'https://s.shopee.vn/9zxReGvh3g' },
+    { ten: 'Giáo trình Marketing Dịch Vụ',        gia: '171.000 đ', anh: 'vn-11134201-7qukw-lfi6tg743v5w33', lk: 'https://s.shopee.vn/AAGrqZv3ij' },
+    { ten: 'Marketing Du Lịch, bản ĐHQGHN',       gia: '140.000 đ', anh: 'vn-11134207-7ra0g-m8pz5jlxvf5z19', lk: 'https://s.shopee.vn/AUtiFBtn2p' },
+    { ten: 'Giáo trình Nghiên cứu Marketing',     gia: '166.300 đ', anh: 'vn-11134207-81ztc-mrwunxb3lgxye9', lk: 'https://s.shopee.vn/9Khkr2yEPc' },
+    { ten: 'Combo Quản trị học, bộ hai cuốn',     gia: '319.000 đ', anh: 'vn-11134207-7ras8-m3g88bfi4ss5df', lk: 'https://s.shopee.vn/9V1B3Lxb4f' },
+    { ten: 'Giáo trình Quản trị Logistics',       gia: '170.100 đ', anh: 'sg-11134201-7qveo-liqyqzqtbu9s04', lk: 'https://s.shopee.vn/9fKbFewxji' },
+    { ten: 'Giáo trình Quản trị Chuỗi Cung Ứng',  gia: '269.500 đ', anh: 'vn-11134207-81ztc-mqfvxs6tz02469', lk: 'https://s.shopee.vn/9pe1RxwKOl' },
+    { ten: 'Quản trị học, TS. Trần Dục Thức',     gia: '126.000 đ', anh: 'vn-11134207-7r98o-lnnrp7r9u0e27a', lk: 'https://s.shopee.vn/60RIsvAvB2' }
+  ];
+
+  // Xáo trộn Fisher-Yates
+  for (var k = sanPham.length - 1; k > 0; k--) {
+    var t = Math.floor(Math.random() * (k + 1));
+    var tam = sanPham[k]; sanPham[k] = sanPham[t]; sanPham[t] = tam;
+  }
+
+  function thoat(v) {
+    return String(v).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+
+  function dungThe(m) {
+    return '<a class="rail-mon" href="' + thoat(m.lk) + '" target="_blank" rel="nofollow sponsored noopener">' +
+             '<img src="' + ANH + thoat(m.anh) + '" alt="" loading="lazy" referrerpolicy="no-referrer">' +
+             '<span class="rail-ten">' + thoat(m.ten) + '</span>' +
+             '<span class="rail-gia">' + thoat(m.gia) + '</span>' +
+           '</a>';
+  }
+
+  function dungCot(el, ds) {
+    el.innerHTML = '<p class="rail-nhan">Sách mình đọc</p>' +
+                   ds.map(dungThe).join('') +
+                   '<a class="rail-them" href="/san-pham.html">Xem tất cả</a>';
+    el.hidden = false;
+  }
+
+  dungCot(trai, sanPham.slice(0, 3));
+  dungCot(phai, sanPham.slice(3, 6));
+})();
+</script>
+
 <div class="float-chat">
   <a class="float-btn float-mes"
      href="https://m.me/norastudies"

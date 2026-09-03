@@ -10,10 +10,10 @@ description: "Buổi nói chuyện đầu 30 phút, không thu phí. Messenger, 
 Liên hệ
 :::
 
-# Ba mươi phút đầu, không thu phí, không ràng buộc gì
+# Ba mươi phút nói chuyện qua Google Meet, không thu phí và không ràng buộc gì, để hai bên xem thử có đồng hành được với nhau không
 
 ::: {.lede}
-Bạn kể mình nghe bạn đang ở đâu, mình nói cho bạn biết nên vào từ chặng nào. Nếu mình thấy bạn chưa cần tới mentor, mình cũng nói thẳng như vậy 🙂
+Bạn kể mình nghe bạn đang ở đâu và đang vướng ở chỗ nào, rồi mình chia sẻ với bạn xem nên bắt đầu từ chặng nào thì hợp lý nhất. Còn nếu mình thấy lúc này bạn chưa cần tới mentor thì mình cũng chia sẻ thật với bạn như vậy, rằng đi thêm một chặng với mình bây giờ là chưa cần thiết và cũng khá tốn kém cho bạn. Nhưng mà chúng ta vẫn có ba mươi phút ngồi tâm sự với nhau đúng không? Mình rất vui vì được lắng nghe câu chuyện của bạn 🙂
 :::
 
 [Nhắn Messenger cho mình](https://m.me/norastudies){.cta}
@@ -23,13 +23,12 @@ Bạn kể mình nghe bạn đang ở đâu, mình nói cho bạn biết nên v�
 
 ## Buổi nói chuyện đầu diễn ra thế nào?
 
-Ba mươi phút, qua Google Meet hoặc Messenger. Không có phần giới thiệu dài dòng, hai bên vào việc luôn.
-
+Ba mươi phút, qua Google Meet hoặc Messenger
 **Mười phút đầu, bạn nói.** Bạn đang học năm thứ mấy, ở trường nào, chương trình tiếng Việt hay tiếng Anh, đề tài là gì, đang mắc kẹt ở chỗ nào, trường yêu cầu mốc nào.
 
-**Mười phút giữa, mình hỏi.** Mấy câu này thường cho thấy chỗ mắc kẹt thật sự, mà nhiều khi không phải chỗ bạn nghĩ.
+**Mười phút giữa, mình hỏi.** Mấy câu hỏi này giúp hai bên cùng nhìn ra chỗ đang mắc kẹt thật sự, mà đôi khi nó lại nằm ở một chỗ khác hẳn với chỗ mình tưởng lúc ban đầu.
 
-**Mười phút cuối, mình nói thẳng.** Bạn nên vào từ chặng nào, mất bao lâu, và có đáng để bạn đầu tư không. Nếu câu trả lời là chưa cần thì mình nói chưa cần. Nếu chương trình của bạn nằm ngoài phần mình thuộc, mình sẽ giới thiệu bạn sang Mentor phù hợp hơn. Tất nhiên mình giới thiệu miễn phí, không có phí hoa hồng nào ở đây hết!
+**Mười phút cuối, hai bên trao đổi xem có làm việc được với nhau không.** Bạn nên vào từ chặng nào, mất bao lâu, và có đáng để bạn đầu tư không. Nếu câu trả lời là chưa cần thì mình nói chưa cần. Nếu chương trình của bạn nằm ngoài phần mình thuộc, mình sẽ giới thiệu bạn sang Mentor phù hợp hơn. Tất nhiên mình giới thiệu miễn phí, không có phí hoa hồng nào ở đây hết!
 
 Sau buổi đó, nếu hai bên thấy phù hợp, mình gửi bạn một lộ trình riêng viết ra giấy: mốc nào làm gì, hạn nào, sản phẩm nào. Bạn đọc rồi mới quyết định.
 
@@ -38,7 +37,7 @@ Sau buổi đó, nếu hai bên thấy phù hợp, mình gửi bạn một lộ 
 {{< include _xa-hoi-chu.qmd >}}
 
 ::: {.note}
-**Nếu bạn nhắn để rủ mình làm nghiên cứu chung**, chứ không phải để tìm mentor, thì cứ nói thẳng ngay từ dòng đầu. Mình đang tìm người cùng làm về mặt tối của công nghệ với người lao động, về hành vi xã hội, và về nghiên cứu định tính quy mô nhỏ. Chuyện đó là hợp tác đồng tác giả, không phải mua bán dịch vụ, nên mình xếp lịch riêng.
+**Nếu bạn nhắn để rủ mình làm nghiên cứu chung**, chứ không phải để tìm mentor, thì bạn cứ nói ngay từ dòng đầu. Mình đang tìm người cùng làm về mặt tối của công nghệ với người lao động, về hành vi xã hội, và về nghiên cứu định tính quy mô nhỏ. Chuyện đó là hợp tác đồng tác giả, không phải mua bán dịch vụ, nên mình xếp lịch riêng.
 :::
 
 ::: {.note}
@@ -47,7 +46,7 @@ Sau buổi đó, nếu hai bên thấy phù hợp, mình gửi bạn một lộ 
 
 ## Trước khi nhắn tin cho mình
 
-Hai trang này trả lời phần lớn câu hỏi, và đọc trước thì buổi nói chuyện của hai bên đi được sâu hơn.
+Hai trang này trả lời được phần lớn những câu hỏi thường gặp. Bạn đọc qua trước thì buổi nói chuyện của hai bên sẽ đi được sâu hơn nhiều.
 
 [Cách mình làm việc](liem-chinh.qmd){.cta-quiet}
 [Câu hỏi thường gặp](hoi-dap.qmd){.cta-quiet}

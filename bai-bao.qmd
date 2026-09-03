@@ -10,10 +10,10 @@ description: "Đồng hành với bạn viết và nộp bài báo Scopus Q1, Q2
 Bài báo Q1 và Q2 · Marketing, Quản trị Kinh doanh và các ngành gần
 :::
 
-# Bản thảo của bạn có thể đã đủ tốt, chỉ là chưa được cấu trúc một cách đúng mà thôi
+# Nhiều bản thảo đã đủ chất liệu, chỉ là phần đóng góp chưa hiện ra rõ
 
 ::: {.lede}
-Nhiều bản thảo bị từ chối không phải vì nghiên cứu yếu kém, mà vì phần đóng góp chưa được thể hiện rõ ràng, câu chuyện truyền tải mờ nhạt, hoặc vì tạp chí được lựa chọn chưa phù hợp với câu chuyện mà bài đang kể. Mình đồng hành với bạn ở cả hai chỗ đó 🙂
+Nhiều bản thảo bị từ chối không phải vì phần nghiên cứu có vấn đề, mà vì phần đóng góp chưa được thể hiện rõ, mạch câu chuyện chưa nổi lên, hoặc vì tạp chí chọn chưa hợp với câu chuyện mà bài đang kể. Mình đồng hành với bạn ở cả hai chỗ đó 🙂
 :::
 
 [Nhắn Messenger để trao đổi](https://m.me/norastudies){.cta}
@@ -31,7 +31,7 @@ Nhiều bản thảo bị từ chối không phải vì nghiên cứu yếu kém
 
 ## Bạn đang gặp vấn đề gì?
 
-Ba tình huống dưới đây là ba lý do các anh chị tìm tới mình. Bạn đọc rồi nhận ra mình có đang gặp vấn đề chung không nhé.
+Ba tình huống dưới đây là những lý do các anh chị hay tìm tới mình. Bạn xem thử có chỗ nào giống mình không nhé.
 
 ::: {.card-grid}
 
@@ -56,7 +56,7 @@ Bạn đọc lại bản thảo của mình và thấy có chỗ chưa ổn tho�
 
 ### Nhận thư yêu cầu chỉnh sửa và thấy nản lòng
 
-Ba trang nhận xét gửi về, đọc xong thấy nặng nề và không biết bắt đầu từ đâu. Thỉnh thoảng còn thấy bất mãn, hoang mang, vô lý, không công bằng........ Mình ngồi cùng bạn đọc lại từng nhận xét, phân loại chỗ nào phải sửa, chỗ nào giải thích được, rồi cùng bạn xây dựng thư phản hồi.
+Ba trang nhận xét gửi về, đọc xong thấy nặng nề và chưa biết bắt đầu từ đâu. Có lúc thấy hoang mang, có lúc thấy nhận xét chưa công bằng với công sức của mình. Mình ngồi cùng bạn đọc lại từng nhận xét, phân loại chỗ nào phải sửa, chỗ nào giải thích được, rồi cùng bạn xây dựng thư phản hồi.
 :::
 
 :::
@@ -121,7 +121,7 @@ Phạm vi quen thuộc nhất của mình nằm ở nhóm ngành kinh doanh và 
 
 Bên cạnh đó, mình cũng nhận những ngành gần có cùng lối làm việc với dữ liệu khảo sát và phỏng vấn: giáo dục và quản lý giáo dục, tâm lý học ứng dụng, xã hội học, truyền thông, y tế công cộng ở phần hành vi người bệnh, cùng các hướng nghiên cứu về công nghệ và con người nằm giữa những ngành này.
 
-Nếu đề tài của bạn nằm ngoài phạm vi trên, bạn cứ nhắn cho mình. Mình sẽ nói thật ngay từ đầu là mình có hỗ trợ được cho bạn hay không, và nếu không thì mình hỏi quanh trong mạng lưới của mình xem có ai phù hợp hơn với bạn và giới thiệu bạn sang Mentor đó. Tất nhiên mình giới thiệu miễn phí và không có phí hoa hồng nào ở đây hết!
+Nếu đề tài của bạn nằm ngoài phạm vi trên, bạn cứ nhắn cho mình. Mình trả lời bạn ngay từ đầu là mình có đồng hành được hay không, và nếu chưa được thì mình hỏi quanh trong mạng lưới của mình xem có ai phù hợp hơn với bạn rồi giới thiệu bạn sang Mentor đó. Tất nhiên mình giới thiệu miễn phí và không có phí hoa hồng nào ở đây hết!
 
 ## Phí mentor
 
@@ -135,7 +135,7 @@ Bạn gửi mình xem bản thảo hoặc bộ dữ liệu đang có, mình đ�
 
 Phí mentor chưa bao gồm phí nộp bản thảo và phí xử lý bài báo mà tạp chí thu, gọi là submission fee và Article Processing Charge. Hai khoản đó bạn trả thẳng cho nhà xuất bản. Trong lúc lựa chọn tạp chí, mình luôn tính cả túi tiền của bạn vào đó, và nhiều tạp chí Scopus uy tín không thu của tác giả đồng nào.
 
-## Điều mình muốn chia sẻ thẳng thắn với bạn về ranh giới làm việc của mình:
+## Ranh giới làm việc của mình, mình xin nói trước
 
 ::: {.card-grid}
 
@@ -160,7 +160,7 @@ Tên trên bài là của bạn và của nhóm bạn. Nếu bạn muốn ghi m�
 
 ### Mình không hứa bài sẽ được nhận đăng
 
-Việc nhận đăng do ban biên tập và người phản biện quyết định. Điều mình hỗ trợ bạn được là làm cho bản thảo đủ chuẩn để nộp, và khi phản biện gửi về thì bạn biết cách trả lời chứ không hoảng hốt.
+Việc nhận đăng do ban biên tập và người phản biện quyết định. Điều mình hỗ trợ bạn được là làm cho bản thảo đủ chuẩn để nộp, và khi phản biện gửi về thì bạn có cách để trả lời.
 :::
 
 ::: {.card .reveal}
@@ -177,7 +177,7 @@ Bạn là tác giả, nên bạn là người đứng ra làm việc với tạp
 
 Mình có 16 công trình khoa học, trong đó bốn bài đăng năm 2026 thuộc danh mục SSCI hoặc ESCI, và hai bài nằm ở nhóm Scopus Q1. Mình giữ vai trò tác giả thứ nhất hoặc tác giả liên hệ ở sáu công bố, nghĩa là mình đã tự tay đi qua toàn bộ quy trình từ lúc nộp tới lúc trả lời phản biện.
 
-Mình cũng làm việc được với cả hai lối tiếp cận, định tính và định lượng, nên bài của bạn theo hướng nào thì mình cũng đọc được phần phương pháp. Nếu ngoài khả năng của mình, mình vẫn sẽ giới thiệu bạn sang Mentor khác phù hợp hơn, chứ mình không nhận bừa.
+Mình cũng làm việc được với cả hai lối tiếp cận, định tính và định lượng, nên bài của bạn theo hướng nào thì mình cũng đọc được phần phương pháp. Nếu việc nằm ngoài khả năng của mình, mình xin phép nói trước và giới thiệu bạn sang một Mentor phù hợp hơn.
 
 [Xem danh mục 16 công trình](cong-bo.qmd){.cta-quiet}
 [Đọc thêm về mình](ve-nora.qmd){.cta-quiet}

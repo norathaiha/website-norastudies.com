@@ -61,7 +61,7 @@ Mình vào nghiên cứu sinh tháng 9 năm 2023. Dự kiến bảo vệ luận 
 
 ## Sự nghiệp của mình không bắt đầu ngay từ trường học
 
-Trước khi bước vào con đường học thuật, mình làm marketing cho các doanh nghiệp vừa và nhỏ. Viết nội dung, xây dựng website trên WordPress, làm SEO cả on-page lẫn off-page, và trong một giai đoạn thì tự điều hành doanh nghiệp của chính mình. Đó không phải marketing trong giáo trình, mà là marketing của những tháng phải nhìn vào doanh thu để biết tháng sau xoay xở ra sao.
+Trước khi bước vào con đường học thuật, mình làm marketing cho các doanh nghiệp vừa và nhỏ. Viết nội dung, xây dựng website trên WordPress, làm SEO cả on-page lẫn off-page, và trong một giai đoạn thì tự điều hành doanh nghiệp của chính mình. Đó là marketing của những tháng phải nhìn vào doanh thu để biết tháng sau xoay xở ra sao.
 
 Quãng thời gian ấy để lại bài học cũng như chiêm nghiệm cho mình hai điều mà bây giờ mình vẫn sử dụng mỗi ngày.
 
@@ -131,7 +131,7 @@ Mình sống ở đây, nên mình bắt đầu quan sát từ chính nơi mình
 Mình cũng mong có dịp đưa những quan sát này ra khỏi phạm vi một quốc gia. Khi đặt một hiện tượng ở Đà Nẵng bên cạnh một thành phố có điều kiện tương đồng tại Malaysia, Thái Lan, Lào hay Campuchia, chúng ta sẽ thấy phần nào là đặc điểm chung của cả khu vực, và phần nào thật sự thuộc về bối cảnh văn hoá riêng của từng nơi. Đây chính là hướng nghiên cứu liên văn hoá, và nó thường giúp câu trả lời trở nên rõ ràng hơn so với việc chỉ khảo sát một địa bàn duy nhất.
 
 ::: {.note}
-**Nghiên cứu mình mong muốn theo đuổi không mang tính vĩ mô.** Quy mô của nó nhỏ, nhưng đi sâu vào chi tiết, và chạm tới những điều rất đỗi thường ngày trong đời sống. Bảy người kể lại câu chuyện của mình một cách kỹ lưỡng và chân thành sẽ cho mình nhiều hiểu biết hơn là bảy trăm phiếu khảo sát được điền cho xong 🌾
+**Nghiên cứu mình mong muốn theo đuổi không mang tính vĩ mô.** Quy mô của nó nhỏ, nhưng đi sâu vào chi tiết, và chạm tới những điều rất đỗi thường ngày trong đời sống. Bảy người kể lại câu chuyện của mình một cách kỹ lưỡng và chân thành sẽ cho mình nhiều hiểu biết hơn là bảy trăm phiếu khảo sát điền vội 🌾
 :::
 
 ## Luận án mình đang làm
@@ -155,7 +155,7 @@ Hướng mình theo đuổi lúc này là <span class="hl-do">mặt tối của 
 
 Bài trên *Acta Psychologica* năm 2026 là bước đầu của hướng này, về nhận thức AI, nỗi sợ bị bỏ lại phía sau vì AI, và tình trạng kiệt sức nghề nghiệp ở nhân viên khách sạn Việt Nam.
 
-Mình cũng đang chuyển dần từ mẫu lớn sang mẫu nhỏ. Mình thích ngồi quan sát, nghe người ta kể, rồi tìm cho ra chữ vì sao trong những chuyện rất đời thường quanh mình. Bảy người kể chuyện kỹ lưỡng và thành thật thì cho mình nhiều thứ hơn bảy trăm phiếu khảo sát trả lời cho xong.
+Mình cũng đang chuyển dần từ mẫu lớn sang mẫu nhỏ. Mình thích ngồi quan sát, nghe người ta kể, rồi tìm cho ra chữ vì sao trong những chuyện rất đời thường quanh mình. Bảy người kể chuyện kỹ lưỡng và thành thật thì cho mình nhiều thứ hơn bảy trăm phiếu khảo sát điền vội.
 
 ## Cách mình tiếp cận một câu hỏi nghiên cứu
 

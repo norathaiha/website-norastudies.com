@@ -23,10 +23,10 @@ Lấy mã video từ thanh địa chỉ YouTube (phần sau v=), rồi dán kh�
 Bài viết
 :::
 
-# Viết về nghề, không viết để bán
+# Viết lại những điều mình hay phải giải thích
 
 ::: {.lede}
-Những bài ở đây là thứ mình hay phải giải thích lại nhiều lần. Viết ra một lần để khỏi phải nhắc lại, và cũng để bạn xem cách mình làm nghề trước khi quyết định đồng hành với nhau.
+Những bài ở đây là thứ mình hay phải giải thích lại nhiều lần. Viết ra một lần để khỏi phải nhắc lại, và cũng để bạn xem cách mình làm nghề trước khi hai bên quyết định đồng hành với nhau.
 :::
 
 :::
@@ -50,7 +50,7 @@ Các chủ đề dưới đây đều bắt nguồn từ những câu mình bị
 
 **Về mô hình và lý thuyết**
 
-5. Vì sao hội đồng bác bỏ mô hình và yêu cầu làm lại, và câu bạn phải trả lời được trước khi vào phòng
+5. Vì sao hội đồng yêu cầu làm lại mô hình, và câu bạn nên chuẩn bị trước khi vào phòng
 6. Chọn lý thuyết nền: bốn câu hỏi để biết lý thuyết đó có phù hợp với đề tài của bạn không
 7. Biến trung gian và biến điều tiết, phân biệt bằng câu hỏi chứ không bằng công thức
 
@@ -63,7 +63,7 @@ Các chủ đề dưới đây đều bắt nguồn từ những câu mình bị
 **Về công bố**
 
 11. Lựa chọn tạp chí: cách tra Scopus, cách nhận ra tạp chí săn mồi, cách tìm tạp chí không thu phí
-12. Nhận thư yêu cầu chỉnh sửa lớn: đọc thế nào, trả lời thế nào, và vì sao đừng trả lời ngay hôm đó
+12. Nhận thư yêu cầu chỉnh sửa lớn: đọc thế nào, trả lời thế nào, và vì sao không nên trả lời ngay hôm đó
 
 ## Trong lúc chờ đợi
 

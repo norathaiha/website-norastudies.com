@@ -30,10 +30,10 @@ Nếu chương trình của bạn viết bằng tiếng Anh, hoặc theo mẫu g
 
 Bạn không bắt buộc phải đi cả năm chặng cùng mình. Nếu bạn đang ở giữa chặng ba thì đi chặng ba thôi, không ai bắt bạn trả tiền cho hai chặng đã qua.
 
-Mỗi chặng khép lại bằng một sản phẩm nộp được, trong đó chắc chắn sẽ có quyển chuyên đề với bố cục chuẩn, hoặc thêm vào nữa là một bài báo đăng tạp chí. Đây là chỗ khác biệt giữa việc học thêm kiến thức và việc đi hết một quãng đường: cuối chặng bạn có thứ cầm đi nộp, chứ không phải một cảm giác đã hiểu rồi về nhà mới thực hành. Mình thích phong cách thực chiến, học qua sản phẩm hơn.
+Mỗi chặng khép lại bằng một sản phẩm nộp được, trong đó chắc chắn sẽ có quyển chuyên đề với bố cục chuẩn, hoặc thêm vào nữa là một bài báo đăng tạp chí. Mình để mỗi chặng kết thúc bằng một sản phẩm cụ thể vì như vậy thì cả hai bên đều dễ theo dõi hơn. Cuối mỗi chặng, chỉ cần nhìn vào thứ bạn đang cầm trong tay là biết được mình đã đi tới đâu rồi.
 
 ::: {.note}
-**Về bài báo khoa học.** Lộ trình hướng tới hai bài Scopus và một bài trong nước từ 0,75 điểm. Nhưng việc một bản thảo có được nhận đăng hay không thì ban biên tập và người phản biện quyết định, không phải mình, cũng không phải bạn. Điều mình hỗ trợ bạn được là làm cho bản thảo đủ chuẩn để nộp, và khi phản biện gửi về thì bạn biết cách trả lời chứ không hoảng hốt.
+**Về bài báo khoa học.** Lộ trình hướng tới hai bài Scopus và một bài trong nước từ 0,75 điểm. Nhưng việc một bản thảo có được nhận đăng hay không thì ban biên tập và người phản biện quyết định, không phải mình, cũng không phải bạn. Điều mình hỗ trợ bạn được là làm cho bản thảo đủ chuẩn để nộp, và khi phản biện gửi về thì bạn có cách để trả lời.
 :::
 
 ## G0 · Đề cương nghiên cứu thi đầu vào {#g0}
@@ -62,13 +62,13 @@ Dành cho bạn đang chuẩn bị hồ sơ dự tuyển. Chặng này ngắn nh
 
 ### Đọc có hệ thống thay vì đọc lan man
 
-Chặng này để lại cho bạn một kỹ năng sử dụng được lâu dài chứ không chỉ dùng cho một chuyên đề. Bạn đọc có hệ thống thì viết tổng quan trong sáu tuần. Đọc lan man thì sáu tháng vẫn bị góp ý là mới liệt kê chứ chưa lập luận.
+Chặng này để lại cho bạn một kỹ năng dùng được lâu dài, không chỉ cho một chuyên đề. Đọc có hệ thống thì phần tổng quan thường viết xong trong khoảng sáu tuần. Đọc theo cách gặp đâu đọc đó thì lâu hơn nhiều, và bản viết ra dễ nhận góp ý là mới dừng ở mức liệt kê.
 
 - Xây dựng chiến lược tìm kiếm trên Scopus và Web of Science: từ khoá, chuỗi truy vấn, tiêu chí lựa chọn và loại trừ
 - Quy trình PRISMA 2020 để việc lựa chọn tài liệu minh bạch và lặp lại được
 - Khung TCCM để đọc và phân loại tài liệu có hệ thống
 - Sử dụng Zotero để không thất lạc nguồn và xuất trích dẫn tự động
-- Trắc lượng thư mục bằng VOSviewer hoặc Bibliometrix trên R, nếu phù hợp với đề tài của bạn (nhưng mình không khuyến khích phương pháp này)
+- Trắc lượng thư mục bằng VOSviewer hoặc Bibliometrix trên R, nếu phù hợp với đề tài của bạn. Góc nhìn của mình về phương pháp này nằm ở [trang về mình](ve-nora.qmd)
 - Viết tổng quan có lập luận, có khoảng trống nghiên cứu được chỉ ra rõ ràng
 - Biên tập phần tổng quan thành một bản thảo bài báo hoàn chỉnh
 
@@ -82,9 +82,9 @@ Chặng này để lại cho bạn một kỹ năng sử dụng được lâu d�
 ::: {.stage}
 [Chặng 2]{.stage-code}
 
-### Mô hình được tạo ra bởi lý thuyết nền, không phải từ việc sao chép, chồng ghép những mô hình có sẵn
+### Mô hình đi ra từ lý thuyết nền, và bạn giải thích được vì sao từng đường dẫn có mặt ở đó
 
-Đây là chỗ hội đồng sẽ hỏi nhiều nhất. Câu bạn sẽ bị hỏi không phải mô hình của bạn gồm những gì, mà vì sao lại là biến này chứ không phải biến kia. Mối tương quan này lấy từ nguồn nào, luận cứ có đủ vững chắc hay không?
+Đây là chỗ hội đồng hỏi nhiều nhất. Câu hỏi thường không dừng ở mô hình của bạn gồm những gì, mà đi tới vì sao lại chọn biến này, mối tương quan này lấy từ nguồn nào, và luận cứ đã đủ chưa.
 
 - Chọn và bảo vệ lý thuyết nền. Nhóm lý thuyết mình làm việc thường xuyên gồm Stimulus-Organism-Response, Job Demands-Resources, Conservation of Resources, Technology Acceptance Model, Self-Determination Theory, Social Cognitive Career Theory, Person-Environment Fit và Place Attachment
 - Xây dựng mô hình nghiên cứu, và đảm bảo mô hình được sinh ra từ lý thuyết nền
@@ -106,9 +106,9 @@ Chặng này để lại cho bạn một kỹ năng sử dụng được lâu d�
 
 ### Chạy được số liệu là một chuyện, diễn giải đúng số liệu là chuyện khác
 
-Chặng dài nhất và nặng nề nhất. Nhiều bạn dừng lại ở đây vì dữ liệu thu về không sử dụng được, mà nguyên nhân thường nằm ở bảng hỏi đã được thiết kế chưa chuẩn từ sáu tháng trước đó.
+Chặng dài nhất. Đây cũng là chỗ nhiều bạn phải quay lại làm thêm một vòng, vì dữ liệu thu về chưa dùng được, và nguyên nhân thường nằm ở bảng hỏi từ sáu tháng trước đó.
 
-- Thiết kế nghiên cứu và chọn phương pháp phù hợp với câu hỏi, chứ không chọn theo thói quen hoặc những công trình luận án trước đó đã làm và bắt chước theo
+- Thiết kế nghiên cứu và chọn phương pháp phù hợp với câu hỏi, thay vì chọn theo thói quen, hoặc chọn chỉ vì một luận án trước đã làm như vậy
 - Xây dựng thang đo: kế thừa từ nguồn nào, điều chỉnh cho ngữ cảnh Việt Nam ra sao, quy trình dịch ngược
 - Thiết kế bảng hỏi và biểu mẫu khảo sát trực tuyến, khảo sát thử trên mẫu nhỏ, điều chỉnh trước khi phát chính thức
 - Chiến lược thu thập mẫu, cỡ mẫu tối thiểu, cách làm sạch dữ liệu và xử lý câu trả lời không hợp lệ
@@ -148,7 +148,7 @@ Ba chuyên đề viết cách nhau hai năm thường không khớp nhau: ký hi
 | Lộ trình riêng của bạn | Sau buổi đầu, bạn nhận một lộ trình viết ra giấy: mốc nào làm gì, hạn nào, sản phẩm nào |
 | Thư viện 100 bài | Danh mục 100 bài báo quốc tế mình tuyển chọn riêng cho đề tài của bạn, kèm ghi chú vì sao đáng đọc và nên đọc theo thứ tự nào, kèm hướng dẫn lấy bản toàn văn qua thư viện trường, các cơ sở dữ liệu truy cập mở, ResearchGate và cách viết thư xin bài từ chính tác giả. Mục dưới đây giải thích vì sao lại là con số 100 |
 | Hỏi giữa các buổi | Mình trả lời trong 24 giờ làm việc, và đọc bản viết của bạn một lần mỗi tuần |
-| Giữ nhịp tiến độ | Mình nhắc mốc tiến độ chủ động. Đây là phần nhiều bạn cần tới mà ít nơi cung cấp |
+| Giữ nhịp tiến độ | Mình nhắc mốc tiến độ chủ động, không đợi bạn nhớ ra. Đây là phần nhiều bạn nói với mình là cần tới |
 | Nói sớm khi lệch | Thấy bạn đi lệch là mình nói ngay, không đợi bạn làm xong mới nói |
 
 : {tbl-colwidths="[26,74]"}
@@ -159,7 +159,7 @@ Con số này không phải chọn cho tròn trịa. Khoảng một trăm bài l
 
 Với chừng đó bài đọc kỹ, bạn đủ nguồn để kế thừa và điều chỉnh thang đo cho ngữ cảnh Việt Nam, đủ mẫu để chạy một quy trình tổng quan có hệ thống, cho ra kết quả có ý nghĩa, đủ chất liệu để viết một bản tổng quan tự sự có lập luận, và đủ khối lượng tài liệu để tự xây dựng lấy một khung phân tích cho riêng đề tài của bạn thay vì mượn nguyên khung của người khác.
 
-Đọc đúng và đọc đủ chừng đó thì khoảng trống nghiên cứu tự hiện ra. Bạn không còn phải ngồi đoán xem đề tài của mình có mới mẻ không. Đó chính là việc bạn cần làm xong ở chặng G1, và là chỗ nhiều bạn loay hoay lâu nhất chỉ vì đọc thiếu và đọc lệch.
+Đọc đúng và đọc đủ chừng đó thì khoảng trống nghiên cứu tự hiện ra, và bạn không còn phải ngồi đoán xem đề tài của mình có mới không. Đó là việc bạn cần làm xong ở chặng G1, và cũng là chỗ nhiều bạn ở lại lâu nhất, thường vì tập tài liệu chưa đủ rộng.
 
 ::: {.hoa}
 :::

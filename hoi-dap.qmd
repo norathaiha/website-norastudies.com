@@ -47,7 +47,7 @@ Chủ yếu trực tuyến qua Google Meet, nên bạn ở tỉnh nào cũng là
 ::: {.faq}
 ### Mỗi lúc Nora nhận bao nhiêu bạn?
 
-Có giới hạn, vì mình đang vừa làm luận án của chính mình vừa làm nghiên cứu ở Viện. Khi lịch đầy, mình nói thật và hẹn bạn đợt sau, chứ mình không nhận bừa rồi để bạn chờ đợi.
+Có giới hạn, vì mình đang vừa làm luận án của chính mình vừa làm nghiên cứu ở Viện. Khi lịch đầy, mình xin phép hẹn bạn đợt sau, để bạn khỏi phải chờ mà không rõ tới khi nào.
 :::
 
 ## Về chương trình đào tạo của bạn
@@ -67,19 +67,19 @@ Bạn cứ nhắn cho mình, vì phạm vi mình làm được rộng hơn hai n
 
 Thứ quyết định thường không phải tên ngành, mà là cách đề tài của bạn thu thập và xử lý dữ liệu. Nếu bạn làm việc với bảng hỏi, với phỏng vấn sâu, hoặc với tổng quan có hệ thống, thì khả năng cao là mình đọc cùng bạn được.
 
-Còn nếu đề tài nằm ngoài phạm vi ấy thật, mình nói rõ ngay từ buổi đầu và hỏi quanh trong mạng lưới xem có ai phù hợp hơn với bạn, chứ mình không nhận bừa. Việc hỏi giúp và giới thiệu này mình không lấy gì cả 🙂
+Còn nếu đề tài nằm ngoài phạm vi ấy thật, mình xin nói rõ ngay từ buổi đầu, rồi hỏi quanh trong mạng lưới xem có ai phù hợp hơn với bạn. Việc hỏi giúp và giới thiệu này mình không lấy gì cả 🙂
 :::
 
 ::: {.faq}
 ### Mình học hai năm rồi và đang thấy mắc kẹt. Nora có nhận không?
 
-Có, nhưng hai bên bắt đầu bằng một buổi gỡ rối. Sau buổi đó mình viết cho bạn một bản đánh giá: tháo gỡ được hay không, tháo gỡ bằng cách nào, mất bao lâu. Nếu mình thấy chưa tháo gỡ được thì mình nói thẳng chứ không nhận tiền của bạn.
+Có, nhưng hai bên bắt đầu bằng một buổi gỡ rối. Sau buổi đó mình viết cho bạn một bản đánh giá: tháo gỡ được hay không, tháo gỡ bằng cách nào, mất bao lâu. Nếu mình thấy chưa tháo gỡ được thì mình nói trước, và mình không nhận học phí của bạn.
 :::
 
 ::: {.faq}
 ### Mình chưa biết nên bắt đầu từ chặng nào.
 
-Bạn không phải tự chọn. Trong buổi nói chuyện 30 phút không thu phí, bạn kể mình nghe bạn đang ở đâu, rồi mình nói cho bạn biết nên vào từ chặng nào. Nếu mình thấy bạn chưa cần tới mentor, mình cũng nói thẳng vậy.
+Bạn không phải tự chọn. Trong buổi nói chuyện 30 phút không thu phí, bạn kể mình nghe bạn đang ở đâu, rồi mình nói cho bạn biết nên vào từ chặng nào. Còn nếu mình thấy bạn chưa cần tới mentor thì mình cũng chia sẻ thật với bạn như vậy, rằng lúc này bạn chưa cần đi thêm một chặng nào với mình cả. Ba mươi phút ngồi nói chuyện với nhau thì vẫn cứ là ba mươi phút vui, và mình rất mừng vì được nghe câu chuyện của bạn 🙂
 :::
 
 ::: {.hoa}
@@ -90,7 +90,7 @@ Bạn không phải tự chọn. Trong buổi nói chuyện 30 phút không thu 
 ::: {.faq}
 ### Nora có chắc bài của mình được đăng không?
 
-Không ai chắc chắn được điều đó, kể cả giáo sư đầu ngành. Việc nhận đăng do ban biên tập và người phản biện quyết định. Điều mình hỗ trợ bạn được là làm cho bản thảo đủ chuẩn để nộp, và khi phản biện gửi về thì bạn biết cách trả lời chứ không hoảng hốt.
+Không ai chắc chắn được điều đó, kể cả giáo sư đầu ngành. Việc nhận đăng do ban biên tập và người phản biện quyết định. Điều mình hỗ trợ bạn được là làm cho bản thảo đủ chuẩn để nộp, và khi phản biện gửi về thì bạn có cách để trả lời.
 :::
 
 ::: {.faq}
@@ -152,13 +152,13 @@ Trong hai buổi đầu, nếu bạn thấy không phù hợp thì mình gửi l
 ::: {.faq}
 ### Mình đang khó khăn về tiền.
 
-Cứ nhắn cho mình và nói thẳng tình hình. Mình không hứa trước, nhưng mình lắng nghe 🙂
+Cứ nhắn cho mình và kể thật tình hình. Mình không hứa trước, nhưng mình lắng nghe 🙂
 :::
 
 ::: {.faq}
 ### Vì sao giá lại để công khai trên web?
 
-Vì bạn có quyền biết trước khi nhắn tin. Việc không công khai học phí chỉ tạo thêm một vòng trao đổi mà cả hai bên đều không cần tới.
+Vì mình nghĩ bạn có quyền được biết trước khi nhắn tin cho mình. Để giá công khai ở đây thì bạn tự cân nhắc được ngay mà không phải mất thêm một vòng hỏi đáp qua lại nữa.
 :::
 
 ## Vẫn chưa có câu trả lời cho câu hỏi của bạn?
