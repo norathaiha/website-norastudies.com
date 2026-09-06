@@ -21,7 +21,7 @@ Mentor kèm riêng 1-1 · Marketing và Quản trị Kinh doanh
 :::
 
 ```{=html}
-<picture class="hero-anh-nora">
+<picture class="chan-dung">
   <source srcset="/assets/nora-chan-dung.webp" type="image/webp">
   <img src="/assets/nora-chan-dung.png"
        alt="Nora, mentor của NoraStudies, mặc áo đỏ, đang chỉ tay sang dòng chữ Đồng hành cùng bạn trong nghiên cứu khoa học"

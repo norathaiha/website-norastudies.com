@@ -1168,7 +1168,8 @@ tbody tr:nth-child(even) td { background: $cream; }
   }
 
   .hoa-no { width: 128px; height: 165px; }
-  .hoa-no-khung { right: -2rem; opacity: .55; }
+  // -2rem làm cụm hoa thò ra ngoài mép phải, sinh thanh cuộn ngang trên điện thoại
+  .hoa-no-khung { right: -.4rem; opacity: .55; }
   .xa-hoi { gap: .5rem; }
   .xa-hoi a { width: 38px; height: 38px; }
 
@@ -1395,15 +1396,16 @@ tbody tr:nth-child(even) td { background: $cream; }
 }
 
 // ===========================================================================
-// KHỐI MỞ ĐẦU CÓ ẢNH CHÂN DUNG (chỉ dùng ở trang chủ)
-// Chữ bên trái, ảnh bên phải, ngón tay chỉ chéo sang dòng lời mời.
-// Luống hoa mờ được tắt ở đây vì góc phải đã dành cho ảnh.
+// KHỐI MỞ ĐẦU CÓ ẢNH CHÂN DUNG
+// Chữ bên trái, ảnh bên phải. Trang chủ dùng thêm .hero-anh cho dòng lời mời;
+// các trang trong dùng .hero-co-anh và giữ nguyên vai của câu tiêu đề.
+// Trang nào có ảnh thì tắt luống hoa mờ, vì góc phải đã dành cho ảnh.
 // ===========================================================================
 
-.hero-anh::after { display: none; }
+.hero-anh::after,
+.hero-co-anh::after { display: none; }
 
-// Hai cột chỉ dựng từ 992px trở lên. Dưới mức đó cột chữ hẹp quá,
-// dòng lời mời sẽ phải ngắt thành ba dòng.
+// Hai cột chỉ dựng từ 992px trở lên. Dưới mức đó cột chữ hẹp quá.
 .hero-tren {
   display: grid;
   grid-template-columns: 1fr;
@@ -1412,7 +1414,7 @@ tbody tr:nth-child(even) td { background: $cream; }
 
 @media (min-width: 992px) {
   .hero-tren {
-    grid-template-columns: minmax(0, 1fr) 300px;
+    grid-template-columns: minmax(0, 1fr) auto;
     align-items: center;
     column-gap: 1.5rem;
     margin-bottom: 1.6rem;
@@ -1425,7 +1427,49 @@ tbody tr:nth-child(even) td { background: $cream; }
   min-width: 0;
 }
 
-// Dòng lời mời, cỡ chữ lớn nhất trang, là chỗ ngón tay chỉ vào
+// ---------------------------------------------------------------------------
+// Ảnh chân dung, dùng chung cho mọi trang.
+// Đặt theo chiều cao chứ không theo bề ngang, để người trong ảnh trông
+// cùng một cỡ ở mọi trang, dù mỗi tấm có tỷ lệ khung khác nhau.
+// ---------------------------------------------------------------------------
+
+.chan-dung {
+  display: block;
+  justify-self: end;
+  align-self: center;
+  // Ảnh thò xuống dưới hàng trên một chút, lấp bớt khoảng trống bên phải
+  // câu tiêu đề.
+  margin-bottom: -3.2rem;
+
+  img {
+    display: block;
+    height: 310px;
+    width: auto;
+    max-width: 100%;
+
+    // Ảnh bị cắt ngang ở mép dưới, nên cho mép ấy tan dần vào nền
+    // thay vì để một đường cắt thẳng.
+    -webkit-mask-image: linear-gradient(to bottom, #000 76%, transparent 99%);
+            mask-image: linear-gradient(to bottom, #000 76%, transparent 99%);
+  }
+}
+
+// Ảnh đứng riêng một khối giữa nội dung, không nằm trong khối mở đầu
+.chan-dung-khoi {
+  display: flex;
+  justify-content: flex-end;
+  // Kéo sát vào tiêu đề mục ở trên và cụm thẻ ở dưới, để dải trống
+  // bên trái ảnh không quá dày.
+  margin: -1.6rem 0 -1.2rem;
+
+  .chan-dung {
+    margin-bottom: -1rem;
+
+    img { height: 200px; }
+  }
+}
+
+// Dòng lời mời của trang chủ, là chỗ ngón tay chỉ vào.
 // Cỡ chữ đặt vừa đủ để mỗi vế nằm trọn một dòng, không ngắt giữa chừng.
 // Dòng dài hơn là "trong Nghiên cứu Khoa học", 24 ký tự.
 .hero-loi {
@@ -1441,28 +1485,7 @@ tbody tr:nth-child(even) td { background: $cream; }
 
 .hero-nhan { color: $poppy-deep; }
 
-.hero-anh-nora {
-  display: block;
-  justify-self: end;
-  align-self: center;
-  // Ảnh thò xuống dưới hàng trên một chút, lấp bớt khoảng trống
-  // bên phải câu tiêu đề dài.
-  margin-bottom: -3.2rem;
-
-  img {
-    display: block;
-    width: 280px;
-    max-width: 100%;
-    height: auto;
-
-    // Ảnh bị cắt ngang ở mép dưới, nên cho mép ấy tan dần vào nền
-    // thay vì để một đường cắt thẳng.
-    -webkit-mask-image: linear-gradient(to bottom, #000 76%, transparent 99%);
-            mask-image: linear-gradient(to bottom, #000 76%, transparent 99%);
-  }
-}
-
-// Câu tiêu đề dài lùi xuống hàng thứ hai, đọc như một lời dẫn dài
+// Trang chủ: câu tiêu đề dài lùi xuống hàng thứ hai, đọc như một lời dẫn dài
 .hero-anh h1 {
   font-size: clamp(1.16rem, 2.4vw, 1.42rem);
   font-weight: 600;
@@ -1479,6 +1502,14 @@ tbody tr:nth-child(even) td { background: $cream; }
   max-width: 62ch;
 }
 
+// Các trang trong: câu tiêu đề vẫn là câu lớn nhất, chỉ thu bớt cho vừa cột hẹp
+.hero-co-anh h1 {
+  font-size: clamp(1.55rem, 3.6vw, 2.3rem);
+  max-width: 20ch;
+}
+
+.hero-co-anh .lede { font-size: 1.08rem; }
+
 // Cụm hoa nở rời khỏi khối mở đầu, xuống đứng dưới bốn con số
 .hoa-no-duoi {
   display: flex;
@@ -1489,42 +1520,45 @@ tbody tr:nth-child(even) td { background: $cream; }
   .hoa-no { pointer-events: auto; }
 }
 
-// Dòng lời mời cũng hiện lên theo nhịp của khối mở đầu
+// Ảnh và dòng lời mời hiện lên theo nhịp của khối mở đầu
 .hero .hero-loi { animation: len .7s cubic-bezier(.2, .7, .3, 1) both; animation-delay: .12s; }
 .hero-anh h1    { animation-delay: .26s; }
 .hero-anh .lede { animation-delay: .38s; }
 
-.hero-anh-nora {
+.hero-tren .chan-dung {
   animation: len .8s cubic-bezier(.2, .7, .3, 1) both;
   animation-delay: .2s;
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .hero .hero-loi, .hero-anh-nora { animation: none; }
+  .hero .hero-loi, .hero-tren .chan-dung { animation: none; }
 }
 
-// Dưới 992px ảnh xuống dưới dòng lời mời, nép về mép phải,
-// ngón tay vẫn hướng ngược vào phần chữ.
+// Dưới 992px ảnh xuống dưới phần chữ, nép về mép phải
 @media (max-width: 991.98px) {
-  .hero-anh-nora {
+  .hero-tren .chan-dung {
     justify-self: end;
     margin: .2rem 0 -1rem 0;
 
-    img { width: 46vw; max-width: 300px; }
+    img { height: 300px; }
   }
 }
 
 @media (max-width: 767px) {
   .hero-tren { row-gap: .2rem; margin-bottom: 1.2rem; }
 
-  .hero-anh-nora {
+  .hero-tren .chan-dung {
     margin: 0 -.6rem -1rem 0;
 
-    img { width: 62vw; max-width: 260px; }
+    img { height: 72vw; max-height: 290px; }
   }
 
   .hero-anh h1 { font-size: 1.1rem; line-height: 1.55; }
   .hero-anh .lede { font-size: 1rem; }
+  .hero-co-anh h1 { max-width: none; }
+
+  .chan-dung-khoi { margin: -1rem 0 -.6rem; }
+  .chan-dung-khoi .chan-dung img { height: 160px; }
 
   .hoa-no-duoi { margin: 0 0 1rem; }
   .hoa-no-duoi .hoa-no { width: 128px; height: 165px; }

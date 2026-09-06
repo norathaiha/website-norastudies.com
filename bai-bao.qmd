@@ -137,6 +137,17 @@ Phí mentor chưa bao gồm phí nộp bản thảo và phí xử lý bài báo 
 
 ## Ranh giới làm việc của mình, mình xin nói trước
 
+::: {.chan-dung-khoi}
+```{=html}
+<picture class="chan-dung">
+  <source srcset="/assets/nora-khoanh-tay.webp" type="image/webp">
+  <img src="/assets/nora-khoanh-tay.png"
+       alt="Nora khoanh hai tay thành dấu chữ X, ý nói đây là những việc mình không làm"
+       width="762" height="800" loading="lazy" decoding="async">
+</picture>
+```
+:::
+
 ::: {.card-grid}
 
 ::: {.card .reveal}

@@ -4,7 +4,11 @@ pagetitle: "Học phí · NoraStudies"
 description: "Bảng giá công khai. Buổi lẻ phần mềm từ 3 triệu, các chặng luận án từ 7 triệu tới 50 triệu. Chưa gồm phí đăng bài tạp chí."
 ---
 
-::: {.hero}
+::: {.hero .hero-co-anh}
+
+::: {.hero-tren}
+
+::: {.hero-chu}
 
 ::: {.eyebrow}
 Học phí
@@ -14,6 +18,19 @@ Học phí
 
 ::: {.lede}
 Buổi lẻ từ 3 triệu, các chặng lớn từ 7 triệu tới 50 triệu. Bạn không cần mình đồng hành ở tất cả các chặng đâu, bạn cần mình ở đoạn nào thì mình tính từ đoạn đó
+:::
+
+:::
+
+```{=html}
+<picture class="chan-dung">
+  <source srcset="/assets/nora-hai-tay.webp" type="image/webp">
+  <img src="/assets/nora-hai-tay.png"
+       alt="Nora ngửa hai bàn tay, dáng bày mọi thứ ra cho bạn xem"
+       width="588" height="800" loading="lazy" decoding="async">
+</picture>
+```
+
 :::
 
 :::

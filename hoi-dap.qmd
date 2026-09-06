@@ -4,7 +4,11 @@ pagetitle: "Câu hỏi thường gặp · NoraStudies"
 description: "Mentor khác gì thầy hướng dẫn, mình có viết thay không, học phí có gồm phí đăng bài không, và những câu khác."
 ---
 
-::: {.hero}
+::: {.hero .hero-co-anh}
+
+::: {.hero-tren}
+
+::: {.hero-chu}
 
 ::: {.eyebrow}
 Hỏi đáp
@@ -14,6 +18,19 @@ Hỏi đáp
 
 ::: {.lede}
 Nếu bạn cần hỏi mình chuyện gì mà chưa được nhắc tới ở dưới đây, cứ nhắn tin riêng cho mình, mình sẽ trả lời bạn sớm 🙂
+:::
+
+:::
+
+```{=html}
+<picture class="chan-dung">
+  <source srcset="/assets/nora-suy-nghi.webp" type="image/webp">
+  <img src="/assets/nora-suy-nghi.png"
+       alt="Nora chống cằm, dáng đang nghĩ về một câu hỏi"
+       width="569" height="800" loading="lazy" decoding="async">
+</picture>
+```
+
 :::
 
 :::

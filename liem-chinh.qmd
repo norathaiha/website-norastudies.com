@@ -4,7 +4,11 @@ pagetitle: "Cách mình làm việc · NoraStudies"
 description: "Điều mình hứa với bạn, việc mình làm tốt, và những chỗ mình chưa đủ sức nên sẽ gửi bạn tới người phù hợp hơn."
 ---
 
-::: {.hero}
+::: {.hero .hero-co-anh}
+
+::: {.hero-tren}
+
+::: {.hero-chu}
 
 ::: {.eyebrow}
 Cách mình làm việc
@@ -14,6 +18,19 @@ Cách mình làm việc
 
 ::: {.lede}
 Trang này mình viết ra để bạn đọc trước khi nhắn tin cho mình. Nếu có dòng nào ở đây bạn thấy chưa phù hợp, thì hai bên biết sớm vẫn hơn.
+:::
+
+:::
+
+```{=html}
+<picture class="chan-dung">
+  <source srcset="/assets/nora-ok.webp" type="image/webp">
+  <img src="/assets/nora-ok.png"
+       alt="Nora làm dấu tay OK"
+       width="849" height="800" loading="lazy" decoding="async">
+</picture>
+```
+
 :::
 
 :::
