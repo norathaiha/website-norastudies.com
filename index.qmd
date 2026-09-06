@@ -4,10 +4,31 @@ pagetitle: "NoraStudies · Mentor đồng hành với nghiên cứu sinh Marketi
 description: "Mình là Nora, mentor đồng hành với nghiên cứu sinh ngành Marketing và Quản trị Kinh doanh, chương trình tiếng Việt. Bạn viết, và có mình đọc cùng."
 ---
 
-::: {.hero .hero-hoa}
+::: {.hero .hero-anh}
+
+::: {.hero-tren}
+
+::: {.hero-chu}
 
 ::: {.eyebrow}
 Mentor kèm riêng 1-1 · Marketing và Quản trị Kinh doanh
+:::
+
+::: {.hero-loi}
+Đồng hành cùng bạn<br>trong [Nghiên cứu Khoa học]{.hero-nhan}
+:::
+
+:::
+
+```{=html}
+<picture class="hero-anh-nora">
+  <source srcset="/assets/nora-chan-dung.webp" type="image/webp">
+  <img src="/assets/nora-chan-dung.png"
+       alt="Nora, mentor của NoraStudies, mặc áo đỏ, đang chỉ tay sang dòng chữ Đồng hành cùng bạn trong nghiên cứu khoa học"
+       width="760" height="838" fetchpriority="high" decoding="async">
+</picture>
+```
+
 :::
 
 # Đã mấy năm rồi mà mô hình nghiên cứu vẫn chưa dựng xong, dữ liệu thì chưa thu thập được và cũng chưa có công bố nào cả. Nếu bạn đang ở đúng chỗ đó thì bạn không hề đơn độc đâu
@@ -18,10 +39,6 @@ Chuyện này thường ít liên quan tới năng lực của bạn đâu. Ph�
 
 [Hẹn mình 30 phút nói chuyện](lien-he.qmd){.cta}
 [Xem lộ trình các chặng](lo-trinh.qmd){.cta-quiet}
-
-::: {.hoa-no-khung}
-{{< include _hoa-no.qmd >}}
-:::
 
 :::
 
@@ -51,6 +68,10 @@ Chuyện này thường ít liên quan tới năng lực của bạn đâu. Ph�
 [Số giờ làm việc tối đa mình trả lời tin nhắn của bạn, giữa hai buổi hẹn]{.fact-label}
 :::
 
+:::
+
+::: {.hoa-no-duoi}
+{{< include _hoa-no.qmd >}}
 :::
 
 ## Bốn chuyện các bạn hay kể lại với mình

@@ -1393,3 +1393,139 @@ tbody tr:nth-child(even) td { background: $cream; }
 @media (min-width: 1400px) {
   .rail-sach { display: block; }
 }
+
+// ===========================================================================
+// KHỐI MỞ ĐẦU CÓ ẢNH CHÂN DUNG (chỉ dùng ở trang chủ)
+// Chữ bên trái, ảnh bên phải, ngón tay chỉ chéo sang dòng lời mời.
+// Luống hoa mờ được tắt ở đây vì góc phải đã dành cho ảnh.
+// ===========================================================================
+
+.hero-anh::after { display: none; }
+
+// Hai cột chỉ dựng từ 992px trở lên. Dưới mức đó cột chữ hẹp quá,
+// dòng lời mời sẽ phải ngắt thành ba dòng.
+.hero-tren {
+  display: grid;
+  grid-template-columns: 1fr;
+  margin-bottom: 1.4rem;
+}
+
+@media (min-width: 992px) {
+  .hero-tren {
+    grid-template-columns: minmax(0, 1fr) 300px;
+    align-items: center;
+    column-gap: 1.5rem;
+    margin-bottom: 1.6rem;
+  }
+}
+
+.hero-chu {
+  position: relative;
+  z-index: 1;
+  min-width: 0;
+}
+
+// Dòng lời mời, cỡ chữ lớn nhất trang, là chỗ ngón tay chỉ vào
+// Cỡ chữ đặt vừa đủ để mỗi vế nằm trọn một dòng, không ngắt giữa chừng.
+// Dòng dài hơn là "trong Nghiên cứu Khoa học", 24 ký tự.
+.hero-loi {
+  font-size: clamp(1.14rem, 5.9vw, 1.85rem);
+  font-weight: 800;
+  line-height: 1.22;
+  letter-spacing: -.022em;
+  color: $ink;
+  max-width: none;
+  margin: .45rem 0 0;
+  text-wrap: pretty;
+}
+
+.hero-nhan { color: $poppy-deep; }
+
+.hero-anh-nora {
+  display: block;
+  justify-self: end;
+  align-self: center;
+  // Ảnh thò xuống dưới hàng trên một chút, lấp bớt khoảng trống
+  // bên phải câu tiêu đề dài.
+  margin-bottom: -3.2rem;
+
+  img {
+    display: block;
+    width: 280px;
+    max-width: 100%;
+    height: auto;
+
+    // Ảnh bị cắt ngang ở mép dưới, nên cho mép ấy tan dần vào nền
+    // thay vì để một đường cắt thẳng.
+    -webkit-mask-image: linear-gradient(to bottom, #000 76%, transparent 99%);
+            mask-image: linear-gradient(to bottom, #000 76%, transparent 99%);
+  }
+}
+
+// Câu tiêu đề dài lùi xuống hàng thứ hai, đọc như một lời dẫn dài
+.hero-anh h1 {
+  font-size: clamp(1.16rem, 2.4vw, 1.42rem);
+  font-weight: 600;
+  line-height: 1.52;
+  letter-spacing: 0;
+  max-width: 48ch;
+  margin-top: 0;
+}
+
+.hero-anh .lede {
+  font-size: 1.04rem;
+  color: $muted;
+  opacity: 1;
+  max-width: 62ch;
+}
+
+// Cụm hoa nở rời khỏi khối mở đầu, xuống đứng dưới bốn con số
+.hoa-no-duoi {
+  display: flex;
+  justify-content: flex-end;
+  margin: -1.4rem 0 1.4rem;
+  pointer-events: none;
+
+  .hoa-no { pointer-events: auto; }
+}
+
+// Dòng lời mời cũng hiện lên theo nhịp của khối mở đầu
+.hero .hero-loi { animation: len .7s cubic-bezier(.2, .7, .3, 1) both; animation-delay: .12s; }
+.hero-anh h1    { animation-delay: .26s; }
+.hero-anh .lede { animation-delay: .38s; }
+
+.hero-anh-nora {
+  animation: len .8s cubic-bezier(.2, .7, .3, 1) both;
+  animation-delay: .2s;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero .hero-loi, .hero-anh-nora { animation: none; }
+}
+
+// Dưới 992px ảnh xuống dưới dòng lời mời, nép về mép phải,
+// ngón tay vẫn hướng ngược vào phần chữ.
+@media (max-width: 991.98px) {
+  .hero-anh-nora {
+    justify-self: end;
+    margin: .2rem 0 -1rem 0;
+
+    img { width: 46vw; max-width: 300px; }
+  }
+}
+
+@media (max-width: 767px) {
+  .hero-tren { row-gap: .2rem; margin-bottom: 1.2rem; }
+
+  .hero-anh-nora {
+    margin: 0 -.6rem -1rem 0;
+
+    img { width: 62vw; max-width: 260px; }
+  }
+
+  .hero-anh h1 { font-size: 1.1rem; line-height: 1.55; }
+  .hero-anh .lede { font-size: 1rem; }
+
+  .hoa-no-duoi { margin: 0 0 1rem; }
+  .hoa-no-duoi .hoa-no { width: 128px; height: 165px; }
+}
