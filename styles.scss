@@ -1159,12 +1159,13 @@ tbody tr:nth-child(even) td { background: $cream; }
   .hero { padding: 2.2rem 0 2rem; }
   .hero h1 { max-width: none; }
 
-  // Trên điện thoại chữ chiếm gần hết bề ngang, nên luống hoa mờ thêm nữa
+  // Trên điện thoại chữ chiếm gần hết bề ngang, nên luống hoa mờ thêm nữa.
+  // -2.5rem làm luống hoa thò ra ngoài mép phải, sinh thanh cuộn ngang.
   .hero::after {
     width: 150px;
     max-height: 280px;
     opacity: .16;
-    right: -2.5rem;
+    right: -.4rem;
   }
 
   .hoa-no { width: 128px; height: 165px; }
@@ -1562,4 +1563,10 @@ tbody tr:nth-child(even) td { background: $cream; }
 
   .hoa-no-duoi { margin: 0 0 1rem; }
   .hoa-no-duoi .hoa-no { width: 128px; height: 165px; }
+}
+
+// Từ 992px trở xuống, luống hoa mờ phải nép sát mép phải. Để nguyên -4rem
+// thì nó thò ra ngoài khung nội dung và sinh thanh cuộn ngang.
+@media (max-width: 991.98px) {
+  .hero::after { right: -.4rem; }
 }
