@@ -199,25 +199,26 @@ header#quarto-header.headroom { transform: none !important; }
   font-weight: 400;
 }
 
+// Trên điện thoại, để hai vế chảy liền nhau thay vì mỗi vế một khối riêng.
+// Cách cũ bắt mỗi vế xuống dòng, mà bản thân mỗi vế đã dài hai dòng, thành ra
+// thanh này chiếm bốn dòng. Cộng với thanh điều hướng là 143px, tức hơn một
+// phần năm màn hình dọc, mất trước khi người đọc thấy chữ đầu tiên.
 @media (max-width: 767.98px) {
   .thanh-dich-vu {
-    font-size: .715rem;
+    font-size: .68rem;
     letter-spacing: 0;
-    padding: .4rem .8rem;
+    line-height: 1.38;
+    padding: .34rem .7rem;
   }
 
   .thanh-dich-vu .td-muc {
-    display: block;
+    display: inline;
     padding: 0;
   }
 
-  .thanh-dich-vu .td-muc + .td-muc {
-    margin-top: .12rem;
-  }
-
   .thanh-dich-vu .td-muc + .td-muc::before {
-    content: "";
-    margin: 0;
+    content: "✻";
+    margin: 0 .34rem 0 .26rem;
   }
 }
 
@@ -1160,45 +1161,93 @@ tbody tr:nth-child(even) td { background: $cream; }
   .hero h1 { max-width: none; }
 
   // Trên điện thoại chữ chiếm gần hết bề ngang, nên luống hoa mờ thêm nữa.
-  // -2.5rem làm luống hoa thò ra ngoài mép phải, sinh thanh cuộn ngang.
+  // Mọi giá trị âm đều thò ra ngoài mép phải và sinh thanh cuộn ngang. Đo trên
+  // trang Về mình ở khổ 390px: -.4rem đẩy thân trang rộng thành 402px, cả trang
+  // trượt ngang được 12px. Nên ở đây phải là 0, không phải một số âm nhỏ.
   .hero::after {
     width: 150px;
     max-height: 280px;
     opacity: .16;
-    right: -.4rem;
+    right: 0;
   }
 
   .hoa-no { width: 128px; height: 165px; }
-  // -2rem làm cụm hoa thò ra ngoài mép phải, sinh thanh cuộn ngang trên điện thoại
-  .hoa-no-khung { right: -.4rem; opacity: .55; }
+  .hoa-no-khung { right: 0; opacity: .55; }
   .xa-hoi { gap: .5rem; }
   .xa-hoi a { width: 38px; height: 38px; }
 
-  h2 { margin-top: 2.6rem; padding-top: 2.6rem; }
-  h2::before { width: 24px; height: 24px; top: 1rem; }
+  h2 { margin-top: 2.2rem; padding-top: 2.2rem; }
+  h2::before { width: 24px; height: 24px; top: .85rem; }
 
-  .hoa { height: 46px; }
+  .hoa { height: 40px; margin: 1.9rem auto 1.1rem; }
 
-  // Trên điện thoại, mọi bố cục hai cột xếp lại thành một cột
-  .tc-muc, .card, .price, .stage {
-    grid-template-columns: 1fr;
+  // Bảng trên khổ hẹp: chữ nhỏ hơn và ô sát hơn, để mỗi ô còn đủ chỗ cho chữ
+  table { font-size: .88rem; }
+  thead th, tbody td { padding: .55rem .6rem; }
+
+  // -------------------------------------------------------------------------
+  // Trên điện thoại, mọi bố cục hai cột xếp lại thành một cột.
+  //
+  // Chỗ này trước đây hỏng. Bản cũ chỉ đổi grid-template-columns về 1fr và gỡ
+  // vị trí của mấy đứa con ở cột trái, nhưng bỏ sót đúng một dòng: quy tắc
+  // gốc .card > * { grid-column: 2 } vẫn còn hiệu lực. Mọi đứa con còn lại
+  // vẫn đòi nằm ở cột hai, nên trình duyệt phải dựng thêm một cột ngầm. Kết
+  // quả là khối vẫn hai cột, mà lần này cột trái chỉ rộng 38px trên thẻ và
+  // 122px trên bảng giá: nhãn vỡ mỗi dòng một âm tiết, số tiền dính vào phần
+  // diễn giải. Phải gỡ ở chính quy tắc > *, gỡ từng đứa con là không đủ.
+  // -------------------------------------------------------------------------
+
+  .tc-muc, .price, .stage {
+    grid-template-columns: minmax(0, 1fr);
     column-gap: 0;
+
+    > * {
+      grid-column: 1;
+      grid-row: auto;
+    }
   }
 
-  .card > p:has(.card-bt),
-  .card > p:has(.card-note),
-  .card > p:has(.card-note):first-child,
-  .stage > p:has(.stage-code),
-  .price > h3,
-  .price > p:has(.price-amount) {
-    grid-column: 1;
-    grid-row: auto;
+  // Thẻ giữ lại một hàng ngang duy nhất: biểu tượng đứng cạnh nhãn, cùng một
+  // dòng. Xếp dọc hẳn thì mỗi thẻ dài thêm chừng 45px, mà trang chủ có 17 thẻ.
+  .card {
+    grid-template-columns: auto minmax(0, 1fr);
+    column-gap: .7rem;
+    padding: 1.3rem 0 1.2rem;
+
+    > * { grid-column: 1 / -1; }
+
+    > p:has(.card-bt) {
+      grid-column: 1;
+      grid-row: 1;
+      align-self: center;
+      margin: 0;
+    }
+
+    > p:has(.card-note) {
+      grid-column: 2;
+      grid-row: 1;
+      align-self: center;
+      margin: 0;
+    }
+
+    // Thẻ không có biểu tượng thì nhãn chiếm trọn hàng
+    > p:has(.card-note):first-child {
+      grid-column: 1 / -1;
+      grid-row: 1;
+      margin: 0;
+    }
+
+    h3 { margin-top: .75rem; }
   }
 
-  .card > p:has(.card-note),
+  .card-bt   { width: 30px; height: 30px; margin-bottom: 0; }
+  .card-note { margin-bottom: 0; letter-spacing: .07em; }
+
   .stage > p:has(.stage-code) { margin-bottom: .5rem; }
-  .price > p:has(.price-amount) { margin-bottom: .7rem; }
+  .price > h3 { margin-bottom: .2rem; }
+  .price > p:has(.price-amount) { margin-bottom: .8rem; }
   .price-featured { padding-left: 1.1rem; }
+  .tc-nhan { margin-bottom: .3rem; }
 
   .cam-ket { padding-top: 1.3rem; }
   .cam-ket .ck-hoa { width: 36px; height: 36px; }
@@ -1206,13 +1255,13 @@ tbody tr:nth-child(even) td { background: $cream; }
 
   .cta, a.cta { display: block; text-align: center; margin-right: 0; }
 
-  .float-chat { right: .7rem; bottom: .7rem; gap: .4rem; }
-  .float-btn { font-size: .82rem; padding: .6rem .95rem; }
-
+  .navbar { padding: .35rem 0; }
   .navbar-brand img { height: 44px; }
 }
 
-@media (max-width: 400px) {
+// Hai cột vẫn đọc được ở khổ 360px, mỗi ô còn 148px, đủ cho con số và nhãn.
+// Chỉ những máy hẹp hơn nữa mới cần xếp thành một cột.
+@media (max-width: 339px) {
   .facts { grid-template-columns: 1fr; }
 }
 
@@ -1569,4 +1618,450 @@ tbody tr:nth-child(even) td { background: $cream; }
 // thì nó thò ra ngoài khung nội dung và sinh thanh cuộn ngang.
 @media (max-width: 991.98px) {
   .hero::after { right: -.4rem; }
+}
+
+// ===========================================================================
+// ĐIỆN THOẠI, PHẦN BỔ SUNG
+// Bốn việc: chặn trượt ngang, nới vùng chạm, thu nút nhắn tin nổi, và lo cho
+// máy xoay ngang. Ba mục đầu áp cho mọi khổ hẹp, mục cuối chỉ áp khi màn hình
+// thấp, tức là lúc cầm máy nằm ngang.
+// ===========================================================================
+
+// ---------------------------------------------------------------------------
+// Chặn trượt ngang
+// ---------------------------------------------------------------------------
+
+// Lưới an toàn cho mọi phần tử trang trí đặt lệch ra ngoài mép. Dùng clip chứ
+// không dùng hidden: hidden biến thẻ html thành một khối cuộn và làm hỏng
+// position: sticky của thanh điều hướng, còn clip thì không.
+html { overflow-x: clip; }
+
+// Đường dẫn và địa chỉ thư dài không có chỗ ngắt, trên khổ hẹp chúng đẩy cả ô
+// bảng rộng ra. Dài nhất trên trang hiện nay là researchgate.net/profile/…,
+// 39 ký tự liền.
+main.content { overflow-wrap: break-word; }
+thead th, tbody td { overflow-wrap: anywhere; }
+
+// ---------------------------------------------------------------------------
+// Vùng chạm
+// ---------------------------------------------------------------------------
+
+// Điều kiện dưới đây bắt cả hai tư thế cầm máy. Chỉ viết max-width là hụt:
+// điện thoại nằm ngang rộng 844px, không lọt vào ngưỡng 767px, mà ngón tay
+// thì vẫn là ngón tay.
+@media (max-width: 767px), (orientation: landscape) and (max-height: 500px) {
+  // Các liên kết ở chân trang ngăn nhau bằng thẻ xuống dòng, nên chúng chỉ cao
+  // 15px, hẹp hơn mức tối thiểu của WCAG 2.2 mục 2.5.8. Thêm khoảng đệm dọc
+  // đưa mỗi liên kết lên khoảng 34px mà không kéo dài chân trang thêm bao nhiêu.
+  .nav-footer a {
+    display: inline-block;
+    padding: .34rem 0;
+  }
+
+  // Biểu tượng mạng xã hội trở lại 44px thay vì 38px
+  .xa-hoi a { width: 44px; height: 44px; }
+  .xa-hoi   { gap: .55rem; }
+}
+
+// Nút mở trình đơn nới rộng ở tư thế dọc, nơi chiều cao còn dư. Ở tư thế ngang
+// thì để nguyên 34px: nới thêm là ăn mất 16px của một màn hình chỉ cao 390px,
+// mà 34px vốn đã qua ngưỡng của WCAG 2.2 mục 2.5.8.
+@media (max-width: 767px) and (orientation: portrait) {
+  .navbar-toggler { padding: .5rem .65rem; }
+}
+
+// ---------------------------------------------------------------------------
+// Nút nhắn tin nổi
+// Trên máy tính hai nút này nằm gọn ở góc. Trên điện thoại chúng dài tới gần
+// nửa bề ngang và che mất phần chữ đang đọc. Thu lại thành hai vòng tròn 46px,
+// chữ nhường chỗ cho biểu tượng. Tên nút vẫn còn nguyên trong aria-label ở
+// scripts.html nên trình đọc màn hình vẫn đọc đúng.
+// ---------------------------------------------------------------------------
+
+@media (max-width: 767px), (orientation: landscape) and (max-height: 500px) {
+  .float-chat {
+    right: .65rem;
+    bottom: .65rem;
+    gap: .5rem;
+  }
+
+  .float-btn {
+    width: 46px;
+    height: 46px;
+    padding: 0;
+    justify-content: center;
+    font-size: 0;
+    line-height: 0;
+
+    &::before {
+      content: "";
+      width: 23px;
+      height: 23px;
+      background: currentColor;
+      -webkit-mask: var(--bt) no-repeat center / contain;
+              mask: var(--bt) no-repeat center / contain;
+    }
+  }
+
+  .float-mes {
+    --bt: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M12 3C6.9 3 3 6.9 3 11.6c0 2.6 1.2 4.9 3.1 6.5v3.4l2.9-1.6c.9.3 2 .4 3 .4 5.1 0 9-3.9 9-8.7S17.1 3 12 3z'/%3E%3Cpath d='m7.3 14.3 3.6-3.8 2 2.1 3.2-2.1-3.6 3.8-2-2.1z'/%3E%3C/svg%3E");
+  }
+
+  .float-wa {
+    --bt: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M20.5 11.6a8.5 8.5 0 0 1-12.6 7.4L3.5 20.5l1.6-4.3a8.5 8.5 0 1 1 15.4-4.6z'/%3E%3Cpath d='M9 8.6c.3-.1.7 0 .9.4l.6 1.2c.1.3.1.6-.1.8l-.4.4c-.2.2-.2.4-.1.6a5.6 5.6 0 0 0 2.2 2.2c.2.1.5.1.6-.1l.4-.4c.2-.2.5-.3.8-.1l1.2.6c.4.2.5.6.4.9-.3.8-1.1 1.3-2 1.2a7.3 7.3 0 0 1-6-6c-.1-.9.4-1.7 1.2-2z'/%3E%3C/svg%3E");
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Máy cầm ngang
+// Khổ 16:9 nằm ngang chỉ cao chừng 390px. Thanh giới thiệu dịch vụ cộng thanh
+// điều hướng chiếm 143px, tức hơn một phần ba màn hình, mà nó khoá cố định nên
+// không trượt đi. Ở tư thế này thanh giới thiệu nhường chỗ cho nội dung.
+// ---------------------------------------------------------------------------
+
+@media (orientation: landscape) and (max-height: 500px) {
+  .thanh-dich-vu { display: none; }
+
+  .navbar { padding: .25rem 0; }
+  .navbar-brand img { height: 34px; }
+
+  .hero { padding: 1.5rem 0 1.3rem; }
+  h2 { margin-top: 1.8rem; padding-top: 1.8rem; }
+  .hoa { height: 32px; margin: 1.4rem auto .9rem; }
+
+  .float-chat { bottom: .5rem; right: .5rem; }
+}
+
+// ===========================================================================
+// THIẾT KẾ CHO MÀN HÌNH DỌC
+//
+// Phần trên đã sửa xong các lỗi bố cục. Phần này là việc khác: bày lại trang
+// cho vừa một màn hình cầm tay, chứ không phải thu nhỏ bản màn hình rộng.
+//
+// Ba con số dẫn tới những thay đổi dưới đây, đo ở khổ 390px trên bản trước:
+// trang chủ dài 12.178px, tức chừng mười lăm màn hình cuộn; trang Về mình
+// 15.768px; và mỗi dòng chữ chỉ chứa khoảng 38 ký tự, dưới ngưỡng dễ đọc là
+// 45 tới 75, nên chữ phải xuống dòng nhiều hơn mức cần thiết.
+// ===========================================================================
+
+// Nút hẹn gặp ở thanh dính đáy. Trên màn hình rộng không có thanh này, hai nút
+// nhắn tin vẫn nằm ở góc như cũ, nên nút hẹn ẩn đi.
+.float-hen { display: none; }
+
+@media (max-width: 767px) {
+
+  // -------------------------------------------------------------------------
+  // Cỡ chữ và nhịp dọc
+  // Hạ cỡ chữ gốc từ 17px xuống 16px. Nghe ngược đời, nhưng dòng dài thêm
+  // chừng bốn ký tự, số dòng giảm, và trang ngắn lại. Giãn dòng vẫn giữ ở
+  // 1,62, đủ cho dấu chồng của tiếng Việt.
+  // -------------------------------------------------------------------------
+
+  html { font-size: 16px; }
+  body { line-height: 1.62; }
+
+  h2 {
+    margin-top: 2rem;
+    padding-top: 2.2rem;
+    margin-bottom: .7rem;
+    font-size: 1.32rem;
+  }
+  // Bông hoa đứng trong khoảng chừa phía trên, không đè lên dòng chữ
+  h2::before { width: 22px; height: 22px; top: .85rem; }
+
+  h3 { margin-top: 1.5rem; }
+  p  { margin-bottom: .85rem; }
+
+  .lede { font-size: 1.04rem; margin-bottom: 1.15rem; }
+  .note { margin: 1.3rem 0; padding: .3rem 0 .3rem 1rem; }
+
+  // Dải hoa ngăn mục: trên màn hình rộng nó là một nhịp nghỉ đẹp, trên điện
+  // thoại mỗi dải ăn gần 100px của một trang vốn đã quá dài. Thu còn một vạch.
+  .hoa { height: 22px; margin: 1.3rem auto .7rem; opacity: .75; }
+
+  main.content { padding-bottom: 1.5rem; }
+
+  // -------------------------------------------------------------------------
+  // Khối mở đầu
+  // Trước đây ảnh chân dung cao tới 290px, đẩy nút kêu gọi xuống dưới mép màn
+  // hình đầu tiên. Người đọc phải cuộn mới thấy có thể làm gì tiếp theo.
+  // -------------------------------------------------------------------------
+
+  .hero {
+    padding: 1.3rem 0 1.5rem;
+    margin-bottom: 1.7rem;
+  }
+
+  .hero-tren {
+    row-gap: 0;
+    margin-bottom: .7rem;
+  }
+
+  .hero-tren .chan-dung {
+    margin: 0 -.5rem -.9rem 0;
+    img { height: 48vw; max-height: 196px; }
+  }
+
+  .hero-loi { font-size: clamp(1.34rem, 6.6vw, 1.95rem); margin-top: .35rem; }
+
+  .hero-anh h1 {
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-bottom: .7rem;
+  }
+  .hero-anh .lede { font-size: .95rem; margin-bottom: 1.1rem; }
+
+  .hero-co-anh h1 { font-size: 1.55rem; margin-bottom: .6rem; }
+  .hero-co-anh .lede { font-size: 1rem; }
+
+  .chan-dung-khoi { margin: -.8rem 0 -.4rem; }
+  .chan-dung-khoi .chan-dung img { height: 132px; }
+
+  .hoa-no-duoi { margin: 0 0 .8rem; }
+  .hoa-no-duoi .hoa-no { width: 104px; height: 134px; }
+
+  // Nút kêu gọi trong thân trang xếp chồng, mỗi nút một hàng
+  .cta, a.cta { padding: .74rem 1.2rem; margin-bottom: .5rem; }
+  .cta-quiet, a.cta-quiet { display: block; text-align: center; margin-top: .6rem; }
+
+  // -------------------------------------------------------------------------
+  // Thẻ, bốn con số, chặng, bảng giá: siết lại cho gọn
+  // -------------------------------------------------------------------------
+
+  .card  { padding: 1.05rem 0 1rem; }
+  .card h3 { margin-top: .5rem; font-size: 1.05rem; }
+  .card p, .card ul { font-size: 1rem; }
+  .card p { margin-bottom: .6rem; }
+
+  .stage { padding: 1.15rem 0 1.05rem; }
+  .stage-out { margin-top: .8rem; padding-top: .6rem; }
+
+  .price { padding: 1.15rem 0 1.05rem; }
+
+  .facts { gap: .9rem 1rem; margin: 1.6rem 0 .8rem; }
+  .fact-num { font-size: 1.45rem; }
+  .fact-label { font-size: .8rem; }
+
+  .pub { padding: .95rem 0; }
+  .cam-ket { margin: 2.4rem 0 .8rem; padding: 1.2rem 1.1rem 1.3rem; }
+
+  // -------------------------------------------------------------------------
+  // Hỏi đáp dạng gập mở
+  // scripts.html bọc mỗi khối .faq thành một thẻ details khi màn hình hẹp.
+  // Trang Hỏi đáp có 19 câu, để mở hết thì dài hơn tám nghìn pixel.
+  // -------------------------------------------------------------------------
+
+  .faq { padding: .2rem 0; border-bottom: 1px solid $rule; }
+
+  .faq-gap > summary {
+    list-style: none;
+    cursor: pointer;
+    display: flex;
+    align-items: flex-start;
+    gap: .7rem;
+    padding: .85rem 0;
+
+    &::-webkit-details-marker { display: none; }
+
+    h3 {
+      margin: 0;
+      flex: 1 1 auto;
+      font-size: 1rem;
+      line-height: 1.45;
+      font-weight: 600;
+    }
+
+    // Mũi tên chỉ xuống, xoay lên khi mở
+    &::after {
+      content: "";
+      flex: 0 0 10px;
+      width: 10px;
+      height: 10px;
+      margin-top: .3rem;
+      border-right: 2px solid $poppy;
+      border-bottom: 2px solid $poppy;
+      transform: rotate(45deg);
+      transition: transform .18s ease;
+    }
+  }
+
+  .faq-gap[open] > summary::after { transform: rotate(-135deg); }
+  .faq-gap[open] > summary h3 { color: $poppy-deep; }
+  .faq-gap > p { margin: 0 0 .95rem; font-size: .98rem; }
+
+  // -------------------------------------------------------------------------
+  // Trình đơn điều hướng
+  // -------------------------------------------------------------------------
+
+  .navbar .navbar-nav .nav-link {
+    padding: .68rem .7rem !important;
+    font-size: 1rem;
+    border-radius: 4px;
+  }
+
+  // Trình đơn mở ra dài hơn màn hình thì tự cuộn trong lòng nó, thay vì đẩy
+  // phần chân danh sách xuống dưới mép dưới và không với tới được.
+  #quarto-header .navbar-collapse.show,
+  #quarto-header .navbar-collapse.collapsing {
+    max-height: 68vh;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    border-top: 1px solid $rule;
+    margin-top: .45rem;
+    padding-bottom: .5rem;
+  }
+
+  // -------------------------------------------------------------------------
+  // Thanh kêu gọi dính đáy
+  // Thay hai viên thuốc nổi đang che chữ. Hành động chính là hẹn nói chuyện,
+  // nên nó chiếm phần rộng nhất, hai kênh nhắn tin thu về hai ô vuông.
+  // -------------------------------------------------------------------------
+
+  .float-chat {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    flex-direction: row;
+    align-items: stretch;
+    gap: .45rem;
+    padding: .45rem .6rem;
+    padding-bottom: calc(.45rem + env(safe-area-inset-bottom, 0px));
+    background: rgba(253, 251, 247, .96);
+    backdrop-filter: saturate(150%) blur(8px);
+    border-top: 1px solid $rule;
+    box-shadow: 0 -2px 14px rgba(43, 35, 32, .07);
+  }
+
+  .float-btn {
+    flex: 0 0 46px;
+    width: 46px;
+    height: 46px;
+    border-radius: 4px;
+    box-shadow: none;
+
+    &:hover { transform: none; }
+  }
+
+  // Nút hẹn gặp: hiện ra, chiếm hết phần rộng còn lại, và giữ nguyên chữ
+  .float-hen {
+    display: flex;
+    flex: 1 1 auto;
+    width: auto;
+    height: 46px;
+    font-size: .93rem;
+    line-height: 1.2;
+    background: $poppy;
+    color: #fff !important;
+    border: 0;
+
+    &::before { content: none; }
+    &:hover { background: $poppy-deep; color: #fff !important; }
+  }
+
+  // Chừa chỗ cho thanh dính đáy, để dòng cuối của chân trang không bị khuất
+  body { padding-bottom: 60px; }
+}
+
+// Ở tư thế nằm ngang màn hình rất thấp, thanh dính đáy ăn mất chỗ đọc.
+// Trả hai nút về góc phải như trên màn hình rộng.
+@media (orientation: landscape) and (max-height: 500px) {
+  .float-chat {
+    position: fixed;
+    left: auto;
+    right: .5rem;
+    bottom: .5rem;
+    flex-direction: column;
+    gap: .4rem;
+    padding: 0;
+    background: none;
+    border-top: 0;
+    box-shadow: none;
+    backdrop-filter: none;
+  }
+
+  .float-hen { display: none; }
+  .float-btn { flex: 0 0 auto; border-radius: 999px; box-shadow: 0 3px 14px rgba(43, 35, 32, .16); }
+  body { padding-bottom: 0; }
+
+  // Trình đơn mở ra cao 293px trên màn hình chỉ cao 390px, còn dư 58px. Thêm
+  // một mục nữa là mục cuối rơi xuống dưới mép và không bấm tới được, nên cho
+  // nó tự cuộn trong lòng như ở tư thế dọc.
+  #quarto-header .navbar-collapse.show,
+  #quarto-header .navbar-collapse.collapsing {
+    max-height: 74vh;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+  }
+
+  .navbar .navbar-nav .nav-link { padding: .45rem .7rem !important; }
+}
+
+// ---------------------------------------------------------------------------
+// Mục lục trong trang, chỉ có trên màn hình hẹp
+// scripts.html dựng khối này cho trang nào có từ bốn mục lớn trở lên.
+// ---------------------------------------------------------------------------
+
+.muc-luc { display: none; }
+
+@media (max-width: 767px) {
+  .muc-luc {
+    display: block;
+    margin: 0 0 1.6rem;
+    border: 1px solid $rule;
+    border-left: 3px solid $poppy;
+    border-radius: 3px;
+    background: $cream;
+
+    > summary {
+      list-style: none;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: .6rem;
+      padding: .72rem .9rem;
+      font-size: .78rem;
+      font-weight: 700;
+      letter-spacing: .07em;
+      text-transform: uppercase;
+      color: $poppy-deep;
+
+      &::-webkit-details-marker { display: none; }
+
+      &::after {
+        content: "";
+        margin-left: auto;
+        width: 9px;
+        height: 9px;
+        border-right: 2px solid $poppy;
+        border-bottom: 2px solid $poppy;
+        transform: rotate(45deg) translate(-2px, -2px);
+        transition: transform .18s ease;
+      }
+    }
+
+    &[open] > summary::after { transform: rotate(-135deg); }
+
+    ol {
+      margin: 0;
+      padding: 0 .9rem .7rem 2.2rem;
+      font-size: .95rem;
+    }
+
+    li { margin-bottom: .5rem; }
+    li:last-child { margin-bottom: 0; }
+
+    // display: block chứ không phải inline-block. Với inline-block, số thứ tự
+    // của mục căn theo dòng cuối, nên mục nào dài hai dòng thì số tụt xuống
+    // dưới và lệch hẳn khỏi dòng đầu.
+    a {
+      color: $ink;
+      border-bottom: 0;
+      line-height: 1.4;
+      display: block;
+      padding: .12rem 0;
+
+      &:hover { color: $poppy-deep; }
+    }
+  }
 }

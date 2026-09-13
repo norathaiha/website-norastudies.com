@@ -55,7 +55,13 @@
 })();
 </script>
 
+<!-- Trên màn hình rộng đây là hai nút nổi ở góc phải, như cũ.
+     Trên điện thoại dọc, styles.scss bày lại cụm này thành một thanh dính đáy:
+     nút hẹn gặp chiếm phần rộng nhất, hai kênh nhắn tin thu về hai ô vuông.
+     Nút hẹn gặp chỉ hiện ở tư thế dọc, nên màn hình rộng không đổi gì. -->
 <div class="float-chat">
+  <a class="float-btn float-hen"
+     href="/lien-he.html">Hẹn 30 phút nói chuyện</a>
   <a class="float-btn float-mes"
      href="https://m.me/norastudies"
      aria-label="Nhắn Messenger cho Nora">Nhắn Messenger</a>
@@ -63,6 +69,95 @@
      href="https://wa.me/84965849113?text=Ch%C3%A0o%20Nora%2C%20m%C3%ACnh%20mu%E1%BB%91n%20h%E1%BB%8Fi%20v%E1%BB%81%20vi%E1%BB%87c%20%C4%91%E1%BB%93ng%20h%C3%A0nh%20lu%E1%BA%ADn%20%C3%A1n."
      aria-label="Nhắn WhatsApp cho Nora">WhatsApp</a>
 </div>
+
+<!-- Trang Hỏi đáp có 19 câu. Mở hết ra thì trang dài hơn tám nghìn pixel, và
+     người đọc phải cuộn qua mười tám câu không liên quan mới tới câu của mình.
+     Trên màn hình hẹp, mỗi khối .faq được bọc thành một thẻ details để gập lại.
+     Chỉ đổi cách bày, không đụng tới chữ trong file .qmd, và màn hình rộng giữ
+     nguyên như cũ. Người tắt JavaScript thấy toàn bộ câu trả lời mở sẵn, tức
+     là đúng trạng thái hiện nay. -->
+<script>
+(function () {
+  if (!window.matchMedia || !window.matchMedia('(max-width: 767px)').matches) return;
+
+  document.querySelectorAll('.faq').forEach(function (khoi) {
+    var cauHoi = khoi.querySelector('h3');
+    if (!cauHoi) return;
+
+    var gap = document.createElement('details');
+    gap.className = 'faq-gap';
+
+    var nhan = document.createElement('summary');
+    // Giữ nguyên thẻ h3 bên trong summary, để cấu trúc tiêu đề của trang
+    // không đổi và trình đọc màn hình vẫn duyệt qua từng câu hỏi như trước.
+    nhan.appendChild(cauHoi);
+    gap.appendChild(nhan);
+
+    // Phần còn lại của khối là câu trả lời, dời hết vào trong thẻ details
+    while (khoi.firstChild) gap.appendChild(khoi.firstChild);
+    khoi.appendChild(gap);
+  });
+
+  // Mở sẵn đúng câu mà người đọc vừa bấm tới từ một liên kết neo
+  function moTheoNeo() {
+    if (!location.hash) return;
+    var dich = document.querySelector(location.hash);
+    if (!dich) return;
+    var gap = dich.closest('.faq-gap');
+    if (gap) gap.open = true;
+  }
+  moTheoNeo();
+  window.addEventListener('hashchange', moTheoNeo);
+})();
+</script>
+
+<!-- Mục lục trong trang, chỉ dựng trên màn hình hẹp.
+     Trang chủ dài chừng mười ba màn hình cuộn, trang Về mình mười bảy. Trên
+     màn hình rộng người đọc liếc một cái là nắm được trang có những mục nào,
+     còn trên điện thoại thì không, nên phải cuộn mò. Khối này liệt kê các mục
+     lớn ngay đầu trang, gập sẵn, bấm vào là nhảy thẳng tới nơi.
+     Chỉ dựng khi trang có từ bốn mục trở lên, trang ngắn không cần. -->
+<script>
+(function () {
+  if (!window.matchMedia || !window.matchMedia('(max-width: 767px)').matches) return;
+
+  var than = document.querySelector('main.content');
+  if (!than) return;
+
+  var muc = Array.prototype.filter.call(than.querySelectorAll('h2'), function (h) {
+    return h.id && h.textContent.trim();
+  });
+  if (muc.length < 4) return;
+
+  var hop = document.createElement('details');
+  hop.className = 'muc-luc';
+
+  var nhan = document.createElement('summary');
+  nhan.textContent = 'Trong trang này · ' + muc.length + ' mục';
+  hop.appendChild(nhan);
+
+  var ds = document.createElement('ol');
+  muc.forEach(function (h) {
+    var li = document.createElement('li');
+    var a = document.createElement('a');
+    a.href = '#' + h.id;
+    a.textContent = h.textContent.trim();
+    // Bấm xong thì gập lại, để phần chữ không bị đẩy xuống khi tới nơi
+    a.addEventListener('click', function () { hop.open = false; });
+    li.appendChild(a);
+    ds.appendChild(li);
+  });
+  hop.appendChild(ds);
+
+  // Đặt ngay dưới khối mở đầu, trên mục lớn đầu tiên
+  var khoiDau = than.querySelector('.hero');
+  if (khoiDau && khoiDau.nextSibling) {
+    than.insertBefore(hop, khoiDau.nextSibling);
+  } else {
+    than.insertBefore(hop, than.firstChild);
+  }
+})();
+</script>
 
 <!-- Đưa thanh giới thiệu dịch vụ vào trong khối header cố định của Quarto.
      Làm vậy thì thanh khoá luôn ở đầu màn hình, và Quarto vẫn tự tính đúng
