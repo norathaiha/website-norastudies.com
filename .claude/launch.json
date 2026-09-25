@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "norastudies-web",
+      "runtimeExecutable": "quarto",
+      "runtimeArgs": ["preview", "--no-browser", "--port", "4444"],
+      "port": 4444,
+      "autoPort": false
+    }
+  ]
+}

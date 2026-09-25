@@ -113,10 +113,10 @@ Lịch học do hai bên thoả thuận trực tiếp với nhau. Bạn bận đ
 
 Nhưng mỗi buổi mình đều để lại cho bạn một phần việc kèm hạn, và phần đó bạn cần làm xong để mình còn đọc và góp ý. Mình xin phép không nhận trường hợp học mà không thực hành, không phải vì mình khó tính, mà vì phần thực hành mới là chỗ bạn đi lên được, và mình mong bạn về tới đích chứ không chỉ đi hết số buổi.
 
-Bạn đi làm bận rộn, mình cũng bận rộn. Bạn có gia đình, con nhỏ, cha mẹ đau ốm, mình cũng vậy. Thôi thì hai bên cùng cố gắng, dìu nhau qua từng chặng 🌾
+Bạn đi làm bận rộn, mình cũng bận rộn. Bạn có gia đình, con nhỏ, cha mẹ đau ốm, mình cũng vậy. Thôi thì hai bên cùng cố gắng, dìu nhau qua từng chặng <svg class="hoa-cham" aria-hidden="true"><use href="#hoa-cham"/></svg>
 
 ::: {.note}
-Bạn viết, mình đọc cùng. Chỉ vậy thôi, và mình làm đúng như vậy suốt cả hành trình 🙂
+Bạn viết, mình đọc cùng. Chỉ vậy thôi, và mình làm đúng như vậy suốt cả hành trình <svg class="hoa-cham" aria-hidden="true"><use href="#hoa-cham"/></svg>
 :::
 
 [Hẹn mình 30 phút nói chuyện](lien-he.qmd){.cta}

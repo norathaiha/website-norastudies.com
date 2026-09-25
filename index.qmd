@@ -127,7 +127,7 @@ Mentor, theo cách mình hiểu, là người đã đi qua đoạn đường b�
 
 Người hướng dẫn của bạn ở trường mới là người chịu trách nhiệm học thuật và là người ký duyệt. Mình đứng ở vị trí khác: vị trí mà bạn nhắn được lúc mười giờ đêm để hỏi một câu mà bạn ngại hỏi ở nơi khác, vị trí đọc lại bản nháp trước khi bạn gửi đi cho thầy, vị trí nhắc bạn mốc nộp còn ba tuần nữa.
 
-Ba năm qua mình làm đúng công việc này với các nhóm sinh viên nghiên cứu khoa học, và cùng các bạn ấy có tám công bố. Bây giờ mình muốn làm nó với các bạn nghiên cứu sinh, ở mức độ khó hơn 🌾
+Ba năm qua mình làm đúng công việc này với các nhóm sinh viên nghiên cứu khoa học, và cùng các bạn ấy có tám công bố. Bây giờ mình muốn làm nó với các bạn nghiên cứu sinh, ở mức độ khó hơn <svg class="hoa-cham" aria-hidden="true"><use href="#hoa-cham"/></svg>
 
 ## Bạn đang ở giai đoạn nào của hành trình?
 
@@ -304,7 +304,7 @@ Mình biết cảm giác gửi bản thảo đi rồi chờ đợi, và cảm gi
 - Đọc bản nháp của bạn và chỉ ra chỗ lập luận còn thiếu hụt, kèm lý do
 - Nói sớm khi thấy bạn đi chệch hướng, thay vì đợi bạn viết xong ba chục trang
 - Xác nhận khi bạn làm đúng, để bạn khỏi tự nghi ngờ rồi làm lại từ đầu
-- Nhắc mốc tiến độ giúp bạn, không đợi bạn nhớ ra. Khi bạn cần, mình nhận luôn phần nhắc nhở để bạn giữ được nhịp 🙂
+- Nhắc mốc tiến độ giúp bạn, không đợi bạn nhớ ra. Khi bạn cần, mình nhận luôn phần nhắc nhở để bạn giữ được nhịp <svg class="hoa-cham" aria-hidden="true"><use href="#hoa-cham"/></svg>
 - Tuyển chọn sẵn 100 bài báo quốc tế đáng đọc cho riêng đề tài của bạn, kèm thứ tự nên đọc
 - Luận án tiếng Việt, theo mẫu chương trình đào tạo trong nước
 :::
@@ -320,7 +320,7 @@ Mình biết cảm giác gửi bản thảo đi rồi chờ đợi, và cảm gi
 :::
 
 ::: {.note}
-**Bạn viết và có mình đọc cùng.** Kết quả nghiên cứu là của bạn, tên trên bài báo là của bạn, và thứ bạn mang về sau hành trình này là khả năng tự làm nghiên cứu tiếp mà không cần tới mình nữa 🙂
+**Bạn viết và có mình đọc cùng.** Kết quả nghiên cứu là của bạn, tên trên bài báo là của bạn, và thứ bạn mang về sau hành trình này là khả năng tự làm nghiên cứu tiếp mà không cần tới mình nữa <svg class="hoa-cham" aria-hidden="true"><use href="#hoa-cham"/></svg>
 
 [Đọc kỹ cách mình làm việc](liem-chinh.qmd){.cta-quiet}
 :::

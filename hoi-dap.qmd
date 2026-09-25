@@ -17,7 +17,7 @@ Hỏi đáp
 # Những câu các bạn hay hỏi mình nhất
 
 ::: {.lede}
-Nếu bạn cần hỏi mình chuyện gì mà chưa được nhắc tới ở dưới đây, cứ nhắn tin riêng cho mình, mình sẽ trả lời bạn sớm 🙂
+Nếu bạn cần hỏi mình chuyện gì mà chưa được nhắc tới ở dưới đây, cứ nhắn tin riêng cho mình, mình sẽ trả lời bạn sớm <svg class="hoa-cham" aria-hidden="true"><use href="#hoa-cham"/></svg>
 :::
 
 :::
@@ -84,7 +84,7 @@ Bạn cứ nhắn cho mình, vì phạm vi mình làm được rộng hơn hai n
 
 Thứ quyết định thường không phải tên ngành, mà là cách đề tài của bạn thu thập và xử lý dữ liệu. Nếu bạn làm việc với bảng hỏi, với phỏng vấn sâu, hoặc với tổng quan có hệ thống, thì khả năng cao là mình đọc cùng bạn được.
 
-Còn nếu đề tài nằm ngoài phạm vi ấy thật, mình xin nói rõ ngay từ buổi đầu, rồi hỏi quanh trong mạng lưới xem có ai phù hợp hơn với bạn. Việc hỏi giúp và giới thiệu này mình không lấy gì cả 🙂
+Còn nếu đề tài nằm ngoài phạm vi ấy thật, mình xin nói rõ ngay từ buổi đầu, rồi hỏi quanh trong mạng lưới xem có ai phù hợp hơn với bạn. Việc hỏi giúp và giới thiệu này mình không lấy gì cả <svg class="hoa-cham" aria-hidden="true"><use href="#hoa-cham"/></svg>
 :::
 
 ::: {.faq}
@@ -96,7 +96,7 @@ Có, nhưng hai bên bắt đầu bằng một buổi gỡ rối. Sau buổi đ�
 ::: {.faq}
 ### Mình chưa biết nên bắt đầu từ chặng nào.
 
-Bạn không phải tự chọn. Trong buổi nói chuyện 30 phút không thu phí, bạn kể mình nghe bạn đang ở đâu, rồi mình nói cho bạn biết nên vào từ chặng nào. Còn nếu mình thấy bạn chưa cần tới mentor thì mình cũng chia sẻ thật với bạn như vậy, rằng lúc này bạn chưa cần đi thêm một chặng nào với mình cả. Ba mươi phút ngồi nói chuyện với nhau thì vẫn cứ là ba mươi phút vui, và mình rất mừng vì được nghe câu chuyện của bạn 🙂
+Bạn không phải tự chọn. Trong buổi nói chuyện 30 phút không thu phí, bạn kể mình nghe bạn đang ở đâu, rồi mình nói cho bạn biết nên vào từ chặng nào. Còn nếu mình thấy bạn chưa cần tới mentor thì mình cũng chia sẻ thật với bạn như vậy, rằng lúc này bạn chưa cần đi thêm một chặng nào với mình cả. Ba mươi phút ngồi nói chuyện với nhau thì vẫn cứ là ba mươi phút vui, và mình rất mừng vì được nghe câu chuyện của bạn <svg class="hoa-cham" aria-hidden="true"><use href="#hoa-cham"/></svg>
 :::
 
 ::: {.hoa}
@@ -169,7 +169,7 @@ Trong hai buổi đầu, nếu bạn thấy không phù hợp thì mình gửi l
 ::: {.faq}
 ### Mình đang khó khăn về tiền.
 
-Cứ nhắn cho mình và kể thật tình hình. Mình không hứa trước, nhưng mình lắng nghe 🙂
+Cứ nhắn cho mình và kể thật tình hình. Mình không hứa trước, nhưng mình lắng nghe <svg class="hoa-cham" aria-hidden="true"><use href="#hoa-cham"/></svg>
 :::
 
 ::: {.faq}

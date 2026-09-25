@@ -1,0 +1,873 @@
+<!DOCTYPE html>
+<html lang="vi" data-lang="vi">
+<head>
+<meta charset="UTF-8" />
+<script>
+  // Đặt ngôn ngữ NGAY (trước khi trang render) để tránh nháy 2 ngôn ngữ cùng lúc.
+  (function () {
+    var KEY = "cb-lang";
+    function detect() {
+      try {
+        var saved = localStorage.getItem(KEY);
+        if (saved === "vi" || saved === "en") return saved;
+      } catch (e) {}
+      var nav = (navigator.language || "vi").toLowerCase();
+      return nav.indexOf("vi") === 0 ? "vi" : "en";
+    }
+    window.setLang = function (lang) {
+      document.documentElement.setAttribute("lang", lang);
+      document.documentElement.setAttribute("data-lang", lang);
+      document.title =
+        lang === "en"
+          ? "Cardio for Beginners with NGF — 68-day home cardio program"
+          : "Cardio for Beginners with NGF — Chương trình cardio 68 ngày tại nhà";
+      try {
+        localStorage.setItem(KEY, lang);
+      } catch (e) {}
+    };
+    window.setLang(detect());
+  })();
+</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="theme-color" content="#FDFBF7" />
+<meta name="description" content="Cardio for Beginners with NGF — chương trình cardio 68 ngày cho người mới bắt đầu, tập tại nhà, không dụng cụ. 3 ngày dùng thử miễn phí." />
+<link rel="canonical" href="https://norastudies.com/cardio/" />
+<link rel="icon" href="./assets/favicon.png" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&display=swap" rel="stylesheet" />
+<title>Cardio for Beginners with NGF</title>
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="NoraStudies" />
+<meta property="og:url" content="https://norastudies.com/cardio/" />
+<meta property="og:title" content="Cardio for Beginners with NGF — chương trình cardio 68 ngày tại nhà" />
+<meta property="og:description" content="Chương trình cardio 68 ngày cho người mới bắt đầu, tập tại nhà, không dụng cụ. 3 ngày dùng thử miễn phí." />
+<meta property="og:image" content="https://norastudies.com/cardio/assets/icon.png" />
+<meta property="og:locale" content="vi_VN" />
+<meta property="og:locale:alternate" content="en_US" />
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "Cardio for Beginners with NGF",
+  "url": "https://norastudies.com/cardio/",
+  "image": "https://norastudies.com/cardio/assets/icon.png",
+  "applicationCategory": "HealthApplication",
+  "operatingSystem": "iOS",
+  "description": "Chương trình cardio 68 ngày cho người mới bắt đầu, tập tại nhà, không cần dụng cụ, có video hướng dẫn cho từng buổi tập.",
+  "inLanguage": ["vi", "en"],
+  "offers": {
+    "@type": "Offer",
+    "price": "199000",
+    "priceCurrency": "VND",
+    "category": "subscription",
+    "description": "Dùng thử miễn phí 3 ngày, sau đó 199.000đ mỗi năm"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "NoraStudies",
+    "url": "https://norastudies.com",
+    "email": "mailto:nguyenthaiha1212@gmail.com"
+  }
+}
+</script>
+<style>
+  :root {
+    --accent: #D1352B;
+    --accent-pressed: #A82419;
+    --blush: #FBEAE6;
+    --blush-text: #A82419;
+    --ink: #2B2320;
+    --brown: #5C4F47;
+    --brown-muted: #9A928C;
+    --cream: #FDFBF7;
+    --cream-deep: #F3ECE3;
+    --border: #E8E0D5;
+    --success: #7A9471;
+    --white: #FFFFFF;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    background: var(--cream);
+    color: var(--ink);
+    font-family: "Be Vietnam Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+  [data-lang="vi"] [data-en] { display: none !important; }
+  [data-lang="en"] [data-vi] { display: none !important; }
+
+  a { color: inherit; }
+  img { max-width: 100%; display: block; }
+  .wrap {
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  .section { padding: 72px 0; }
+  .section-narrow { max-width: 760px; margin: 0 auto; }
+  h1, h2, h3 { font-weight: 700; margin: 0; }
+  p { margin: 0; }
+  .eyebrow {
+    color: var(--accent);
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+  }
+  .section-title {
+    font-size: 30px;
+    margin-bottom: 14px;
+  }
+  .section-lead {
+    color: var(--brown);
+    font-size: 16px;
+    max-width: 640px;
+  }
+  .center { text-align: center; margin-left: auto; margin-right: auto; }
+
+  /* ---------- Parent-site bar ---------- */
+  .parent-bar {
+    background: var(--cream-deep);
+    border-bottom: 1px solid var(--border);
+    font-size: 12.5px;
+    color: var(--brown);
+  }
+  .parent-bar-inner {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 7px 20px;
+    flex-wrap: wrap;
+  }
+  .parent-bar a {
+    color: var(--brown);
+    text-decoration: none;
+    font-weight: 600;
+  }
+  .parent-bar a:hover { color: var(--accent); }
+  .parent-sep { color: var(--brown-muted); }
+
+  /* ---------- Header ---------- */
+  header.site {
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    background: var(--cream);
+    border-bottom: 1px solid var(--border);
+  }
+  .nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 20px;
+    max-width: 1080px;
+    margin: 0 auto;
+    gap: 16px;
+  }
+  .brand {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-weight: 700;
+    font-size: 16px;
+    text-decoration: none;
+    color: var(--ink);
+  }
+  .brand svg { flex-shrink: 0; }
+  .nav-links {
+    display: flex;
+    gap: 24px;
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--brown);
+  }
+  .nav-links a { text-decoration: none; }
+  .nav-links a:hover { color: var(--accent); }
+  .nav-right {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .lang-toggle {
+    display: flex;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    overflow: hidden;
+  }
+  .lang-toggle button {
+    border: none;
+    background: transparent;
+    color: var(--brown);
+    font-family: inherit;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 6px 12px;
+    cursor: pointer;
+  }
+  [data-lang="vi"] .lang-toggle button[data-set="vi"],
+  [data-lang="en"] .lang-toggle button[data-set="en"] {
+    background: var(--accent);
+    color: var(--white);
+  }
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 12px 20px;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 14px;
+    text-decoration: none;
+    border: 1px solid transparent;
+    cursor: pointer;
+  }
+  .btn-store {
+    background: var(--ink);
+    color: var(--white);
+  }
+  .btn-store:hover { background: #000; }
+  .btn-outline {
+    background: transparent;
+    color: var(--ink);
+    border-color: var(--border);
+  }
+  .btn-outline:hover { border-color: var(--accent); color: var(--accent); }
+  .nav .btn { padding: 9px 16px; font-size: 13px; }
+
+  /* ---------- Hero ---------- */
+  .hero {
+    padding: 64px 0 40px;
+  }
+  .hero-grid {
+    display: grid;
+    grid-template-columns: 1.1fr 0.9fr;
+    gap: 48px;
+    align-items: center;
+  }
+  .hero h1 {
+    font-size: 42px;
+    line-height: 1.15;
+    margin-bottom: 18px;
+  }
+  .hero p.lead {
+    color: var(--brown);
+    font-size: 17px;
+    margin-bottom: 28px;
+    max-width: 480px;
+  }
+  .hero-ctas {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-bottom: 20px;
+  }
+  .hero-note {
+    font-size: 13px;
+    color: var(--brown-muted);
+  }
+  .hero-visual {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .hero-badge {
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-radius: 28px;
+    padding: 48px 32px;
+    width: 100%;
+    max-width: 340px;
+    text-align: center;
+    box-shadow: 0 30px 60px -30px rgba(43, 35, 32, 0.25);
+  }
+  .hero-badge .flower-big { margin: 0 auto 18px; }
+  .hero-badge strong { display: block; font-size: 20px; margin-bottom: 6px; }
+  .hero-badge span.tag {
+    display: inline-block;
+    background: var(--blush);
+    color: var(--blush-text);
+    font-size: 12px;
+    font-weight: 700;
+    padding: 4px 10px;
+    border-radius: 999px;
+    margin-top: 10px;
+  }
+
+  /* ---------- Video ---------- */
+  .video-frame {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    border-radius: 16px;
+    overflow: hidden;
+    border: 1px solid var(--border);
+    background: var(--cream-deep);
+    margin-top: 28px;
+  }
+  .video-frame iframe {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+  }
+
+  /* ---------- Who it's for ---------- */
+  .band {
+    background: var(--white);
+    border-top: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+  }
+
+  /* ---------- Program steps ---------- */
+  .steps {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    margin-top: 32px;
+  }
+  .step-card {
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 24px;
+  }
+  .step-num {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    border-radius: 999px;
+    background: var(--blush);
+    color: var(--blush-text);
+    font-weight: 700;
+    font-size: 14px;
+    margin-bottom: 14px;
+  }
+  .step-card h3 { font-size: 16px; margin-bottom: 8px; }
+  .step-card p { color: var(--brown); font-size: 14px; }
+
+  /* ---------- Features ---------- */
+  .features {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    margin-top: 32px;
+  }
+  .feature-card {
+    padding: 24px;
+    border-radius: 16px;
+    border: 1px solid var(--border);
+    background: var(--cream);
+  }
+  .feature-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 12px;
+    background: var(--blush);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 14px;
+  }
+  .feature-card h3 { font-size: 15px; margin-bottom: 6px; }
+  .feature-card p { color: var(--brown); font-size: 13px; line-height: 1.55; }
+
+  /* ---------- Pricing ---------- */
+  .price-card {
+    max-width: 420px;
+    margin: 32px auto 0;
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 32px;
+    text-align: center;
+  }
+  .price-trial {
+    display: inline-block;
+    background: var(--success);
+    color: var(--white);
+    font-size: 12px;
+    font-weight: 700;
+    padding: 5px 12px;
+    border-radius: 999px;
+    margin-bottom: 16px;
+  }
+  .price-amount {
+    font-size: 40px;
+    font-weight: 700;
+    color: var(--accent);
+  }
+  .price-amount sub {
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--brown);
+  }
+  .price-terms {
+    color: var(--brown);
+    font-size: 13px;
+    margin: 14px 0 24px;
+    line-height: 1.6;
+  }
+
+  /* ---------- FAQ ---------- */
+  .faq-item {
+    border-bottom: 1px solid var(--border);
+    padding: 20px 0;
+  }
+  .faq-item h3 { font-size: 16px; margin-bottom: 8px; }
+  .faq-item p { color: var(--brown); font-size: 14px; }
+
+  /* ---------- Footer ---------- */
+  footer.site {
+    border-top: 1px solid var(--border);
+    background: var(--white);
+    padding: 40px 0 28px;
+  }
+  .footer-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 24px;
+    margin-bottom: 24px;
+  }
+  .footer-brand p {
+    color: var(--brown);
+    font-size: 13px;
+    margin-top: 8px;
+    max-width: 320px;
+  }
+  .footer-links {
+    display: flex;
+    gap: 20px;
+    font-size: 13px;
+    font-weight: 600;
+  }
+  .footer-links a { text-decoration: none; color: var(--brown); }
+  .footer-links a:hover { color: var(--accent); }
+  .footer-bottom {
+    color: var(--brown-muted);
+    font-size: 12px;
+    border-top: 1px solid var(--border);
+    padding-top: 18px;
+  }
+
+  @media (max-width: 860px) {
+    .hero-grid { grid-template-columns: 1fr; }
+    .hero-visual { order: -1; }
+    .steps, .features { grid-template-columns: 1fr; }
+    .hero h1 { font-size: 32px; }
+    .nav-links { display: none; }
+    .nav .btn-store { display: none; }
+    .nav { padding: 12px 16px; }
+  }
+  @media (max-width: 420px) {
+    .section { padding: 48px 0; }
+    .hero { padding: 40px 0 32px; }
+    .brand span { font-size: 15px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="parent-bar">
+  <div class="wrap parent-bar-inner">
+    <a href="../">← NoraStudies</a>
+    <span class="parent-sep">·</span>
+    <span data-vi>Sản phẩm: Cardio for Beginners with NGF</span>
+    <span data-en>Product: Cardio for Beginners with NGF</span>
+  </div>
+</div>
+
+<header class="site">
+  <div class="nav">
+    <a class="brand" href="#top">
+      <svg width="28" height="28" viewBox="0 0 100 100" aria-hidden="true"><g transform="translate(50,50)"><path d="M0,0 C-12.75,-9.35 -12.75,-26.35 0,-34 C12.75,-26.35 12.75,-9.35 0,0 Z" transform="rotate(45)" fill="#D1352B"/><path d="M0,0 C-12.75,-9.35 -12.75,-26.35 0,-34 C12.75,-26.35 12.75,-9.35 0,0 Z" transform="rotate(135)" fill="#D1352B"/><path d="M0,0 C-12.75,-9.35 -12.75,-26.35 0,-34 C12.75,-26.35 12.75,-9.35 0,0 Z" transform="rotate(225)" fill="#D1352B"/><path d="M0,0 C-12.75,-9.35 -12.75,-26.35 0,-34 C12.75,-26.35 12.75,-9.35 0,0 Z" transform="rotate(315)" fill="#D1352B"/><circle r="7.5" fill="#FBEAE6"/></g></svg>
+      <span>Cardio for Beginners</span>
+    </a>
+    <nav class="nav-links">
+      <a href="#features"><span data-vi>Tính năng</span><span data-en>Features</span></a>
+      <a href="#program"><span data-vi>Lộ trình</span><span data-en>Program</span></a>
+      <a href="#pricing"><span data-vi>Giá</span><span data-en>Pricing</span></a>
+      <a href="#faq">FAQ</a>
+      <a href="#contact"><span data-vi>Liên hệ</span><span data-en>Contact</span></a>
+    </nav>
+    <div class="nav-right">
+      <div class="lang-toggle" role="group" aria-label="Language">
+        <button type="button" data-set="vi" onclick="setLang('vi')">VI</button>
+        <button type="button" data-set="en" onclick="setLang('en')">EN</button>
+      </div>
+      <a class="btn btn-store" href="https://apps.apple.com/app/idXXXXXXXXXX">
+        <span data-vi>Tải App</span><span data-en>Get the App</span>
+      </a>
+    </div>
+  </div>
+</header>
+
+<main id="top">
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div>
+        <p class="eyebrow"><span data-vi>Cardio tại nhà · 68 ngày</span><span data-en>Home cardio · 68 days</span></p>
+        <h1>
+          <span data-vi>Cardio 68 Ngày, Không Cần Dụng Cụ</span>
+          <span data-en>68 Days of Cardio, Zero Equipment</span>
+        </h1>
+        <p class="lead">
+          <span data-vi>Chương trình cardio cho người mới bắt đầu — tập tại nhà, không dụng cụ, không phòng gym. Video hướng dẫn từng bài, mở khóa lần lượt theo đúng tiến độ của bạn.</span>
+          <span data-en>A beginner-friendly cardio program you can do at home — no equipment, no gym. A guided video for every session, unlocked step by step as you go.</span>
+        </p>
+        <div class="hero-ctas">
+          <a class="btn btn-store" href="https://apps.apple.com/app/idXXXXXXXXXX">
+            <span data-vi>Tải trên App Store</span><span data-en>Download on the App Store</span>
+          </a>
+          <a class="btn btn-outline" href="#video">
+            <span data-vi>Xem giới thiệu</span><span data-en>Watch the intro</span>
+          </a>
+        </div>
+        <p class="hero-note">
+          <span data-vi>Dùng thử 3 ngày miễn phí · Sau đó 199.000đ/năm</span>
+          <span data-en>Free 3-day trial · Then 199,000₫/year</span>
+        </p>
+      </div>
+      <div class="hero-visual">
+        <div class="hero-badge">
+          <svg class="flower-big" width="72" height="72" viewBox="0 0 100 100" aria-hidden="true"><g transform="translate(50,50)"><path d="M0,0 C-12.75,-9.35 -12.75,-26.35 0,-34 C12.75,-26.35 12.75,-9.35 0,0 Z" transform="rotate(45)" fill="#D1352B"/><path d="M0,0 C-12.75,-9.35 -12.75,-26.35 0,-34 C12.75,-26.35 12.75,-9.35 0,0 Z" transform="rotate(135)" fill="#D1352B"/><path d="M0,0 C-12.75,-9.35 -12.75,-26.35 0,-34 C12.75,-26.35 12.75,-9.35 0,0 Z" transform="rotate(225)" fill="#D1352B"/><path d="M0,0 C-12.75,-9.35 -12.75,-26.35 0,-34 C12.75,-26.35 12.75,-9.35 0,0 Z" transform="rotate(315)" fill="#D1352B"/><circle r="7.5" fill="#FBEAE6"/></g></svg>
+          <strong>Cardio for Beginners</strong>
+          <span data-vi>với NGF</span><span data-en>with NGF</span>
+          <div>
+            <span class="tag"><span data-vi>68 ngày · Không dụng cụ</span><span data-en>68 days · No equipment</span></span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Video -->
+  <section class="section" id="video">
+    <div class="wrap section-narrow center">
+      <p class="eyebrow"><span data-vi>Video giới thiệu</span><span data-en>Intro video</span></p>
+      <h2 class="section-title"><span data-vi>Xem giới thiệu chương trình</span><span data-en>Watch the program intro</span></h2>
+      <p class="section-lead center">
+        <span data-vi>Đoạn giới thiệu Cardio for Beginners, thực hiện cùng đối tác NGF.</span>
+        <span data-en>An introduction to Cardio for Beginners, made together with our partner NGF.</span>
+      </p>
+      <div class="video-frame">
+        <iframe
+          src="https://customer-tbvzt30q3lv7mget.cloudflarestream.com/6d346a2e8a6149bd0cb01656d47bc6d8/iframe"
+          allow="accelerate-downloads; encrypted-media; picture-in-picture;"
+          allowfullscreen="true"
+          loading="lazy"
+        ></iframe>
+      </div>
+    </div>
+  </section>
+
+  <!-- Who it's for -->
+  <section class="band">
+    <div class="wrap section" style="padding-top:56px; padding-bottom:56px;">
+      <div class="section-narrow center">
+        <p class="eyebrow"><span data-vi>Dành cho ai?</span><span data-en>Who is this for?</span></p>
+        <h2 class="section-title">
+          <span data-vi>Bắt đầu lại từ đầu, đúng nhịp độ của bạn</span>
+          <span data-en>Start from zero, at your own pace</span>
+        </h2>
+        <p class="section-lead center">
+          <span data-vi>Dành cho người chưa từng tập cardio hoặc mới quay lại tập luyện sau thời gian dài không vận động. Độ khó tăng dần theo tuần, có bài kiểm tra thể lực đầu kỳ, giữa kỳ và cuối kỳ để theo dõi tiến bộ thật — không phải cảm tính.</span>
+          <span data-en>For anyone who's never done a cardio program before, or is easing back into training after time away. Difficulty increases gradually week by week, with fitness tests at the start, middle, and end so you can track real progress — not just a feeling.</span>
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Program -->
+  <section class="section" id="program">
+    <div class="wrap">
+      <div class="section-narrow center">
+        <p class="eyebrow"><span data-vi>Lộ trình</span><span data-en>Program</span></p>
+        <h2 class="section-title">
+          <span data-vi>68 ngày, chia thành 2 giai đoạn</span>
+          <span data-en>68 days, split into 2 phases</span>
+        </h2>
+        <p class="section-lead center">
+          <span data-vi>Video hướng dẫn ghi rõ Ngày 0-33 nên app hiển thị lại đúng như vậy — Giai đoạn 2 lặp lại cấu trúc Giai đoạn 1 để bạn củng cố, không đếm ngày dồn tới 68 gây rối.</span>
+          <span data-en>The videos are labeled Day 0-33, so the app mirrors that exactly — Phase 2 repeats Phase 1's structure to reinforce what you learned, instead of a confusing running count to 68.</span>
+        </p>
+      </div>
+      <div class="steps">
+        <div class="step-card">
+          <span class="step-num">1</span>
+          <h3><span data-vi>Giai đoạn 1 — Ngày 0-33</span><span data-en>Phase 1 — Day 0-33</span></h3>
+          <p>
+            <span data-vi>Fit Test đầu kỳ, bài Beginner rồi Intermediate, xen kẽ ngày nghỉ phục hồi, kết thúc bằng Fit Test giữa kỳ.</span>
+            <span data-en>Initial Fit Test, Beginner then Intermediate blocks with rest days built in, closing with the midpoint Fit Test.</span>
+          </p>
+        </div>
+        <div class="step-card">
+          <span class="step-num">2</span>
+          <h3><span data-vi>Giai đoạn 2 — Ngày 0-33 (lặp lại)</span><span data-en>Phase 2 — Day 0-33 (repeated)</span></h3>
+          <p>
+            <span data-vi>Đúng cấu trúc Giai đoạn 1 để bạn củng cố thành quả, kết thúc bằng Fit Test cuối kỳ để so sánh tiến bộ so với lúc bắt đầu.</span>
+            <span data-en>The same structure as Phase 1 to lock in your progress, closing with the Final Fit Test to compare against where you started.</span>
+          </p>
+        </div>
+        <div class="step-card">
+          <span class="step-num">3</span>
+          <h3><span data-vi>Tập lại bao nhiêu lượt cũng được</span><span data-en>Repeat as many laps as you like</span></h3>
+          <p>
+            <span data-vi>Xong 1 lượt 68 ngày, nhận huy chương Đồng/Bạc/Vàng/Bạch Kim/Kim Cương và có thể bắt đầu lượt mới — video quay lại như mới.</span>
+            <span data-en>Finish a 68-day lap, earn a Bronze/Silver/Gold/Platinum/Diamond medal, then start a new lap with the videos reset as new.</span>
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Features -->
+  <section class="band" id="features">
+    <div class="wrap section">
+      <div class="section-narrow center">
+        <p class="eyebrow"><span data-vi>Tính năng</span><span data-en>Features</span></p>
+        <h2 class="section-title">
+          <span data-vi>Đủ để bắt đầu, không cần gì thêm</span>
+          <span data-en>Everything you need, nothing extra</span>
+        </h2>
+      </div>
+      <div class="features">
+        <div class="feature-card">
+          <div class="feature-icon">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none"><path d="M8 5.5v13l11-6.5-11-6.5z" fill="#D1352B"/></svg>
+          </div>
+          <h3><span data-vi>Video mở khóa dần</span><span data-en>Step-by-step unlocked videos</span></h3>
+          <p>
+            <span data-vi>Mỗi bài mở khóa sau khi hoàn thành bài trước, phải xem ít nhất 85% video mới tính hoàn thành — tập đúng, không bỏ dở giữa chừng.</span>
+            <span data-en>Each session unlocks after the previous one is done, and you must watch at least 85% of the video to complete it — no skipping ahead.</span>
+          </p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none"><path d="M3 12h3.5l2-6 3 12 2-9 1.5 3H21" stroke="#D1352B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </div>
+          <h3><span data-vi>Dự đoán TDEE, BMI, cân nặng</span><span data-en>TDEE, BMI & weight prediction</span></h3>
+          <p>
+            <span data-vi>Nhập chiều cao/cân nặng, app tính TDEE, BMI và dự đoán tham khảo thay đổi cân nặng theo mục tiêu giảm cân, tăng cân hoặc tăng cơ.</span>
+            <span data-en>Enter your height and weight to get TDEE, BMI, and a reference projection for your weight-loss, weight-gain, or muscle-building goal.</span>
+          </p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none"><rect x="4" y="5.5" width="16" height="15" rx="2" stroke="#D1352B" stroke-width="2"/><path d="M4 10h16" stroke="#D1352B" stroke-width="2"/><path d="M8 3.5v4M16 3.5v4" stroke="#D1352B" stroke-width="2" stroke-linecap="round"/></svg>
+          </div>
+          <h3><span data-vi>Lịch tập &amp; nhắc lịch thông minh</span><span data-en>Smart schedule & reminders</span></h3>
+          <p>
+            <span data-vi>Chọn 1 ngày bắt đầu, lịch tự xếp tới cuối chương trình; tự né 5 ngày trong kỳ kinh nguyệt nếu bạn muốn.</span>
+            <span data-en>Pick a start date and the rest of the schedule lines up automatically; optionally skips 5 days for your period, too.</span>
+          </p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none"><path d="M7 4h10v5a5 5 0 0 1-10 0V4z" stroke="#D1352B" stroke-width="2" stroke-linejoin="round"/><path d="M7 5H4v2a3 3 0 0 0 3 3M17 5h3v2a3 3 0 0 1-3 3" stroke="#D1352B" stroke-width="2" stroke-linecap="round"/><path d="M12 14v3M9 20h6M10 17h4v3h-4v-3z" stroke="#D1352B" stroke-width="2" stroke-linejoin="round"/></svg>
+          </div>
+          <h3><span data-vi>Bảng xếp hạng ẩn danh</span><span data-en>Anonymous leaderboard</span></h3>
+          <p>
+            <span data-vi>Không cần email hay số điện thoại. Chỉ cần 1 biệt danh để vào bảng xếp hạng toàn cầu hoặc theo quốc gia.</span>
+            <span data-en>No email or phone number needed. Just a nickname to join the global or country leaderboard.</span>
+          </p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="8.5" stroke="#D1352B" stroke-width="2"/><path d="M3.5 12h17M12 3.5c2.5 2.3 3.8 5.3 3.8 8.5s-1.3 6.2-3.8 8.5c-2.5-2.3-3.8-5.3-3.8-8.5s1.3-6.2 3.8-8.5z" stroke="#D1352B" stroke-width="2"/></svg>
+          </div>
+          <h3><span data-vi>Song ngữ Việt/Anh</span><span data-en>Vietnamese/English</span></h3>
+          <p>
+            <span data-vi>Đổi ngôn ngữ ngay trong app, không cần cài lại, tự nhận diện theo máy khi mở lần đầu.</span>
+            <span data-en>Switch languages instantly in the app, with automatic detection based on your device the first time you open it.</span>
+          </p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none"><path d="M12 3l7 3v5c0 5-3.4 8.4-7 10-3.6-1.6-7-5-7-10V6l7-3z" stroke="#D1352B" stroke-width="2" stroke-linejoin="round"/></svg>
+          </div>
+          <h3><span data-vi>Không quảng cáo, không theo dõi</span><span data-en>No ads, no tracking</span></h3>
+          <p>
+            <span data-vi>Không SDK quảng cáo bên thứ ba, không bán dữ liệu người dùng cho bất kỳ ai.</span>
+            <span data-en>No third-party ad SDKs, and we never sell your data to anyone.</span>
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Pricing -->
+  <section class="section" id="pricing">
+    <div class="wrap section-narrow center">
+      <p class="eyebrow"><span data-vi>Giá</span><span data-en>Pricing</span></p>
+      <h2 class="section-title">
+        <span data-vi>Dùng thử miễn phí, giá rõ ràng</span>
+        <span data-en>Free to try, transparent pricing</span>
+      </h2>
+      <div class="price-card">
+        <span class="price-trial"><span data-vi>3 NGÀY DÙNG THỬ MIỄN PHÍ</span><span data-en>3-DAY FREE TRIAL</span></span>
+        <div class="price-amount">
+          <span data-vi>199.000đ</span><span data-en>199,000₫</span>
+          <sub>/ <span data-vi>năm</span><span data-en>year</span></sub>
+        </div>
+        <p class="price-terms">
+          <span data-vi>Mở khóa toàn bộ tính năng ngay từ đầu, kể cả dự đoán chỉ số cơ thể. Sau khi hết dùng thử, tự động gia hạn theo đúng mức giá này mỗi năm — hủy bất kỳ lúc nào trong Cài đặt &gt; Apple ID &gt; Đăng ký.</span>
+          <span data-en>Every feature unlocked from day one, including body metrics prediction. After your trial, it renews automatically at this same price each year — cancel anytime in Settings &gt; Apple ID &gt; Subscriptions.</span>
+        </p>
+        <a class="btn btn-store" href="https://apps.apple.com/app/idXXXXXXXXXX" style="width:100%; justify-content:center;">
+          <span data-vi>Tải trên App Store</span><span data-en>Download on the App Store</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section class="band" id="faq">
+    <div class="wrap section section-narrow">
+      <p class="eyebrow center"><span data-vi>Câu hỏi thường gặp</span><span data-en>FAQ</span></p>
+      <h2 class="section-title center">
+        <span data-vi>Hỏi đáp nhanh</span>
+        <span data-en>Quick answers</span>
+      </h2>
+      <div style="margin-top:28px;">
+        <div class="faq-item">
+          <h3><span data-vi>App có tính phí không?</span><span data-en>Is the app paid?</span></h3>
+          <p>
+            <span data-vi>Dùng thử miễn phí 3 ngày, mở khóa toàn bộ tính năng kể cả dự đoán chỉ số cơ thể. Sau đó, gói Premium 199.000đ/năm, tự động gia hạn theo đúng mức giá này, hủy bất kỳ lúc nào trong Cài đặt App Store.</span>
+            <span data-en>A free 3-day trial with every feature unlocked, including body metrics prediction. After that, Premium is 199,000₫/year, auto-renewing at the same price, cancel anytime in App Store Settings.</span>
+          </p>
+        </div>
+        <div class="faq-item">
+          <h3><span data-vi>Có cần đăng ký tài khoản bằng email không?</span><span data-en>Do I need to sign up with an email?</span></h3>
+          <p>
+            <span data-vi>Không. Bạn chỉ cần chọn một biệt danh ẩn danh để bắt đầu — không cần email, số điện thoại hay bất kỳ thông tin định danh thật nào.</span>
+            <span data-en>No. Just pick an anonymous nickname to get started — no email, phone number, or real identifying information required.</span>
+          </p>
+        </div>
+        <div class="faq-item">
+          <h3><span data-vi>Chỉ số cơ thể trong app có phải tư vấn y khoa không?</span><span data-en>Are the body metrics medical advice?</span></h3>
+          <p>
+            <span data-vi>Không. TDEE, BMI và dự đoán cân nặng chỉ mang tính ước tính tham khảo dựa trên công thức tiêu chuẩn, không thay thế tư vấn của bác sĩ hoặc chuyên gia dinh dưỡng.</span>
+            <span data-en>No. TDEE, BMI, and weight predictions are reference estimates based on standard formulas — they don't replace advice from a doctor or nutritionist.</span>
+          </p>
+        </div>
+        <div class="faq-item">
+          <h3><span data-vi>Tôi có thể tập lại chương trình nhiều lần không?</span><span data-en>Can I repeat the program?</span></h3>
+          <p>
+            <span data-vi>Có. Sau khi hoàn thành trọn 1 lượt 68 ngày, bạn có thể bắt đầu lượt mới, video trở về như mới, mỗi lượt hoàn thành được ghi nhận bằng huy chương.</span>
+            <span data-en>Yes. After finishing a full 68-day lap, you can start a new one. Videos reset as new, and each completed lap is tracked with a medal.</span>
+          </p>
+        </div>
+      </div>
+
+      <p class="eyebrow center" style="margin-top:44px;"><span data-vi>Về sức khỏe và tập luyện</span><span data-en>About training and health</span></p>
+      <div style="margin-top:20px;">
+        <div class="faq-item">
+          <h3><span data-vi>Khóa tập có yêu cầu độ tuổi cụ thể không?</span><span data-en>Is there a minimum age?</span></h3>
+          <p>
+            <span data-vi>Chương trình phù hợp với người lớn. WHO khuyến nghị người lớn 18 đến 64 tuổi nên vận động cường độ vừa phải từ 150 đến 300 phút mỗi tuần, và bạn có thể chia đều số phút đó cho các buổi trong app.</span>
+            <span data-en>The program is built for adults. WHO recommends 150 to 300 minutes of moderate-intensity activity per week for adults aged 18 to 64, and the app's sessions let you spread that out across the week.</span>
+          </p>
+        </div>
+        <div class="faq-item">
+          <h3><span data-vi>Đang mang thai hoặc sau sinh có tập được không?</span><span data-en>Can I train while pregnant or postpartum?</span></h3>
+          <p>
+            <span data-vi>WHO khuyến nghị phụ nữ mang thai và sau sinh không có chống chỉ định nên duy trì vận động cường độ vừa phải. Với người sau sinh, hãy hỏi ý kiến bác sĩ trước khi quay lại tập, vì thời điểm phù hợp khác nhau ở mỗi người.</span>
+            <span data-en>WHO recommends that pregnant and postpartum women with no contraindications stay moderately active. If you're postpartum, check with your doctor before restarting, since the right timing varies by person.</span>
+          </p>
+        </div>
+        <div class="faq-item">
+          <h3><span data-vi>Tới kỳ kinh nguyệt có nên tập không?</span><span data-en>Should I train during my period?</span></h3>
+          <p>
+            <span data-vi>Vẫn tập bình thường được. Nếu bạn muốn nghỉ những ngày này, vào Lịch tập trong app và bật tùy chọn dự đoán ngày kinh, lịch sẽ tự dời các buổi tập sang sau.</span>
+            <span data-en>Training as usual is fine. If you'd rather skip those days, turn on period prediction under Schedule in the app, and it will automatically push your sessions back.</span>
+          </p>
+        </div>
+        <div class="faq-item">
+          <h3><span data-vi>Đang có bệnh mãn tính thì tập cardio được không?</span><span data-en>Can I train with a chronic condition?</span></h3>
+          <p>
+            <span data-vi>WHO khuyến nghị người có bệnh mãn tính như tăng huyết áp hoặc tiểu đường loại 2 vẫn nên vận động cường độ vừa phải khi sức khỏe cho phép. Hãy hỏi bác sĩ trước khi bắt đầu để chọn cường độ phù hợp với tình trạng của bạn.</span>
+            <span data-en>WHO recommends that people with chronic conditions such as hypertension or type 2 diabetes stay moderately active when their health allows it. Check with your doctor first to find the right intensity for your condition.</span>
+          </p>
+        </div>
+        <div class="faq-item">
+          <h3><span data-vi>Không có dụng cụ tập ở nhà thì sao?</span><span data-en>What if I don't have any home equipment?</span></h3>
+          <p>
+            <span data-vi>Không cần chuẩn bị dụng cụ nào cả. Toàn bộ 68 ngày dùng chính trọng lượng cơ thể, bạn chỉ cần một bộ trang phục thoải mái và một khoảng sàn trống.</span>
+            <span data-en>No equipment to buy. All 68 days use bodyweight movements, you just need comfortable clothes and a clear patch of floor.</span>
+          </p>
+        </div>
+        <div class="faq-item">
+          <h3><span data-vi>Nên ăn uống thế nào quanh buổi tập?</span><span data-en>What should I eat around a workout?</span></h3>
+          <p>
+            <span data-vi>Nếu bữa chính cách buổi tập 2 đến 3 tiếng thì cơ thể đã đủ năng lượng. Chưa kịp ăn thì lót dạ nhẹ 30 đến 60 phút trước khi tập, và bổ sung đạm trong 1 đến 2 tiếng sau khi tập.</span>
+            <span data-en>If your last meal was 2 to 3 hours before training, you already have enough energy. If not, have a light snack 30 to 60 minutes beforehand, and add some protein within 1 to 2 hours after.</span>
+          </p>
+        </div>
+        <div class="faq-item">
+          <h3><span data-vi>Tập vào giờ nào trong ngày là tốt nhất?</span><span data-en>What's the best time of day to train?</span></h3>
+          <p>
+            <span data-vi>Bất kỳ giờ nào phù hợp với lịch của bạn, sáng hay chiều đều không ảnh hưởng nhiều tới kết quả. Chỉ nên tránh tập trong khoảng 1 đến 2 tiếng trước giờ ngủ để cơ thể kịp thư giãn.</span>
+            <span data-en>Whatever time fits your schedule, morning or evening makes little difference to the result. Just avoid training in the 1 to 2 hours before bed so your body has time to wind down.</span>
+          </p>
+        </div>
+        <div class="faq-item">
+          <h3><span data-vi>Lỡ bỏ một buổi thì lịch tập có bị xáo trộn không?</span><span data-en>If I skip a day, does the schedule fall apart?</span></h3>
+          <p>
+            <span data-vi>Không. App chỉ theo dõi ngày bạn thực sự hoàn thành, nên buổi chưa tập vẫn nằm đó chờ bạn, và mọi ngày dự kiến phía sau tự dời theo mà không mất tiến độ đã có.</span>
+            <span data-en>No. The app only tracks the day you actually complete, so a skipped session just waits for you, and every date after it shifts automatically without losing your progress.</span>
+          </p>
+        </div>
+        <div class="faq-item">
+          <h3><span data-vi>Khi nào nên hỏi bác sĩ trước khi bắt đầu?</span><span data-en>When should I check with a doctor first?</span></h3>
+          <p>
+            <span data-vi>Nếu bạn có bệnh tim mạch nghiêm trọng, đang hồi phục sau chấn thương, hoặc có bệnh lý xương khớp nặng, hãy hỏi ý kiến bác sĩ trước khi bắt đầu chương trình này. Trong lúc tập, nếu thấy đau hoặc khó thở bất thường thì dừng lại ngay.</span>
+            <span data-en>If you have a serious heart condition, are recovering from an injury, or have a significant joint or bone condition, check with your doctor before starting. While training, stop right away if you feel unusual pain or shortness of breath.</span>
+          </p>
+        </div>
+      </div>
+      <p class="section-lead center" style="margin-top:20px; font-size:13px;">
+        <span data-vi>Nguồn: Tổ chức Y tế Thế giới (WHO), <a href="https://www.who.int/news-room/fact-sheets/detail/physical-activity" target="_blank" rel="noopener">who.int</a>. Nội dung mang tính tham khảo, không thay thế tư vấn y khoa.</span>
+        <span data-en>Source: World Health Organization (WHO), <a href="https://www.who.int/news-room/fact-sheets/detail/physical-activity" target="_blank" rel="noopener">who.int</a>. For reference only, not a substitute for medical advice.</span>
+      </p>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site" id="contact">
+  <div class="wrap">
+    <div class="footer-top">
+      <div class="footer-brand">
+        <a class="brand" href="#top">
+          <svg width="24" height="24" viewBox="0 0 100 100" aria-hidden="true"><g transform="translate(50,50)"><path d="M0,0 C-12.75,-9.35 -12.75,-26.35 0,-34 C12.75,-26.35 12.75,-9.35 0,0 Z" transform="rotate(45)" fill="#D1352B"/><path d="M0,0 C-12.75,-9.35 -12.75,-26.35 0,-34 C12.75,-26.35 12.75,-9.35 0,0 Z" transform="rotate(135)" fill="#D1352B"/><path d="M0,0 C-12.75,-9.35 -12.75,-26.35 0,-34 C12.75,-26.35 12.75,-9.35 0,0 Z" transform="rotate(225)" fill="#D1352B"/><path d="M0,0 C-12.75,-9.35 -12.75,-26.35 0,-34 C12.75,-26.35 12.75,-9.35 0,0 Z" transform="rotate(315)" fill="#D1352B"/><circle r="7.5" fill="#FBEAE6"/></g></svg>
+          <span>Cardio for Beginners with NGF</span>
+        </a>
+        <p>
+          <span data-vi>Chương trình gốc bởi NGF · Phát triển app bởi Nguyễn Thái Hà.<br/>Đà Nẵng, Việt Nam · <a href="mailto:nguyenthaiha1212@gmail.com">nguyenthaiha1212@gmail.com</a></span>
+          <span data-en>Original program by NGF · App built by Nguyễn Thái Hà.<br/>Đà Nẵng, Vietnam · <a href="mailto:nguyenthaiha1212@gmail.com">nguyenthaiha1212@gmail.com</a></span>
+        </p>
+      </div>
+      <div class="footer-links">
+        <a href="./privacy-policy.html"><span data-vi>Chính sách quyền riêng tư</span><span data-en>Privacy Policy</span></a>
+        <a href="./terms-of-service.html"><span data-vi>Điều khoản sử dụng</span><span data-en>Terms of Service</span></a>
+      </div>
+    </div>
+    <p class="footer-bottom">© 2026 Cardio for Beginners with NGF.
+      <span data-vi>Đã đăng ký bản quyền.</span><span data-en>All rights reserved.</span>
+    </p>
+  </div>
+</footer>
+
+</body>
+</html>

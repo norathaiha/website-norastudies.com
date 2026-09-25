@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Chính sách quyền riêng tư — Cardio for Beginners with NGF</title>
+<style>
+  :root {
+    --accent: #D1352B;
+    --ink: #2B2320;
+    --brown: #5C4F47;
+    --cream: #FDFBF7;
+    --border: #E8E0D5;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--cream);
+    color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+  }
+  .wrap {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 40px 20px 80px;
+  }
+  h1 {
+    font-size: 26px;
+    margin-bottom: 4px;
+  }
+  .effective-date {
+    color: var(--brown);
+    font-size: 14px;
+    margin-bottom: 32px;
+  }
+  h2 {
+    font-size: 18px;
+    margin-top: 36px;
+    margin-bottom: 12px;
+    color: var(--accent);
+  }
+  h3 {
+    font-size: 15px;
+    margin-top: 20px;
+    margin-bottom: 8px;
+  }
+  p, li { color: var(--ink); }
+  ul { padding-left: 20px; }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 16px 0;
+    font-size: 14px;
+  }
+  th, td {
+    border: 1px solid var(--border);
+    padding: 8px 10px;
+    text-align: left;
+  }
+  th { background: #F3ECE3; }
+  a { color: var(--accent); }
+  .back {
+    display: inline-block;
+    margin-bottom: 24px;
+    font-size: 14px;
+    color: var(--brown);
+    text-decoration: none;
+  }
+  strong { color: var(--ink); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <a class="back" href="./index.html">&larr; Trang chủ</a>
+  <h1>Chính sách quyền riêng tư</h1>
+  <p class="effective-date">Cardio for Beginners with NGF · Ngày hiệu lực: 24/09/2026</p>
+
+  <p>Cardio for Beginners with NGF ("chúng tôi", "app") tôn trọng quyền riêng tư của bạn. Tài liệu này giải thích chúng tôi thu thập, sử dụng và bảo vệ thông tin như thế nào.</p>
+
+  <h2>1. Thông tin chúng tôi thu thập</h2>
+
+  <h3>Lưu trên máy bạn (không gửi đi đâu)</h3>
+  <ul>
+    <li>Chỉ số cơ thể bạn tự nhập để tính TDEE/BMI: giới tính, tuổi, chiều cao, cân nặng, mức độ vận động</li>
+    <li>Lịch tập bạn chọn (ngày trong tuần, giờ nhắc)</li>
+    <li>Kết quả Fit Test bạn tự ghi lại (số lần thực hiện mỗi động tác)</li>
+    <li>Nếu bạn bật tùy chọn cá nhân hóa kỳ kinh nguyệt: mốc ngày bạn tự nhập để app tính lịch nghỉ — đây là dữ liệu sức khỏe nhạy cảm, hoàn toàn không gửi lên máy chủ, chỉ dùng để tính toán ngay trên máy bạn</li>
+  </ul>
+
+  <h3>Đồng bộ lên máy chủ (Firebase — Google Cloud)</h3>
+  <ul>
+    <li><strong>Biệt danh</strong> do bạn tự đặt (không phải tên thật)</li>
+    <li><strong>Quốc gia</strong> bạn tự chọn</li>
+    <li><strong>Tiến độ tập luyện</strong> (những ngày đã hoàn thành) — dùng để hiển thị bảng xếp hạng</li>
+    <li>Một <strong>mã định danh ẩn danh</strong> (UID) do Firebase tự sinh khi bạn bắt đầu dùng app — không gắn với tên thật, email hay số điện thoại</li>
+  </ul>
+
+  <h3>Chúng tôi KHÔNG thu thập</h3>
+  <ul>
+    <li>Email, số điện thoại, tên thật</li>
+    <li>Vị trí GPS chính xác</li>
+    <li>Danh bạ, ảnh, camera (ngoài việc phát video bài tập)</li>
+    <li>Không có quảng cáo, không có SDK theo dõi quảng cáo bên thứ ba</li>
+  </ul>
+
+  <h2>2. Vì sao chúng tôi thu thập những dữ liệu này</h2>
+  <ul>
+    <li>Biệt danh + quốc gia + tiến độ: để hiển thị <strong>bảng xếp hạng</strong></li>
+    <li>Chỉ số cơ thể: để tính <strong>TDEE, BMI, dự đoán tham khảo</strong> cân nặng theo thời gian</li>
+    <li>Lịch tập: để <strong>nhắc lịch tập</strong> qua thông báo trên máy bạn</li>
+  </ul>
+
+  <h2>3. Chia sẻ với bên thứ ba</h2>
+  <table>
+    <tr><th>Bên thứ ba</th><th>Dữ liệu gì</th><th>Mục đích</th></tr>
+    <tr><td>Firebase (Google)</td><td>Biệt danh, quốc gia, tiến độ, UID ẩn danh</td><td>Lưu trữ, đồng bộ, bảng xếp hạng</td></tr>
+    <tr><td>Cloudflare Stream</td><td>Địa chỉ IP, log truy cập (tiêu chuẩn của mọi CDN video)</td><td>Phát video bài tập</td></tr>
+    <tr><td>Apple (App Store) / RevenueCat</td><td>Thông tin giao dịch mua gói Premium (xử lý qua StoreKit của Apple)</td><td>Quản lý gói đăng ký, không bao gồm số thẻ ngân hàng</td></tr>
+  </table>
+  <p>Chúng tôi <strong>không bán</strong> dữ liệu người dùng cho bất kỳ ai.</p>
+
+  <h2>4. Bảo mật</h2>
+  <p>Dữ liệu trên Firestore được bảo vệ bằng security rules: chỉ chính bạn (qua UID ẩn danh) mới ghi/sửa được dữ liệu của mình; người dùng khác chỉ xem được biệt danh, quốc gia và tiến độ (phần công khai cho bảng xếp hạng), không xem được dữ liệu khác.</p>
+
+  <h2>5. Quyền của bạn</h2>
+  <p>Vì tài khoản là ẩn danh, bạn có thể tự xóa toàn bộ dữ liệu bất cứ lúc nào ngay trong app, tại Cài đặt &gt; Xóa tài khoản — không cần liên hệ ai. Nếu cần hỗ trợ thêm, liên hệ <a href="mailto:nguyenthaiha1212@gmail.com">nguyenthaiha1212@gmail.com</a>.</p>
+
+  <h2>6. Trẻ em</h2>
+  <p>App không hướng tới người dùng dưới 16 tuổi và không cố ý thu thập dữ liệu từ trẻ em dưới 13 tuổi.</p>
+
+  <h2>7. Miễn trừ y tế</h2>
+  <p>Các chỉ số TDEE, BMI và dự đoán cân nặng chỉ mang tính <strong>ước tính tham khảo</strong>, không phải tư vấn y khoa. Tham khảo bác sĩ hoặc chuyên gia dinh dưỡng trước khi thay đổi chế độ ăn/tập luyện, đặc biệt nếu bạn có vấn đề sức khỏe.</p>
+
+  <h2>8. Thay đổi chính sách</h2>
+  <p>Chúng tôi có thể cập nhật chính sách này theo thời gian. Phiên bản mới nhất luôn có tại trang này.</p>
+
+  <h2>9. Liên hệ</h2>
+  <p>Mọi câu hỏi về quyền riêng tư, liên hệ: <a href="mailto:nguyenthaiha1212@gmail.com">nguyenthaiha1212@gmail.com</a></p>
+</div>
+</body>
+</html>

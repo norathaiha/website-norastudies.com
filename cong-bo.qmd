@@ -21,7 +21,7 @@ Tám bài tạp chí có bình duyệt và tám báo cáo hội thảo, giai đo
 ::: {.note}
 **Cách đọc danh mục.** Tên mình được in đậm và tô màu đỏ trong mỗi trích dẫn, để bạn nhận ra nhanh chóng vị trí của mình trong nhóm tác giả. Những bài mình giữ vai trò tác giả thứ nhất hoặc tác giả liên hệ đều có ghi chú riêng ngay bên dưới.
 
-Thứ tự tên tác giả trong mỗi bài do cả nhóm cùng thống nhất, và mình xin được ghi nhận đóng góp của tất cả các anh chị đồng tác giả trong những công trình này 🌾
+Thứ tự tên tác giả trong mỗi bài do cả nhóm cùng thống nhất, và mình xin được ghi nhận đóng góp của tất cả các anh chị đồng tác giả trong những công trình này <svg class="hoa-cham" aria-hidden="true"><use href="#hoa-cham"/></svg>
 :::
 
 ## Bài báo trên tạp chí có bình duyệt

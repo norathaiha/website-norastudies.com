@@ -35,7 +35,7 @@ Nguyễn Thái Hà · Nora Thai · Solo researcher
 # Mình quan sát một hiện tượng trong xã hội, đặt câu hỏi vì sao, tự đi tìm câu trả lời bằng dữ liệu, rồi kể lại câu chuyện ấy qua từng nghiên cứu
 
 ::: {.lede}
-Nghiên cứu viên tại Viện Nghiên cứu Kinh tế Xã hội, Đại học Duy Tân. Nghiên cứu sinh ngành Quản trị Kinh doanh tại Trường Đại học Kinh tế, Đại học Đà Nẵng. Trước đó làm marketing trực tiếp cho doanh nghiệp vừa và nhỏ. Sống và làm việc ở Đà Nẵng 🌾
+Nghiên cứu viên tại Viện Nghiên cứu Kinh tế Xã hội, Đại học Duy Tân. Nghiên cứu sinh ngành Quản trị Kinh doanh tại Trường Đại học Kinh tế, Đại học Đà Nẵng. Trước đó làm marketing trực tiếp cho doanh nghiệp vừa và nhỏ. Sống và làm việc ở Đà Nẵng <svg class="hoa-cham" aria-hidden="true"><use href="#hoa-cham"/></svg>
 :::
 
 :::
@@ -53,7 +53,7 @@ Công việc chính của mình là nghiên cứu viên tại Viện Nghiên c�
 Mình vào nghiên cứu sinh tháng 9 năm 2023. Dự kiến bảo vệ luận án cấp trường vào tháng 12 năm 2026 và nhận bằng trong năm 2027, tính từ lúc nhập học tới lúc nhận bằng là ba năm tám tháng.
 
 ::: {.note}
-**Solo researcher.** Mình hay tự gọi mình như vậy. Một người làm nghiên cứu, tự chọn câu hỏi, tự đi tìm câu trả lời, không nằm trong một nhóm lớn nào và cũng không chờ ai giao đề tài. Mình mong muốn vừa làm nghiên cứu vừa làm marketing trong thực tế, và vừa đồng hành với người khác dưới danh nghĩa Mentor trên con đường nghiên cứu của họ 🙂
+**Solo researcher.** Mình hay tự gọi mình như vậy. Một người làm nghiên cứu, tự chọn câu hỏi, tự đi tìm câu trả lời, không nằm trong một nhóm lớn nào và cũng không chờ ai giao đề tài. Mình mong muốn vừa làm nghiên cứu vừa làm marketing trong thực tế, và vừa đồng hành với người khác dưới danh nghĩa Mentor trên con đường nghiên cứu của họ <svg class="hoa-cham" aria-hidden="true"><use href="#hoa-cham"/></svg>
 :::
 
 ::: {.hoa}
@@ -71,7 +71,7 @@ Quãng thời gian ấy để lại bài học cũng như chiêm nghiệm cho m�
 
 Điều thứ hai này về sau lại là thứ giúp mình nhiều nhất khi làm nghiên cứu định tính. Một buổi phỏng vấn sâu đi được tới đâu phần lớn phụ thuộc vào việc người đối diện có thấy đủ an tâm để kể thật lòng hay không, và đó là chuyện của sự lắng nghe nhiều hơn là của kỹ thuật.
 
-Hiện tại mình làm việc ở khoảng giữa của hai thế giới đó. Mình nghiên cứu về marketing, và mình cũng đã từng trực tiếp làm marketing với đầy đủ những lần thành công lẫn những lần thất bại để rút kinh nghiệm. Nhờ vậy, khi bạn hỏi mình về một khái niệm trong mô hình nghiên cứu, mình có thể trả lời từ phía lý thuyết, đồng thời chỉ cho bạn thấy khái niệm ấy phản chiếu ra sao trong thực tiễn, và mối liên hệ giữa hai bên nằm ở đâu 🙂
+Hiện tại mình làm việc ở khoảng giữa của hai thế giới đó. Mình nghiên cứu về marketing, và mình cũng đã từng trực tiếp làm marketing với đầy đủ những lần thành công lẫn những lần thất bại để rút kinh nghiệm. Nhờ vậy, khi bạn hỏi mình về một khái niệm trong mô hình nghiên cứu, mình có thể trả lời từ phía lý thuyết, đồng thời chỉ cho bạn thấy khái niệm ấy phản chiếu ra sao trong thực tiễn, và mối liên hệ giữa hai bên nằm ở đâu <svg class="hoa-cham" aria-hidden="true"><use href="#hoa-cham"/></svg>
 
 ::: {.hoa}
 :::
@@ -131,7 +131,7 @@ Mình sống ở đây, nên mình bắt đầu quan sát từ chính nơi mình
 Mình cũng mong có dịp đưa những quan sát này ra khỏi phạm vi một quốc gia. Khi đặt một hiện tượng ở Đà Nẵng bên cạnh một thành phố có điều kiện tương đồng tại Malaysia, Thái Lan, Lào hay Campuchia, chúng ta sẽ thấy phần nào là đặc điểm chung của cả khu vực, và phần nào thật sự thuộc về bối cảnh văn hoá riêng của từng nơi. Đây chính là hướng nghiên cứu liên văn hoá, và nó thường giúp câu trả lời trở nên rõ ràng hơn so với việc chỉ khảo sát một địa bàn duy nhất.
 
 ::: {.note}
-**Nghiên cứu mình mong muốn theo đuổi không mang tính vĩ mô.** Quy mô của nó nhỏ, nhưng đi sâu vào chi tiết, và chạm tới những điều rất đỗi thường ngày trong đời sống. Bảy người kể lại câu chuyện của mình một cách kỹ lưỡng và chân thành sẽ cho mình nhiều hiểu biết hơn là bảy trăm phiếu khảo sát điền vội 🌾
+**Nghiên cứu mình mong muốn theo đuổi không mang tính vĩ mô.** Quy mô của nó nhỏ, nhưng đi sâu vào chi tiết, và chạm tới những điều rất đỗi thường ngày trong đời sống. Bảy người kể lại câu chuyện của mình một cách kỹ lưỡng và chân thành sẽ cho mình nhiều hiểu biết hơn là bảy trăm phiếu khảo sát điền vội <svg class="hoa-cham" aria-hidden="true"><use href="#hoa-cham"/></svg>
 :::
 
 ## Luận án mình đang làm
@@ -263,7 +263,7 @@ Mình không theo đuổi mẫu lớn và cũng không theo đuổi số lượn
 ::: {.note}
 **Tìm người cùng làm.** Nếu bạn cũng đang quan tâm những chủ đề về: người lao động yếu thế trước công nghệ, phụ nữ giữa thời siêu kết nối, du mục kỹ thuật số sống ở Việt Nam, hoặc nghiên cứu định tính quy mô nhỏ, và bạn thấy chúng ta nhìn nghề giống nhau, thì nhắn riêng cho mình.
 
-Mình đang tìm người để làm chung với tư cách đồng tác giả, không phải quan hệ mua bán dịch vụ. Mình sẽ sắp xếp và trao đổi riêng với bạn! 🙂
+Mình đang tìm người để làm chung với tư cách đồng tác giả, không phải quan hệ mua bán dịch vụ. Mình sẽ sắp xếp và trao đổi riêng với bạn! <svg class="hoa-cham" aria-hidden="true"><use href="#hoa-cham"/></svg>
 
 [Nhắn Messenger cho mình](https://m.me/norastudies){.cta-quiet}
 :::

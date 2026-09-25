@@ -70,6 +70,17 @@ body {
 
 ::selection { background: $blush; color: $ink; }
 
+// Cánh hoa anh túc dùng làm dấu chấm câu thay cho emoji (🙂 và 🌾), gọi bằng
+// <svg class="hoa-cham"><use href="#hoa-cham"/></svg>. Định nghĩa hình nằm trong tagline.html.
+.hoa-cham {
+  display: inline-block;
+  width: 0.8em;
+  height: 0.8em;
+  margin-inline-start: 0.2em;
+  vertical-align: -0.05em;
+  color: $poppy;
+}
+
 main.content {
   max-width: 780px;
   margin-inline: auto;

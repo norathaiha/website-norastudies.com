@@ -24,6 +24,22 @@ Sản phẩm
 Giá ghi bên dưới là giá mình thấy vào tháng 9 năm 2026. Shopee đổi giá và đổi chương trình khuyến mãi liên tục, nên bạn xem lại giá trên trang bán hàng trước khi đặt.
 :::
 
+## Ứng dụng di động
+
+::: {.card-grid}
+
+::: {.card .sac-xanh}
+[Ứng dụng di động]{.card-note}
+
+### Cardio for Beginners with NGF
+
+Chương trình cardio 68 ngày cho người mới bắt đầu, tập tại nhà và không cần dụng cụ nào. Mỗi buổi có video hướng dẫn riêng, ứng dụng tự xếp lịch quanh ngày bạn chọn bắt đầu, và có bản song ngữ Việt, Anh.
+
+[Xem trang ứng dụng](cardio/index.html){.cta-quiet}
+:::
+
+:::
+
 ## Tại sao lại đọc Giáo trình?
 
 Giáo trình viết để dạy trọn một môn học, nên nó đi theo trình tự và có định nghĩa cho từng khái niệm, kể cả những khái niệm mà người viết nghĩ là ai cũng biết rồi. Chỗ đó tiện cho người mới, và cũng tiện cho người đã làm nghề nhưng cần một cách gọi tên thống nhất khi muốn nhắc tới một khái niệm, hay một biến, hay một lý thuyết nào đó...

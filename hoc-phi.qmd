@@ -227,7 +227,7 @@ Học phí chưa gồm tiền bạn đăng ký gói AI hằng tháng, khoản đ
 ::: {.note}
 **Vì sao gói này không bán riêng.** Công cụ AI giúp được nhiều nhất khi bạn đã biết mình đang đi đâu. Lúc câu hỏi nghiên cứu còn chưa rõ, AI làm mọi thứ nhanh hơn, gồm cả những chỗ chưa đúng, và những chỗ đó lại khó nhận ra vì bản trả lời đọc rất trôi chảy.
 
-Nên mình chỉ bán gói này cho bạn nào đã đồng hành với mình từ hai chặng trở lên. Lúc đó bạn đã có đề tài, có khung nghiên cứu, và AI mới thật sự tiết kiệm thời gian cho bạn 🙂
+Nên mình chỉ bán gói này cho bạn nào đã đồng hành với mình từ hai chặng trở lên. Lúc đó bạn đã có đề tài, có khung nghiên cứu, và AI mới thật sự tiết kiệm thời gian cho bạn <svg class="hoa-cham" aria-hidden="true"><use href="#hoa-cham"/></svg>
 :::
 
 ::: {.hoa}
@@ -241,7 +241,7 @@ Lịch học do hai bên thoả thuận trực tiếp với nhau. Bạn bận đ
 
 Nhưng mỗi buổi mình đều để lại cho bạn một phần việc kèm hạn, và phần đó bạn cần làm xong để mình còn đọc và góp ý. Mình xin phép không nhận trường hợp học mà không thực hành, không phải vì mình khó tính, mà vì phần thực hành mới là chỗ bạn đi lên được, và mình mong bạn về tới đích chứ không chỉ đi hết số buổi.
 
-Bạn đi làm bận rộn, mình cũng bận rộn. Bạn có gia đình, con nhỏ, cha mẹ đau ốm, mình cũng vậy. Thôi thì hai bên cùng cố gắng, dìu nhau qua từng chặng 🌾
+Bạn đi làm bận rộn, mình cũng bận rộn. Bạn có gia đình, con nhỏ, cha mẹ đau ốm, mình cũng vậy. Thôi thì hai bên cùng cố gắng, dìu nhau qua từng chặng <svg class="hoa-cham" aria-hidden="true"><use href="#hoa-cham"/></svg>
 
 ## Thanh toán
 
@@ -262,7 +262,7 @@ Bạn đi làm bận rộn, mình cũng bận rộn. Bạn có gia đình, con n
 
 ## Chưa biết nên bắt đầu từ đâu?
 
-Bạn không phải tự chọn. Trong buổi nói chuyện 30 phút không thu phí, bạn kể mình nghe bạn đang ở đâu, rồi mình nói cho bạn biết nên vào từ chỗ nào. Có khi bạn chỉ cần một buổi ba triệu là tháo gỡ xong chứ chưa cần tới cả một chặng mười lăm triệu. Nếu mình thấy như vậy thì mình cũng chia sẻ thật với bạn như vậy 🙂
+Bạn không phải tự chọn. Trong buổi nói chuyện 30 phút không thu phí, bạn kể mình nghe bạn đang ở đâu, rồi mình nói cho bạn biết nên vào từ chỗ nào. Có khi bạn chỉ cần một buổi ba triệu là tháo gỡ xong chứ chưa cần tới cả một chặng mười lăm triệu. Nếu mình thấy như vậy thì mình cũng chia sẻ thật với bạn như vậy <svg class="hoa-cham" aria-hidden="true"><use href="#hoa-cham"/></svg>
 
 [Hẹn mình 30 phút nói chuyện](lien-he.qmd){.cta}
 [Đọc cách mình làm việc](liem-chinh.qmd){.cta-quiet}

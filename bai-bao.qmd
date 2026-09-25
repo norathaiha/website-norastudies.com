@@ -13,7 +13,7 @@ Bài báo Q1 và Q2 · Marketing, Quản trị Kinh doanh và các ngành gần
 # Nhiều bản thảo đã đủ chất liệu, chỉ là phần đóng góp chưa hiện ra rõ
 
 ::: {.lede}
-Nhiều bản thảo bị từ chối không phải vì phần nghiên cứu có vấn đề, mà vì phần đóng góp chưa được thể hiện rõ, mạch câu chuyện chưa nổi lên, hoặc vì tạp chí chọn chưa hợp với câu chuyện mà bài đang kể. Mình đồng hành với bạn ở cả hai chỗ đó 🙂
+Nhiều bản thảo bị từ chối không phải vì phần nghiên cứu có vấn đề, mà vì phần đóng góp chưa được thể hiện rõ, mạch câu chuyện chưa nổi lên, hoặc vì tạp chí chọn chưa hợp với câu chuyện mà bài đang kể. Mình đồng hành với bạn ở cả hai chỗ đó <svg class="hoa-cham" aria-hidden="true"><use href="#hoa-cham"/></svg>
 :::
 
 [Nhắn Messenger để trao đổi](https://m.me/norastudies){.cta}
@@ -197,7 +197,7 @@ Mình cũng làm việc được với cả hai lối tiếp cận, định tín
 
 Bạn nhắn cho mình, kể ngắn gọn bạn đang có sẵn những gì: một ý tưởng, một bộ dữ liệu, một bản thảo, hay một thư phản biện vừa nhận. Hai bên hẹn ba mươi phút nói chuyện, không thu phí, để mình xem có hỗ trợ được cho bạn hay không.
 
-Nếu mình thấy bản thảo của bạn đã đủ tốt để nộp mà chưa cần tới mentor, mình cũng chia sẻ luôn với bạn và chúc bạn nộp bài thật tốt 🌾
+Nếu mình thấy bản thảo của bạn đã đủ tốt để nộp mà chưa cần tới mentor, mình cũng chia sẻ luôn với bạn và chúc bạn nộp bài thật tốt <svg class="hoa-cham" aria-hidden="true"><use href="#hoa-cham"/></svg>
 
 [Nhắn Messenger cho mình](https://m.me/norastudies){.cta}
 [Nhắn WhatsApp](https://wa.me/84965849113){.cta-quiet}
